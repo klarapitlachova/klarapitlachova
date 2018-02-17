@@ -1,0 +1,111 @@
+@import "_colors_fonts"
+
+a
+  color: $base-color
+  text-decoration: underline
+  transition: 0.3s
+
+  &:hover, &:active
+    color: red
+
+  &:visited
+    color: $base-color
+
+img
+  display: block
+
+h1
+  font-family: $base-font
+  font-size: 1.8em
+  line-height: 1em
+  letter-spacing: 0.04em
+  color: #fff
+  margin: 0
+  text-shadow: 0px 0px 5px transparentize(#000, 0.5)
+  text-align: center
+
+  .sub-headline
+    font-size: 0.50em
+
+h2, h3
+  color: #195873
+
+h2.big-white
+  color: white
+  text-shadow: 0px 0px 5px transparentize(#000, 0.5)
+  font-size: 2.9em
+  line-height: 1em
+  letter-spacing: 0.04em
+
+hr
+  border: 0
+  height: 1px
+  background-color: #DCDCDC
+
+input
+  border: 0
+  padding: 10px 8px
+  font-size: 0.85em
+  font-family: $base-font
+  margin-bottom: 15px
+  display: block
+  width: 100%
+  max-width: 350px
+  background: white
+  box-sizing: border-box
+  color: #666
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.2)
+
+  &:first-child
+    margin-top: 35px
+
+input.submit-button
+  max-width: 175px
+  margin: 0 auto
+  transition: 0.3s
+  background: #FFF
+  cursor: pointer
+  position: relative
+  top: 0
+  float: left
+
+  &:hover, &:active
+    background: #DCDCDC
+
+  &:active
+    top: 5px
+
+textarea
+  border: 0
+  padding: 10px 8px
+  font-size: 0.85em
+  font-family: $base-font
+  margin-bottom: 20px
+  display: block
+  width: 100%
+  max-width: 350px
+  height: 120px
+  box-sizing: border-box
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.2)
+
+
+.black-bg
+  background-color: #fff
+  color: black
+
+table
+  border: 1px solid #DCDCDC
+  width: 100%
+
+  tr td
+    padding: 5px
+
+    &:nth-of-type(1)
+      background: hsl(90deg, 60%, 90%)
+      //background: hsl(198deg, 60%, 90%)
+
+  tr td.center
+    text-align: center
+
+.break-appear
+  display: none

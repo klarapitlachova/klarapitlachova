@@ -1,0 +1,210 @@
+@import "_colors_fonts"
+
+@media screen and (min-width: 40em)
+  h1
+    font-size: 2.9em
+
+  h2.big-white
+    color: white
+    text-shadow: 0px 0px 5px transparentize(#000, 0.5)
+    font-size: 2.9em
+    line-height: 1em
+    letter-spacing: 0.04em
+
+  #landing-page
+    height: 100vh
+    max-height: 570px
+    min-height: 420px
+
+    .header-margin-top
+      max-height: 250px
+      height: 15vh
+
+    .header-content
+      padding: 0px 50px
+      text-align: center
+
+      #mobile-portrait
+        width: 150px
+        float: left
+
+      p#phone-number
+        display: block
+        float: right
+        text-align: left
+        width: 300px
+        position: relative
+        margin-top: -20px
+        padding: 0px 30px
+        font-size: 1.2em
+        font-weight: 600
+        text-shadow: 0px 0px 10px transparentize(#000, 0.3)
+        opacity: 0
+
+      p#main-quotation
+        font-family: $base-font
+        font-size: $base-font-size
+        line-height: $base-line-height
+        letter-spacing: $base-letter-spacing
+        color: white
+        padding: 30px
+        text-align: left
+        float: right
+        width: 300px
+        margin-top: 40px
+        display: inline-block
+
+  #column-content
+    #messages-content
+      .message-pop
+        .message
+          padding: 25px 65px
+
+  .break-appear
+    display: inline
+
+@media screen and (min-width: 50em)
+
+
+  //navigation
+  #nav-mobile-bar
+    position: fixed
+    z-index: 9
+    width: 350px
+    transform: translate(-350px, 0)
+
+  #nav-hamburger, #close-nav
+    margin: 14px
+    width: 26px
+    height: 22px
+  button#nav-hamburger
+    position: fixed
+    margin: 14px 16px
+    left: 0
+
+  //menu-animations
+  #nav-mobile-bar.menu-closed
+    transform: translate(-350px, 0)
+    z-index: -1
+  #nav-mobile-bar.menu-opened
+    transform: translate(0, 0)
+    z-index: 99
+
+  #nav-hamburger.menu-closed
+    transform: translate(0, 0)
+  #nav-hamburger.menu-opened
+    transform: translate(0, 0)
+    z-index: 1
+
+  h1
+    font-size: 3.5em
+
+  #landing-page
+    min-height: 800px
+    .header-content
+      max-width: 720px
+
+      #mobile-portrait
+        margin-top: 80px
+        margin-left: 60px
+        width: 35%
+      p#phone-number
+        display: block
+        float: right
+        text-align: left
+        width: 300px
+        margin-top: 0px
+        padding: 0px 30px
+        font-size: 1.2em
+        font-weight: 600
+        text-shadow: 0px 0px 10px transparentize(#000, 0.3)
+        opacity: 0
+      p#main-quotation
+        font-size: 1.2em
+        margin-top: 0
+        margin-top: 105px
+        margin-bottom: 0px
+
+  #column-content
+    #messages-content
+      .message-pop
+        max-width: 1140px
+        margin: 0 auto
+        position: relative
+        margin-top: 0px
+        z-index: 2
+        box-shadow: none
+
+        .message
+          margin: 0 auto
+          background: white
+          padding: 40px 65px 75px 65px
+          max-height: 9999px
+          column-gap: 40px
+          column-count: 2
+          column-rule: 1px solid #DCDCDC
+
+          // p
+          //   text-align: justify
+
+        .message.widescr-norule
+          column-rule: none
+
+          span.column-block
+            display: inline-block
+            width: 100%
+
+      .division-block
+        position: relative
+        margin-top: 0px
+        z-index: 1
+        height: 40vh
+        max-height: 350px
+        .division-content
+          max-width: 720px
+
+        .division-content#dvs04-higher
+          top: 25%
+          color: white
+          text-shadow: 0px 0px 5px rgba(0,0,0,0.7)
+          span
+            background: none
+
+  .widescr-dsp-none
+    display: none
+
+  h2
+    column-span: all
+
+  h2.widescr-nocolspan
+    column-span: none
+
+  #column-content #messages-content .message-pop.map-container
+    box-shadow: none
+    z-index: 0
+
+@media screen and (min-width: 75em)
+
+  #column-content
+    #messages-content
+      box-shadow: 0px 0px 15px rgba(0,0,0,0.2)
+      max-width: 1090px
+      margin: 0 auto
+      .message-pop
+        margin-top: 40px
+
+        .message
+          padding: 40px 65px 75px 65px
+
+      .division-block
+        margin-top: 40px
+
+    #messages-content.big-footer
+      box-shadow: none
+      max-width: 100%
+      margin: none
+
+  #landing-page
+    .header-content
+      p#phone-number
+        font-size: 1.75em

@@ -1,0 +1,88 @@
+// reseting button properties and other styles
+#nav-mobile-bar
+  position: fixed
+  z-index: 9
+  width: 100%
+  height: 100vh
+  background: transparentize(#000, 0.1)
+  transform: translate(100vw, 0)
+  transition: ease-in-out 0.3s
+  text-align: center
+  vertical-align: center
+  font-family: $base-font
+
+  a
+    font-size: 1.5em
+    font-weight: 500
+    display: block
+    cursor: pointer
+    opacity: 0.8
+    color: white
+    text-decoration: none
+    padding: 20px
+
+    &:hover, &:active
+      opacity: 1
+
+    &:nth-of-type(1)
+      margin-top: 50px
+
+//classes for animating the menu and changing possition
+#nav-mobile-bar.menu-closed
+  transform: translate(100vw, 0)
+  z-index: -1
+#nav-mobile-bar.menu-opened
+  transform: translate(0, 0)
+  z-index: 99
+
+#nav-hamburger.menu-closed
+  transform: translate(0, 0)
+#nav-hamburger.menu-opened
+  transform: translate(-100vw, 0)
+
+#nav-hamburger, #close-nav
+  display: block
+  position: absolute
+  z-index: 10
+  margin: 14px
+  padding: 0
+  width: 26px
+  height: 22px
+  font-size: 0
+  text-indent: -9999px
+  -webkit-appearance: none
+  -moz-appearance: none
+  appearance: none
+  box-shadow: none
+  border-radius: none
+  border: none
+  cursor: pointer
+  background-color: rgba(0,0,0,0)
+  transition: ease-in-out 0.3s
+button#nav-hamburger
+  position: fixed
+  margin: 14px 16px
+  right: 0
+button#close-nav
+  right: 0
+  background:
+    image: url('../img/close_menu_white.svg')
+    size: cover
+    position: center
+
+
+.white-hamburger
+  background:
+    image: url('../img/open_menu_white.svg')
+    size: cover
+    position: center
+
+.black-hamburger
+  background:
+    image: url('../img/open_menu_black.svg')
+    size: cover
+    position: center
+
+
+  &:focus
+    outline: none
