@@ -1,20 +1,10 @@
-@import "_colors_fonts"
-
-//variables
-$site-width: 960px
-
-
-html, body
-	margin: 0
-	padding: 0
-
 #landing-page
 	position: relative
 	display: block
 	padding-top: 1px
 	background:
 		color: #254566
-		image: url('../img/stars_bg.jpg')
+		image: url('../images/stars_bg.jpg')
 		size: cover
 		position: left bottom
 	transform: translate(0px, 0px)
@@ -46,15 +36,11 @@ html, body
 			#mobile-portrait-picture
 				padding-top: 100%
 				background:
-					image: url('../img/personal_photo.jpg')
+					image: url('../images/personal_photo.jpg')
 					size: cover
 					position: center
 
 		p#main-quotation
-			font-family: $base-font
-			font-size: $base-font-size
-			line-height: $base-line-height
-			letter-spacing: $base-letter-spacing
 			color: white
 			padding: 30px
 			text-align: center
@@ -63,10 +49,6 @@ html, body
 			transition: 0s
 
 		p#phone-number
-			font-family: $base-font
-			font-size: $base-font-size
-			line-height: $base-line-height
-			letter-spacing: $base-letter-spacing
 			color: white
 			text-align: center
 			display: block
@@ -88,9 +70,7 @@ html, body
 #column-content
 	position: relative
 
-	#messages-content
-		padding: 0px 0px
-
+	.messages-content
 		//division blocks
 		.division-block
 			position: relative
@@ -106,12 +86,8 @@ html, body
 			.division-content
 				margin: 0 auto
 				width: 75%
-				max-width: $site-width
+				max-width: 960px
 				text-align: center
-				font-family: $base-font
-				font-size: $base-font-size
-				line-height: $base-line-height
-				letter-spacing: $base-letter-spacing
 				color: white
 				position: absolute
 				top: 50%
@@ -127,14 +103,14 @@ html, body
 					background: #FFF
 					
 		#dvs01
-			background-image: url('../img/1.jpg')
+			background-image: url('../images/1.jpg')
 		#dvs02
-			background-image: url('../img/2.jpg')
+			background-image: url('../images/2.jpg')
 		#dvs03
-			background-image: url('../img/3.jpg')
+			background-image: url('../images/3.jpg')
 		#dvs04
-			//background-image: url('../img/4.jpg')
-			background-image: url('../img/footer.jpg')
+			//background-image: url('../images/4.jpg')
+			background-image: url('../images/footer.jpg')
 			background-position: center
 
 
@@ -145,14 +121,10 @@ html, body
 			box-shadow: 0px 0px 15px 2px rgba(255, 255, 255, 0.3)
 
 			.message
-				max-width: $site-width
+				max-width: 960px
 				margin: 0 auto
-				font-family: $base-font
 				font-size: 16px
 				font-weight: 400
-				letter-spacing: $base-letter-spacing
-				line-height: $base-line-height
-				color: $base-color
 				padding: 25px 20px
 
 				max-height: 350px
@@ -160,12 +132,8 @@ html, body
 				transition: 0.5s
 
 			.toggle-size
-				font-family: $base-font
 				font-size: 16px
 				font-weight: 400
-				letter-spacing: $base-letter-spacing
-				line-height: $base-line-height
-				color: $base-color
 				padding: 25px 20px
 				position: relative
 				text-align: center
@@ -183,7 +151,7 @@ html, body
 					left: -20px
 					top: -60px
 					background:
-						image: url('../img/shadow.png')
+						image: url('../images/shadow.png')
 						size: cover
 						position: center
 
@@ -212,8 +180,8 @@ html, body
 			width: 100%
 			max-width: 100% !important
 			background:
-				image: url('../img/map_bg03.png')
-				//image: url('../img/footer.jpg')
+				image: url('../images/map_bg03.png')
+				//image: url('../images/footer.jpg')
 				size: cover
 
 			.message
@@ -221,10 +189,6 @@ html, body
 
 	#info-content
 		.block
-			font-family: $base-font
-			font-size: $base-font-size
-			line-height: $base-line-height
-			color: $base-color
 			background: #FFF7D9
 			margin-top: 30px
 			padding: 15px

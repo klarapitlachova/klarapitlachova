@@ -1,21 +1,15 @@
-@import "_colors_fonts"
+html, body
+  margin: 0
+  padding: 0
+
+body
+  font-family: 'Roboto', sans-serif
 
 a
-  color: $base-color
+  color: inherit
   text-decoration: underline
-  transition: 0.3s
-
-  &:hover, &:active
-    color: red
-
-  &:visited
-    color: $base-color
-
-img
-  display: block
 
 h1
-  font-family: $base-font
   font-size: 1.8em
   line-height: 1em
   letter-spacing: 0.04em
@@ -46,7 +40,6 @@ input
   border: 0
   padding: 10px 8px
   font-size: 0.85em
-  font-family: $base-font
   margin-bottom: 15px
   display: block
   width: 100%
@@ -79,7 +72,6 @@ textarea
   border: 0
   padding: 10px 8px
   font-size: 0.85em
-  font-family: $base-font
   margin-bottom: 20px
   display: block
   width: 100%
