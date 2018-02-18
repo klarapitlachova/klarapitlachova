@@ -31,7 +31,7 @@ plugins:
 exclude:
   - Gemfile
   - Gemfile.lock
-# - node_modules
+  - .sass-cache
 # - vendor/bundle/
 # - vendor/cache/
 # - vendor/gems/
