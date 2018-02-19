@@ -1,4 +1,5 @@
-// reseting button properties and other styles
+@import "_partials.sass"
+
 nav#main-navigation
 	position: absolute
 	z-index: 2
@@ -11,23 +12,109 @@ nav#main-navigation
 		display: block
 		clear: both
 
+	#logotype
+		font-size: 15px
+		line-height: 15px
+		font-weight: 500
+		color: white
+		text-shadow: 0px 0px 5px rgba(0,0,0,0.5)
+		margin: 10px 16px
+		padding: 10px 14px
+		float: left
+
 	.mobile-navigation-toggle
+		position: relative
+		z-index: 2
 		cursor: pointer
 		display: inline-block
 		float: right
-		padding: 8px 12px
-		margin: 6px
+		padding: 10px 14px
+		margin: 8px 16px
 		border-radius: 4px
-		border: 1px solid white
+		border: 1px solid rgba(255, 255, 255, 0.5)
 		color: white
-		font-size: 12px
+		font-size: 13px
+		line-height: 15px
 		font-weight: 500
-		background: rgba(0, 0, 0, 0.35)
+		background-color: rgba(0, 0, 0, 0.35)
+		box-shadow: 0px 2px 5px 5px rgba(0, 0, 0, 0.2)
+		@extend .noselect
 
-		&:hover, &:active
+		&:before
+			content: ""
+			display: inline-block
+			height: 15px
+			width: 15px
+			margin-right: 10px
+			background:
+				image: url('../images/open_menu_white.svg')
+				size: contain
+				position: 0px 3px
+				repeat: no-repeat
+
+		&:hover
 			background: rgba(255, 255, 255, 0.25)
+		&:active
+			background: rgba(255, 255, 255, 0.45)
 
-	ul
+	input
 		display: none
 
-	
+		&:checked 
+			+ .mobile-navigation-toggle
+				background-color: linear-gradient(white , #DDD)
+
+			+ #navigation-content-wrapper
+				display: block
+
+	#navigation-content-wrapper
+		display: none
+	ul
+		position: absolute
+		z-index: 2
+		list-style: none
+		padding: 0px
+		margin: 0px
+		top: 56px
+		right: 16px
+		background-color: white
+		border: 1px solid #DDD
+		box-shadow: 0px 2px 5px rgba(0,0,0,0.2)
+		animation: rollDown 0.3s forwards
+
+		> li
+			font-size: 13px
+			font-weight: 500
+			color: #555
+			padding: 10px 80px 10px 14px
+			margin: 8px 0px
+			cursor: pointer
+			@extend .noselect
+
+
+			&:hover, &:focus
+				background-color: #DCDBDA
+			&:active
+				background-color: #C3C2C0
+
+		&:before
+			content: ""
+			display: block
+			position: absolute
+			z-index: 2
+			width: 14px
+			height: 14px
+			top: -6px
+			right: 46px
+			background-color: white
+			transform: rotate(45deg)
+		
+	.navigation-background-toggle
+		position: fixed
+		z-index: 1
+		background-color: rgba(0,0,0,0.3)
+		top: 0
+		right: 0
+		bottom: 0
+		left: 0
+		animation: showUp 0.4s forwards
