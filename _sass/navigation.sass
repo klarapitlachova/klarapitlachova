@@ -18,9 +18,31 @@ nav#main-navigation
 		font-weight: 500
 		color: white
 		text-shadow: 0px 0px 5px rgba(0,0,0,0.5)
-		margin: 10px 16px
-		padding: 10px 14px
+		margin: 8px 0px 8px 0px
+		padding: 10px 16px
+		border-radius: 0px 4px 4px 0px
+		background-color: rgba(0, 0, 0, 0.5)
 		float: left
+		cursor: pointer
+		@extend .noselect
+
+		&:hover
+			background: rgba(255, 255, 255, 0.3)
+		&:active
+			background: rgba(255, 255, 255, 0.4)
+
+		&:before
+			position: relative
+			top: 2px
+			content: ""
+			display: inline-block
+			height: 15px
+			width: 15px
+			margin-right: 10px
+			background:
+				image: url('../images/flower.png')
+				position: center
+				size: contain
 
 	.mobile-navigation-toggle
 		position: relative
@@ -29,7 +51,7 @@ nav#main-navigation
 		display: inline-block
 		float: right
 		padding: 10px 14px
-		margin: 8px 16px
+		margin: 8px 16px 8px 0px
 		border-radius: 4px
 		border: 1px solid rgba(255, 255, 255, 0.5)
 		color: white
@@ -80,7 +102,7 @@ nav#main-navigation
 		background-color: white
 		border: 1px solid #DDD
 		box-shadow: 0px 2px 5px rgba(0,0,0,0.2)
-		animation: rollDown 0.3s forwards
+		animation: scaleUpFromCenter 0.3s forwards
 
 		> li
 			font-size: 13px
@@ -117,4 +139,49 @@ nav#main-navigation
 		right: 0
 		bottom: 0
 		left: 0
-		animation: showUp 0.4s forwards
+		animation: justAppearFromThinAir 0.4s forwards
+
+@media screen and (min-width: 960px)
+	nav#main-navigation
+		#logotype
+
+		.mobile-navigation-toggle
+			display: none
+
+		#navigation-content-wrapper
+			display: inline-block
+			float: right
+
+		ul
+			position: static
+			top: 0px
+			right: 0px
+			background-color: transparent
+			border: 0px
+			box-shadow: none
+			animation: none
+
+			&:before
+				display: none
+
+			> li
+				color: white
+				float: left
+				background-color
+				padding: 10px 16px
+				margin: 8px 8px
+				border-radius: 4px
+				background-color: rgba(0, 0, 0, 0.5)
+
+				&:hover, &:focus
+					background: rgba(255, 255, 255, 0.3)
+				&:active
+					background: rgba(255, 255, 255, 0.4)
+
+			&:after
+				content: ""
+				display: block
+				clear: both
+			
+		.navigation-background-toggle
+			display: none

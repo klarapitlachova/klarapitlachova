@@ -1,183 +1,63 @@
-#front-card
+#page-wrapper
 	position: relative
-	padding: 100px 16px
+	margin: 0 auto
+	max-width: 1280px
+
+.picture-with-quote-card
+	position: relative
+	width: 100%
+	height: 50vh
+	max-height: 400px
+	overflow: hidden
+	vertical-align: center
 	background:
-		color: #254566
-		image: url('../images/stars_bg.jpg')
 		size: cover
-		position: left bottom
+		position: center
 
-	.header-content
-		position: relative
+	.division-content
 		margin: 0 auto
-		max-width: 520px
-		z-index: 1
+		width: 75%
+		max-width: 640px
+		text-align: center
+		color: white
+		position: absolute
+		line-height: 24px
+		top: 50%
+		left: 50%
+		transform: translate(-50%, -50%)
+		text-shadow: 0px 0px 5px rgba(0,0,0,0.5)
 
-		h1 .sub-headline
-			opacity: 0
+	.division-content#dvs04-higher
+		top: 25%
+		color: #195873
+		text-shadow: none
+		span
+			background: #FFF
+			
+#dvs01
+	background-image: url('../images/1.jpg')
+#dvs02
+	background-image: url('../images/2.jpg')
+#dvs03
+	background-image: url('../images/3.jpg')
+#dvs04
+	//background-image: url('../images/4.jpg')
+	background-image: url('../images/footer.jpg')
+	background-position: center
 
-		#mobile-portrait
-			width: 55%
-			position: relative
-			margin: 0 auto
-			margin-top: 60px
-			opacity: 0
-			transition: 0s
-			border-radius: 50%
-			overflow: hidden
-			box-shadow: 0px 0px 5px transparentize(#000, 0.5)
+.map-container
+	width: 100%
+	max-width: 100% !important
+	background:
+		image: url('../images/map_bg03.png')
+		//image: url('../images/footer.jpg')
+		size: cover
 
-			#mobile-portrait-picture
-				padding-top: 100%
-				background:
-					image: url('../images/personal_photo.jpg')
-					size: cover
-					position: center
+	.message
+		background: none !important
 
-		p#main-quotation
-			color: white
-			padding: 30px
-			text-align: center
-			text-shadow: 0px 0px 10px transparentize(#000, 0.3)
-			opacity: 0
-			transition: 0s
-
-		p#phone-number
-			color: white
-			text-align: center
-			display: block
-			top: -20px
-			position: relative
-			max-width: 100%
-			margin: 0 auto
-			//float: left
-			padding: 0px 30px
-			font-weight: 600
-			text-shadow: 0px 0px 10px transparentize(#000, 0.3)
-			opacity: 0
-
-#column-content
-	position: relative
-
-	.messages-content
-		//division blocks
-		.division-block
-			position: relative
-			width: 100%
-			height: 50vh
-			max-height: 400px
-			overflow: hidden
-			vertical-align: center
-			background:
-				size: cover
-				position: center
-
-			.division-content
-				margin: 0 auto
-				width: 75%
-				max-width: 960px
-				text-align: center
-				color: white
-				position: absolute
-				top: 50%
-				left: 50%
-				transform: translate(-50%, -50%)
-				text-shadow: 0px 0px 5px rgba(0,0,0,0.5)
-
-			.division-content#dvs04-higher
-				top: 25%
-				color: #195873
-				text-shadow: none
-				span
-					background: #FFF
-					
-		#dvs01
-			background-image: url('../images/1.jpg')
-		#dvs02
-			background-image: url('../images/2.jpg')
-		#dvs03
-			background-image: url('../images/3.jpg')
-		#dvs04
-			//background-image: url('../images/4.jpg')
-			background-image: url('../images/footer.jpg')
-			background-position: center
-
-
-		//content
-		.message-pop
-			width: 100%
-			background: white
-			box-shadow: 0px 0px 15px 2px rgba(255, 255, 255, 0.3)
-
-			.message
-				max-width: 960px
-				margin: 0 auto
-				font-size: 16px
-				font-weight: 400
-				padding: 25px 20px
-
-				max-height: 350px
-				overflow: hidden
-				transition: 0.5s
-
-			.toggle-size
-				font-size: 16px
-				font-weight: 400
-				padding: 25px 20px
-				position: relative
-				text-align: center
-				border-top: 1px solid #DCDCDC
-				background: white
-				padding-top: 10px
-				z-index: 3
-				cursor: pointer
-				position: relative
-
-				.section-shadow
-					position: absolute
-					width: 100%
-					height: 60px
-					left: -20px
-					top: -60px
-					background:
-						image: url('../images/shadow.png')
-						size: cover
-						position: center
-
-			.education-list
-				list-style: none
-				padding-left: 0
-				border: 1px solid #DCDCDC
-
-				li
-					display: block
-					padding: 15px 8px
-					border-bottom: 1px solid #DCDCDC
-
-					&:nth-of-type(odd)
-						background: hsl(90deg, 60%, 90%)
-
-					&:last-child
-						border-bottom: none
-
-
-					span
-						font-size: 0.85em
-						line-height: 0.5em
-
-		.map-container
-			width: 100%
-			max-width: 100% !important
-			background:
-				image: url('../images/map_bg03.png')
-				//image: url('../images/footer.jpg')
-				size: cover
-
-			.message
-				background: none !important
-
-	#info-content
-		.block
-			background: #FFF7D9
-			margin-top: 30px
-			padding: 15px
+#info-content
+	.block
+		background: #FFF7D9
+		margin-top: 30px
+		padding: 15px

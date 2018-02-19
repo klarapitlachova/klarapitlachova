@@ -1,0 +1,61 @@
+//content
+.card-wrapper
+	article
+		max-width: 960px
+		margin: 0 auto
+		padding: 50px 16px
+
+	.two-columns
+		color: #333
+		font-size: 16px
+		line-height: 24px
+		&:after
+			content: ""
+			display: block
+			clear: both
+
+		> ul
+			list-style-position: inside
+
+		> p, ul
+			width: calc(50% - 34px)
+			box-sizing: border-box
+			float: left
+			padding: 0px
+			margin: 0px
+			&:first-child
+				margin-right: 34px
+
+			&:last-child
+				margin-left: 34px
+
+	// My Experience - special styles
+	.widescr-nocolspan
+		display: inline-block
+		box-sizing: border-box
+		width: calc(50% - 20px)
+		&:nth-of-type(1)
+			margin-right: 17px
+		&:nth-of-type(2)
+			margin-left: 17px
+
+	.education-list
+		list-style: none
+		padding-left: 0
+		border: 1px solid #DCDCDC
+		width: calc(50% - 17px)
+
+		li
+			display: block
+			padding: 15px 8px
+			border-bottom: 1px solid #DCDCDC
+
+			&:nth-of-type(odd)
+				background: hsl(90deg, 60%, 90%)
+
+			&:last-child
+				border-bottom: none
+
+			span
+				font-size: 0.85em
+				line-height: 0.5em
