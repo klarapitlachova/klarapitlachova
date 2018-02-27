@@ -1,7 +1,7 @@
 //content
 .card-wrapper
 	article
-		max-width: 960px
+		max-width: 640px
 		margin: 0 auto
 		padding: 50px 16px
 
@@ -18,16 +18,11 @@
 			list-style-position: inside
 
 		> p, ul
-			width: calc(50% - 34px)
+			width: 100%
 			box-sizing: border-box
-			float: left
+			float: none
 			padding: 0px
 			margin: 0px
-			&:first-child
-				margin-right: 34px
-
-			&:last-child
-				margin-left: 34px
 
 	// My Experience - special styles
 	.widescr-nocolspan
@@ -59,3 +54,18 @@
 			span
 				font-size: 0.85em
 				line-height: 0.5em
+
+@media screen and (min-width: 960px)
+	.card-wrapper
+		article
+			max-width: 960px
+
+		.two-columns
+			> p, ul
+				width: calc(50% - 34px)
+				float: left
+				&:first-child
+					margin-right: 34px
+
+				&:last-child
+					margin-left: 34px
