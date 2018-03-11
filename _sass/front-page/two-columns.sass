@@ -15,14 +15,17 @@
 			clear: both
 
 		> ul
-			list-style-position: inside
+			list-style-position: outside
+
+			> li
+				margin-left: 16px
 
 		> p, ul
 			width: 100%
 			box-sizing: border-box
 			float: none
 			padding: 0px
-			margin: 0px
+			margin: 0px 0px 16px 0px
 
 	// My Experience - special styles
 	.widescr-nocolspan
@@ -44,6 +47,7 @@
 			display: block
 			padding: 15px 8px
 			border-bottom: 1px solid #DCDCDC
+			margin-left: 0px !important
 
 			&:nth-of-type(odd)
 				background: hsl(90deg, 60%, 90%)
@@ -59,6 +63,7 @@
 	.card-wrapper
 		article
 			max-width: 960px
+			padding: 50px 32px
 
 		.two-columns
 			> p, ul

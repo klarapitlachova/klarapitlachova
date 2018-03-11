@@ -1,0 +1,40 @@
+{% include head.html %}
+
+{% include navigation.html %}
+
+{% include header.html headline=page.title %}
+
+<!-- goal card -->
+<div class="card-wrapper">
+	<article id="co-je-mym-zamerem">
+		<h2>{{ site.data.frontPageContent.cardGoalHeadline }}</h2>
+		<div class="two-columns">
+			{{ site.data.frontPageContent.cardGoalBody }}
+		</div>
+	</article>
+</div>
+
+<!-- quatation card -->
+<div id="dvs02" class="picture-with-quote-card">
+	<div class="division-content">
+		„Odvalit své vlastní neodvalené balvany, vyřešit vlastní nevyřešené problémy, to je cesta,
+		jak na světě něco změnit k lepšímu.“<br><br> (E. Kübler-Rossová)
+	</div>
+</div>
+
+<!-- how I work card -->
+<div class="card-wrapper">
+	<article id="how-i-work">
+		<h2>{{ site.data.frontPageContent.cardHowIWorkHeadline }}</h2>
+		<div class="two-columns">
+			{{ site.data.frontPageContent.cardHowIWorkBody }}
+		</div>
+	</article>
+</div>
+
+<!-- quatation card -->
+<div id="dvs03" class="picture-with-quote-card">
+	<div class="division-content">„Při spolupracujícím přístupu jsou terapeut a klient na té samé stránce knihy.“<br><br>(B. Schwartz a J. Flowers)</div>
+</div>
+
+{% include footer.html %}
