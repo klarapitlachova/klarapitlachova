@@ -2,14 +2,19 @@
 
 {% include navigation.html %}
 
-{% include header.html headline=page.title %}
+{% include header.html %}
 
 <!-- goal card -->
 <div class="card-wrapper">
 	<article id="co-je-mym-zamerem">
-		<h2>{{ site.data.frontPageContent.cardGoalHeadline }}</h2>
+		<h2>{{ page.FirstHeadilne }}</h2>
 		<div class="two-columns">
-			{{ site.data.frontPageContent.cardGoalBody }}
+			<p>
+			{{ page.FirstTextBoxLeft }}
+			</p>
+			<p>
+			{{ page.FirstTextBoxRight }}
+			</p>
 		</div>
 	</article>
 </div>
@@ -25,16 +30,16 @@
 <!-- how I work card -->
 <div class="card-wrapper">
 	<article id="how-i-work">
-		<h2>{{ site.data.frontPageContent.cardHowIWorkHeadline }}</h2>
+		<h2>{{ page.SecondHeadilne }}</h2>
 		<div class="two-columns">
-			{{ site.data.frontPageContent.cardHowIWorkBody }}
+			<p>
+			{{ page.SecondTextBoxLeft }}
+			</p>
+			<p>
+			{{ page.SecondTextBoxRight }}
+			</p>
 		</div>
 	</article>
-</div>
-
-<!-- quatation card -->
-<div id="dvs03" class="picture-with-quote-card">
-	<div class="division-content">„Při spolupracujícím přístupu jsou terapeut a klient na té samé stránce knihy.“<br><br>(B. Schwartz a J. Flowers)</div>
 </div>
 
 {% include footer.html %}

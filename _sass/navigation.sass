@@ -13,7 +13,7 @@ nav#main-navigation
 		clear: both
 
 	#logotype
-		font-size: 15px
+		font-size: 13px
 		line-height: 16px
 		font-weight: 500
 		color: white
@@ -110,18 +110,19 @@ nav#main-navigation
 			font-size: 13px
 			font-weight: 500
 			color: #555
-			padding: 10px 80px 10px 14px
-			margin: 8px 0px
-			cursor: pointer
-			@extend .noselect
 
 			> a
+				display: block
+				padding: 10px 80px 10px 14px
+				margin: 8px 0px
+				cursor: pointer
+				@extend .noselect
 				text-decoration: none
 
-			&:hover, &:focus
-				background-color: #DCDBDA
-			&:active
-				background-color: #C3C2C0
+				&:hover, &:focus
+					background-color: #DCDBDA
+				&:active
+					background-color: #C3C2C0
 
 		&:before
 			content: ""
@@ -171,17 +172,18 @@ nav#main-navigation
 			> li
 				color: white
 				float: left
-				background-color
-				padding: 10px 16px
-				line-height: 16px
-				margin: 8px 8px
-				border-radius: 4px
-				background-color: rgba(0, 0, 0, 0.5)
 
-				&:hover, &:focus
-					background: rgba(255, 255, 255, 0.3)
-				&:active
-					background: rgba(255, 255, 255, 0.4)
+				> a
+					padding: 10px 16px
+					line-height: 16px
+					margin: 8px 8px
+					border-radius: 4px
+					background: rgba(0, 0, 0, 0.5)
+
+					&:hover, &:focus
+						background: rgba(255, 255, 255, 0.3)
+					&:active
+						background: rgba(255, 255, 255, 0.4)
 
 			&:after
 				content: ""

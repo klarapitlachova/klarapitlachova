@@ -1,6 +1,6 @@
 #front-card
+	padding: 50px 0px
 	position: relative
-	padding: 140px 16px 100px
 	background: #F0C27B
 	background: -webkit-linear-gradient(to right, #4B1248, #F0C27B)
 	background: linear-gradient(to right, #4B1248, #F0C27B)
@@ -10,6 +10,7 @@
 		position: left bottom
 
 	.header-content
+		padding: 50px 16px 50px
 		position: relative
 		margin: 0 auto
 		max-width: 640px
@@ -35,6 +36,9 @@
 			float: left
 
 		h1
+			//font-family: 'Rubik', sans-serif
+			font-family: 'Roboto', sans-serif
+			font-weight: 500
 			font-size: 34px
 			line-height: 34px
 			letter-spacing: 0.04em
@@ -53,21 +57,22 @@
 
 		span#main-quotation
 			display: block
-			margin: 16px 0px 16px 0px
+			margin: 16px auto
 			line-height: 22px
 			text-align: center
+			max-width: 500px
 
 		span#phone-number
 			display: block
-			font-weight: 700
+			font-weight: 500
 			margin: 8px 0px 8px 0px
 			text-align: center
 
-@media screen and (min-width: 550px)
+@media screen and (min-width: 660px)
 	#front-card
-		padding: 100px 34px
 
 		.header-content
+			padding: 50px 34px
 			.portrait
 				float: left
 				margin: 0 34px 0 0
@@ -77,6 +82,13 @@
 			h1, span.sub-headline, span#main-quotation, span#phone-number
 				text-align: left
 
+			span#main-quotation
+				max-width: none
+
+			h1
+				padding-top: 25px
+
 @media screen and (min-width: 960px)
 	#front-card
-		padding: 150px 34px 115px
+		.header-content
+			padding: 65px 34px 65px

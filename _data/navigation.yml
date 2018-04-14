@@ -1,5 +1,12 @@
 navigation_list_title: Main navigation
 items:
 
+- title: Hlavní strana
+  url: index.html
+
 - title: Jak pracuji
   url: jak-pracuji.html
+
+- title: Mé vzdělání
+  url: vzdelani.html
+

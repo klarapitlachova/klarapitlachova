@@ -3,43 +3,54 @@
 	article
 		max-width: 640px
 		margin: 0 auto
-		padding: 50px 16px
+		padding: 16px 16px
+
+		h2
+			font-size: 32px
+			line-height: 32px
+			margin: 30px 0px 10px
+			color: #382D4D
 
 	.two-columns
-		color: #333
-		font-size: 16px
-		line-height: 24px
+		margin-bottom: 0px
+		color: #2D2836
+		font-size: 17px
+		line-height: 26px
 		&:after
 			content: ""
 			display: block
 			clear: both
 
-		> ul
+		ul, ol
+			padding: 0px
+			margin: 0px 0px 16px 0px
 			list-style-position: outside
 
-			> li
+			li
 				margin-left: 16px
 
-		> p, ul
+		> p, ul, .one-column, .education-list
 			width: 100%
 			box-sizing: border-box
 			float: none
 			padding: 0px
 			margin: 0px 0px 16px 0px
 
-	// My Experience - special styles
-	.widescr-nocolspan
-		display: inline-block
-		box-sizing: border-box
-		width: calc(50% - 20px)
-		&:nth-of-type(1)
-			margin-right: 17px
-		&:nth-of-type(2)
-			margin-left: 17px
+		> .one-column
+			p
+				margin: 0px 0px 16px
 
+	article.when-and-where
+		padding-bottom: 0px
+	article.price-and-form
+		padding-top: 0px
+
+	// My Experience - special styles
 	.education-list
+		padding: 0px
+		margin: 0px 0px 16px 0px !important
+		list-style-position: outside
 		list-style: none
-		padding-left: 0
 		border: 1px solid #DCDCDC
 		width: calc(50% - 17px)
 
@@ -50,7 +61,7 @@
 			margin-left: 0px !important
 
 			&:nth-of-type(odd)
-				background: hsl(90deg, 60%, 90%)
+				background: #EBE7EE
 
 			&:last-child
 				border-bottom: none
@@ -65,8 +76,13 @@
 			max-width: 960px
 			padding: 50px 32px
 
+			h2
+				font-size: 36px
+				margin: 36px 0px 14px
+
 		.two-columns
-			> p, ul
+			margin-bottom: 36px
+			> p, ul, .one-column
 				width: calc(50% - 34px)
 				float: left
 				&:first-child
