@@ -141,6 +141,10 @@ prose:
         field:
           element: "textarea"
           label: "První blok - sloupec napravo"
+      - name: 'quotationBlock'
+        field:
+          element: "textarea"
+          label: "Citace - text"      
       - name: "SecondHeadilne"
         field:
           element: "text"
@@ -173,9 +177,9 @@ prose:
           label: "Levý blok - seznam"
       - name: "experienceListHeadline"
         field:
-          element: "textarea"
+          element: "text"
           label: "Pravý blok - nadpis"
       - name: "experienceListBody"
         field:
-          element: "text"
+          element: "textarea"
           label: "Pravý blok - seznam"

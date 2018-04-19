@@ -31,53 +31,54 @@ hr
 	border: 0
 	height: 1px
 	background-color: #DCDCDC
+	
+form
+	label
+		color: #666
+		position: relative
+		margin-bottom: 15px
+		display: block
+	input, textarea
+		color: #2D2836
+		display: block
+		position: relative
+		box-sizing: border-box
+		width: 100%
+		border: 0
+		border-bottom: 3px solid #BBB
+		padding: 4px 0px
+		font-size: 15px
+		background: transparent
+		margin: 0px
 
-label
-	color: #666
-	position: relative
-	margin-bottom: 15px
-	display: block
-input, textarea
-	color: #2D2836
-	display: block
-	position: relative
-	box-sizing: border-box
-	width: 100%
-	border: 0
-	border-bottom: 3px solid #BBB
-	padding: 4px 0px
-	font-size: 15px
-	background: transparent
-	margin: 0px
+		&:focus
+			border-bottom: 3px solid #2D394B
 
-	&:focus
-		border-bottom: 3px solid #2D394B
+	input.submit-button
+		width: auto
+		display: inline
+		margin: 0 auto
+		background: #FFF
+		cursor: pointer
+		padding: 12px 17px
+		font-size: 14px
+		font-weight: bold
+		color: #444
+		top: 0
+		float: left
+		background: #DCDCDC
+		border-radius: 3px
 
-input.submit-button
-	width: auto
-	display: inline
-	margin: 0 auto
-	background: #FFF
-	cursor: pointer
-	padding: 12px 17px
-	font-size: 14px
-	font-weight: bold
-	color: #444
-	top: 0
-	float: left
-	background: #DCDCDC
-	border-radius: 3px
+		&:hover
+			background: #EEE
 
-	&:hover
-		background: #EEE
+		&:active
+			background: #EEE
+			top: 3px
+			border-bottom: 0px
 
-	&:active
-		background: #EEE
-		top: 3px
-		border-bottom: 0px
-
-textarea
-	height: 60px
+	textarea
+		height: 60px
 
 
 .noselect
