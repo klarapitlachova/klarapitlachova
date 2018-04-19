@@ -17,12 +17,18 @@ exclude:
   - .sass-cache
 
 prose:
-  rooturl: '_posts'
   siteurl: 'https://klarapitlachova.cz'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'assets/files/'
   ignore:
     - _config.yml
+    - Gemfile.lock
+    - Gemfile
+    - CNAME
+    - 404.html
+    - .gitignore
+    - /assets
+    - /_site
     - /_layouts
     - /_includes
     - /_sass
@@ -42,7 +48,7 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
-    jak-pracuji:
+    jak-pracuji.md:
       - name: "layout"
         field:
           element: "hidden"
