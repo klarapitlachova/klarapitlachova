@@ -48,6 +48,78 @@ prose:
               value: "apples"
             - name: "Bananas"
               value: "bananas"
+
+    index.md:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "front-page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Nadpis"
+          value: "Hlavní strana"
+      - name: "basicCardName"
+        field:
+          element: "text"
+          label: "Vizitka - Jméno"
+      - name: "basicCardExpertise"
+        field:
+          element: "textarea"
+          label: "Vizitka - text"
+      - name: "basicCardTelephone"
+        field:
+          element: "text"
+          label: "Vizitka - telefon"
+      - name: "firstSegmentHeadilne"
+        field:
+          element: "text"
+          label: "První blok - nadpis"
+      - name: "firstSegmentTextColumnLeft"
+        field:
+          element: "textarea"
+          label: "První blok - sloupec nalevo"
+      - name: "firstSegmentTextColumnRight"
+        field:
+          element: "textarea"
+          label: "První blok - sloupec napravo"
+      - name: "qutoSegmentText"
+        field:
+          element: "textarea"
+          label: "Citát - text" 
+      - name: "secondSegmentHeadilne"
+        field:
+          element: "text"
+          label: "Durhý blok - nadpis"
+      - name: "secondSegmentBody"
+        field:
+          element: "textarea"
+          label: "Druhý blok - text"
+      - name: "thirdSegmentHeadilne"
+        field:
+          element: "text"
+          label: "Třetí blok - nadpis"
+      - name: "thirdSegmentBody"
+        field:
+          element: "textarea"
+          label: "Třetí blok - text"
+      - name: "fourthSegmentHeadilne"
+        field:
+          element: "text"
+          label: "Čtvrtý blok - nadpis"
+      - name: "fourthSegmentBody"
+        field:
+          element: "textarea"
+          label: "Čtvrtý blok - text"
+      - name: "fifthSegmentHeadilne"
+        field:
+          element: "text"
+          label: "Pátý blok - nadpis"
+      - name: "fifthSegmentBody"
+        field:
+          element: "textarea"
+          label: "Pátý blok - text"
+
     jak-pracuji.md:
       - name: "layout"
         field:
@@ -63,11 +135,11 @@ prose:
           label: "První blok - nadpis"
       - name: "FirstTextBoxLeft"
         field:
-          element: "text"
+          element: "textarea"
           label: "První blok - sloupec nalevo"
       - name: "FirstTextBoxRight"
         field:
-          element: "text"
+          element: "textarea"
           label: "První blok - sloupec napravo"
       - name: "SecondHeadilne"
         field:
@@ -75,9 +147,35 @@ prose:
           label: "Druhý blok - nadpis"
       - name: "SecondTextBoxLeft"
         field:
-          element: "text"
+          element: "textarea"
           label: "Druhý blok - sloupec nalevo"
       - name: "SecondTextBoxRight"
         field:
-          element: "text"
+          element: "textarea"
           label: "Druhý blok - sloupec napravo"
+
+    vzdelani.md:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "education-page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Nadpis"
+      - name: "educationListHeadline"
+        field:
+          element: "text"
+          label: "Levý blok - nadpis"
+      - name: "educationListBody"
+        field:
+          element: "textarea"
+          label: "Levý blok - seznam"
+      - name: "experienceListHeadline"
+        field:
+          element: "textarea"
+          label: "Pravý blok - nadpis"
+      - name: "experienceListBody"
+        field:
+          element: "text"
+          label: "Pravý blok - seznam"

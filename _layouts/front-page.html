@@ -7,9 +7,9 @@
 	<div class="header-content">
 		<img class="portrait" src="assets/images/personal_photo.jpg">
 		<p class="text-float-wrapper">
-			<h1>Klára Pitlachová</h1>
-			<span id="main-quotation">Doprovázení, poradenství, terapie – pomoc při překonávání nejasného úseku vaší životní cesty.</span>
-			<span id="phone-number">+420 737 399 606 | <a href="/#form-anchor-hook">e-mail</a></span>
+			<h1>{{ page.basicCardName }}</h1>
+			<span id="main-quotation">{{ page.basicCardExpertise }}</span>
+			<span id="phone-number">{{ page.basicCardTelephone }} | <a href="/#form-anchor-hook">e-mail</a></span>
 		</p>
 	</div>
 </div>
@@ -17,9 +17,10 @@
 <!-- offer card -->
 <div class="card-wrapper">
 	<article id="co-nabizim">
-		<h2>{{ site.data.frontPageContent.cardOfferHeadline }}</h2>
+		<h2>{{ page.firstSegmentHeadilne }}</h2>
 		<div class="two-columns">
-			{{ site.data.frontPageContent.cardOfferBody }}
+			<p>{{ page.firstSegmentTextColumnLeft }}</p>
+			<ul>{{ page.firstSegmentTextColumnRight }}</ul>
 		</div>
 	</article>
 </div>
@@ -27,8 +28,7 @@
 <!-- quatation card -->
 <div id="dvs01" class="picture-with-quote-card">
 	<div class="division-content">
-		„Člověk může přijít o všechno kromě jediného: nikdo mu nemůže vzít poslední lidskou svobodu – vybrat si za
-		jakýchkoliv okolností svůj vlastní přístup, svou vlastní cestu.“<br><br>(V. E. Frankl)
+		{{ page.qutoSegmentText }}
 	</div>
 </div>
 
@@ -42,7 +42,19 @@
 <div class="card-wrapper">
 	<article class="when-and-where">
 		<div class="two-columns">
-			{{ site.data.frontPageContent.cardWhereWhenBody }}
+			<div class="one-column">
+			<h2>{{ page.secondSegmentHeadilne }}</h2>
+			{{ page.secondSegmentBody }}
+			</div>
+
+			<div class="one-column">
+			<p>
+			<h2>{{ page.thirdSegmentHeadilne }}</h2>
+			<table>
+				{{ page.thirdSegmentBody }}
+			</table>
+			</p>
+			</div>
 		</div>
 	</article>
 </div>
@@ -51,7 +63,15 @@
 <div class="card-wrapper">
 	<article class="price-and-form">
 		<div class="two-columns">
-			{{ site.data.frontPageContent.cardPriceAndForm }}
+			<div class="one-column">
+				<h2>{{ page.fourthSegmentHeadilne }}</h2>
+				{{ page.fourthSegmentBody }}
+			</div>
+
+			<div class="one-column">
+				<h2 id="form-anchor-hook">{{ page.fifthSegmentHeadilne }}</h2>
+				{{ page.fifthSegmentBody }}
+			</div>
 		</div>
 	</article>
 </div>
