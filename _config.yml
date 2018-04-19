@@ -1,38 +1,77 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Klára Pitlachová
 email: karelsuchomel@windowslive.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-
   Doprovázení, poradenství, terapie - pomoc při překonávání nejasného úseku vaší životní cesty.
 keywords: Psycholožka, psycholog, soukromá psychologická praxe, psycholog Brno, doprovázení, poradenství, terapie
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.klarapitlachova.cz" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://klarapitlachova.cz" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
 plugins:
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
 exclude:
   - Gemfile
   - Gemfile.lock
   - .sass-cache
-# - vendor/bundle/
-# - vendor/cache/
-# - vendor/gems/
-# - vendor/ruby/
+
+prose:
+  rooturl: '_posts'
+  siteurl: 'https://klarapitlachova.cz'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'assets/files/'
+  ignore:
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /_sass
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "blog"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+    jak-pracuji:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "how-i-work-page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Nadpis"
+      - name: "FirstHeadilne"
+        field:
+          element: "text"
+          label: "První blok - nadpis"
+      - name: "FirstTextBoxLeft"
+        field:
+          element: "text"
+          label: "První blok - sloupec nalevo"
+      - name: "FirstTextBoxRight"
+        field:
+          element: "text"
+          label: "První blok - sloupec napravo"
+      - name: "SecondHeadilne"
+        field:
+          element: "text"
+          label: "Druhý blok - nadpis"
+      - name: "SecondTextBoxLeft"
+        field:
+          element: "text"
+          label: "Druhý blok - sloupec nalevo"
+      - name: "SecondTextBoxRight"
+        field:
+          element: "text"
+          label: "Druhý blok - sloupec napravo"
