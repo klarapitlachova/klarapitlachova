@@ -1,19 +1,13 @@
 <nav id="main-navigation">
 	<a href="index.html"><div id="logotype">Klára Pitlachová</div></a>
-	<label for="mobile-navigation-trigger" class="mobile-navigation-toggle">Navigace</label>
+	<label for="mobile-navigation-trigger" class="mobile-navigation-toggle menu-button-toggle">Navigace</label>
 	<input type="checkbox" id="mobile-navigation-trigger">
 	<div id="navigation-content-wrapper">
 		<ul>
-			<!-- <li>Co nabízím</li>
-			<li>Co je mým záměrem</li>
-			<li>Jak pracuji</li>
-			<li>Kdo jsem</li>
-			<li>Cena a čas</li>
-			<li>Kontakt</li> -->
 			{% for item in site.data.navigation.items %}
 			<li><a href="{{ item.url }}">{{ item.title }}</a></li>
 			{% endfor %}
 		</ul>
-		<label for="mobile-navigation-trigger" class="navigation-background-toggle"></label>
+		<label for="mobile-navigation-trigger" class="navigation-background-toggle menu-button-toggle"></label>
 	</div>
 </nav>

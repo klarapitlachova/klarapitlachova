@@ -1,5 +1,5 @@
 ---
-title: Mé vzdělání
+title: Vzdělání a zkušenosti
 layout: education-page
 
 educationListHeadline: 'Vzdělání'

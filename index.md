@@ -1,10 +1,10 @@
 ---
-title: Hlavní strana
+title: 'soukromá psychologická praxe, Brno'
 layout: front-page
 
 basicCardName: "Klára Pitlachová"
 basicCardExpertise: "Doprovázení, poradenství, terapie – pomoc při překonávání nejasného úseku vaší životní cesty."
-basicCardTelephone: "+420 737 399 606"
+basicCardTelephone: "+&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#054;"
 
 firstSegmentHeadilne: "Co nabízím"
 firstSegmentTextColumnLeft: "Nabízím vám psychologickou pomoc, pokud se právě nacházíte nebo se opakovaně ocitáte v obtížné situaci. Věřím, že vám mohu dobře pomoci zvláště tehdy, když vám obtíže činí váš pocit nedostatečnosti, ochromení či ztráty sebe sama. Mohu se stát vaším průvodcem na cestě ven ze starých (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte na významném životním rozcestí nebo chcete-li se jen lépe poznat a posunout se ve svém osobním rozvoji. Společně se můžeme pokusit hledat cestu ke zlepšení také v případě, že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z následujících problémů:"
@@ -69,14 +69,14 @@ fourthSegmentBody: '
 	zprostředkuji vám kontakt na příslušného odborníka.
 </p>
 <p>
-	Schůzku je nutné telefonicky sjednat předem. Pokud je to možné, volejte mi v jiném čase, než v konzultačních hodinách.
+	Schůzku je nutné telefonicky sjednat předem (+&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#054;). Pokud je to možné, volejte mi v jiném čase, než v konzultačních hodinách.
 	Zmeškám-li váš hovor, zavolám vám co nejdříve zpět.
 </p>'
 
 fifthSegmentHeadilne: "Napište mi"
 fifthSegmentBody: '
 <form action="https://formspree.io/klapito@gmail.com" method="POST">
-	<input type="hidden" name="_next" value="http://klarapitlachova.cz/">
+	<input type="hidden" name="_next" value="http://klarapitlachova.cz/message-sent.html">
 	<input type="hidden" name="_format" value="plain" />
 	<input type="text" name="_gotcha" style="display:none">
 	<label>Váš email
