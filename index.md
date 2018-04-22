@@ -6,7 +6,7 @@ basicCardExpertise: >-
   Doprovázení, poradenství, terapie – pomoc při překonávání nejasného úseku vaší
   životní cesty.
 basicCardTelephone: >-
-  +&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#055;
+  +&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#054;
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
   Nabízím vám psychologickou pomoc, pokud se právě nacházíte nebo se opakovaně
