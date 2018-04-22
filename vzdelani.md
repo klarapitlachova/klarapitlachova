@@ -19,7 +19,6 @@ experienceListBody: >-
   léčbu závislostí PN Praha-Bohnice</li> <li><span>2007 – 2009:</span><br>
   koordinátorka dobrovolnické služby pacientům FN Brno (dětská nemocnice,
   onkologie, LDN)</li> <li><span>2010 – nyní:</span><br> matka dvou synů</li>
-  <li><span>2013 – 2014:</span><br> domácí hospicová péče</li> <li><span>2015 –
-  2016:</span><br> vyhrála soutěž o nejlepší psycholožku</li>
+  <li><span>2013 – 2014:</span><br> domácí hospicová péče</li>
 published: true
 ---
