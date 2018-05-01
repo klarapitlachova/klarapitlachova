@@ -7,7 +7,7 @@ basicCardExpertise: >-
   životní cesty.
 basicCardTelephone: >-
   +&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#054;
-firstSegmentHeadilne: Co nabízím
+firstSegmentHeadilne: Co nabízím a tak dále
 firstSegmentTextColumnLeft: >-
   Nabízím vám psychologickou pomoc, pokud se právě nacházíte nebo se opakovaně
   ocitáte v obtížné situaci. Věřím, že vám mohu dobře pomoci zvláště tehdy, když
@@ -26,7 +26,7 @@ firstSegmentTextColumnRight: >-
   nesmyslnosti, prázdnota, nedostatečný „tah na branku“</li> <li>odcizení,
   nezakořeněnost, osamělost</li> <li>neuspokojivé vztahy, včetně vztahu k
   sobě</li> <li>pochybnosti o stávajících hodnotách, spirituální krize</li>
-  <li>a další…</li>
+  <li>a další…</li> <li>další položka</li>
 qutoSegmentText: >-
   „Člověk může přijít o všechno kromě jediného: nikdo mu nemůže vzít poslední
   lidskou svobodu – vybrat si za jakýchkoliv okolností svůj vlastní přístup,
