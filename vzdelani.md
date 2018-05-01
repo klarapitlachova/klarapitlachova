@@ -10,7 +10,8 @@ educationListBody: >-
   smrtí (8 hodin)</li> <li><span>2010:</span><br> trauma v existenciálně
   analytické terapii (16 hodin)</li> <li><span>2014:</span><br> psychoterapie
   poruch osobnosti (8 hodin)</li> <li><span>2014 – 2015:</span><br>
-  psychoterapeutická práce s traumatem (65 hodin)</li>
+  psychoterapeutická práce s traumatem (65 hodin)</li> <li><span>2015 –
+  2016:</span><br> povídání s Karlem (150 hodin)</li>
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
   <li><span>1997 – 1998:</span><br> osobní asistentka Effetha Brno</li>
