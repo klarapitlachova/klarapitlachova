@@ -26,7 +26,7 @@ experienceListBody: >-
   <li><span>2016 – 2017:</span><br> Osobní asistentka Hewer Brno (terénní služba
   pro seniory)</li> <li><span>2017 – 2018:</span><br> Sociální pracovnice Centra
   denních služeb Ligy vozíčkářů Brno (ambulantní služba pro klienty s tělesným
-  nebo kombinivaným postižením)</li> <li><span>2018 – dosud:</span><br> Vedoucí
+  nebo kombinovaným postižením)</li> <li><span>2018 – dosud:</span><br> Vedoucí
   služby a klíčový pracovník CDS Ligy vozíčkářů Brno </li>
 published: true
 ---
