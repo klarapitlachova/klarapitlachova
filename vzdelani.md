@@ -1,6 +1,6 @@
 ---
 layout: education-page
-title: Vzdělání a zkušenosti
+title: Kdo jsem
 educationListHeadline: Vzdělání
 educationListBody: >-
   <li><span>2017:</span><br> Sexualita a vztahy lidí s postižením - základní (8
