@@ -43,8 +43,8 @@ thirdSegmentHeadilne: Konzultační hodiny
 thirdSegmentBody: >-
   <tr> <td>Pondělí</td> <td>X</td> <td>X</td> </tr> <tr> <td>Úterý</td>
   <td>X</td> <td>X</td> </tr> <tr> <tr> <td>Středa</td> <td>X</td> <td>17:00 -
-  20:00</td> <td>Čtvrtek</td> <td>X</td> <td>X</td> </tr> <tr> <td>Pátek</td>
-  <td>X</td> <td>17:00 - 20:00</td> </tr>
+  20:00</td> </tr> <tr> <td>Čtvrtek</td> <td>X</td> <td>X</td> </tr> <tr>
+  <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
 fourthSegmentHeadilne: Před první schůzkou
 fourthSegmentBody: >-
   <p> Základní cena: </p> <p> <h3>500 Kč (konzultace o délce cca 60 min.)</h3>
