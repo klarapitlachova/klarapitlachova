@@ -2,4 +2,5 @@
 Layout: static-page
 published: true
 ---
-## Blog
+
+## Příspěvky
