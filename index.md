@@ -37,8 +37,8 @@ secondSegmentBody: >-
   href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
   target="_blank"> Odkaz na mapu </a> </p> <h3>Dopravní spojení:</h3> <ol> <li>
   Trolejbus 27 ze Staré Osady. </li> <li> Trolejbusy 25 a 26 z Nového Lískovce
-  (přes Černá Pole). </li> <li> Autobus 82 ze Starého Lískovce (přes Českou a
-  hlavní nádraží). </li> </ol>
+  (přes Černá Pole). </li> <li> Autobus 82 ze Starého Lískovce (přes hlavní
+  nádraží). </li> </ol>
 thirdSegmentHeadilne: Konzultační hodiny
 thirdSegmentBody: >-
   <tr> <td>Pondělí</td> <td>X</td> <td>13:00 - 19:00</td> </tr> <tr>
