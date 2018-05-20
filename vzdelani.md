@@ -24,9 +24,8 @@ experienceListBody: >-
   onkologie, LDN)</li> <li><span>2010 – nyní:</span><br> Matka dvou školních
   dětí</li> <li><span>2013 – 2014:</span><br> Domácí hospicová péče</li>
   <li><span>2016 – 2017:</span><br> Osobní asistentka Hewer Brno (terénní služba
-  pro seniory)</li> <li><span>2017 – 2018:</span><br> Sociální pracovnice Centra
-  denních služeb Ligy vozíčkářů Brno (ambulantní služba pro klienty s tělesným
-  nebo kombinovaným postižením)</li> <li><span>2018 – dosud:</span><br> Vedoucí
-  služby a klíčový pracovník CDS Ligy vozíčkářů Brno </li>
+  pro seniory)</li> <li><span>2017 – dosud:</span><br> Sociální pracovnice
+  Centra denních služeb Ligy vozíčkářů Brno (ambulantní služba pro klienty s
+  tělesným nebo kombinovaným postižením)</li>
 published: true
 ---
