@@ -32,13 +32,14 @@ qutoSegmentText: >-
   svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Kde pracuji
 secondSegmentBody: >-
-  <p> poliklinika Kuřim, 4.patro<br> Blanenská 982, 664 34<br> <a
-  class="map-anchor" href="https://goo.gl/maps/d4DPo93VfSx" target="_blank">
-  Odkaz na mapu </a> </p> <h3>Dopravní spojení z Brna (20 - 30 minut):</h3> <ol>
-  <li> Vlaková linka S3 s pravidelně navazujícími autobusovými spoji (pro
-  městské části Brno Židenice, Lesná, Královo Pole a Řečkovice, přes Českou).
-  </li> <li> Přímá autobusová linka 302 (pro městskou část Brno Bystrc, přes
-  Rozdrojovice a Jinačovice). </li> </ol>
+  <p> Liga vozíčkářů (zvonek CDS)<br> Bzenecká 23, Brno<br> <a
+  class="map-anchor"
+  href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
+  target="_blank"> Odkaz na mapu </a> </p> <h3>Dopravní spojení z Brna (20 - 30
+  minut):</h3> <ol> <li> Vlaková linka S3 s pravidelně navazujícími autobusovými
+  spoji (pro městské části Brno Židenice, Lesná, Královo Pole a Řečkovice, přes
+  Českou). </li> <li> Přímá autobusová linka 302 (pro městskou část Brno Bystrc,
+  přes Rozdrojovice a Jinačovice). </li> </ol>
 thirdSegmentHeadilne: Konzultační hodiny
 thirdSegmentBody: >-
   <tr> <td>Pondělí</td> <td>X</td> <td>13:00 - 19:00</td> </tr> <tr>
