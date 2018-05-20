@@ -32,18 +32,18 @@ qutoSegmentText: >-
   svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
-  <p> <h3>Moje telefonní číslo:
-  +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;</h3>
+  <p> <h3>Moje telefonní číslo:</h3> </p> <p>
+  <h3>+&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;</h3>
   </p> <p> Schůzku je nutné telefonicky sjednat předem. Zmeškáme-li váš hovor,
-  zavolám vám co nejdříve zpět. </p> <p> <h3>Najdete mě na adrese: <a
-  class="map-anchor"
+  zavolám vám co nejdříve zpět. </p> <p> <h3>Najdete mě na adrese:</h3> </p> <p>
+  <h3> <a class="map-anchor"
   href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
   target="_blank">odkaz na mapu </a> </h3> </p> <p> Liga vozíčkářů (zvonek
-  CDS)<br> Bzenecká 23, Brno<br> </p> <p> <h3>Základní cena: 500 Kč za 1
-  hodinu</h3> </p> <p> Platby přijímám pouze v hotovosti na konci naší schůzky.
-  Pokud se během prvního setkání ukáže, že vaše potíže nespadají do mé
-  kompetence, tuto konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na
-  příslušného odborníka. </p>
+  CDS)<br> Bzenecká 23, Brno<br> </p> <p> <h3>Základní cena:</h3> </p> <p>
+  <h3>500 Kč za 1 hodinu</h3> </p> <p> Platby přijímám pouze v hotovosti na
+  konci naší schůzky. Pokud se během prvního setkání ukáže, že vaše potíže
+  nespadají do mé kompetence, tuto konzultaci vám nebudu účtovat a zprostředkuji
+  vám kontakt na příslušného odborníka. </p>
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
