@@ -55,4 +55,10 @@ fifthSegmentBody: >-
   zpráva <textarea name="text" required></textarea> </label> <input
   type="submit" value="Odeslat zprávu" class="submit-button"> </form>
 published: true
+thirdSegmentBody: >-
+  <tr> <td>Pondělí</td> <td>X</td> <td>X</td> </tr> <tr> <td>Úterý</td>
+  <td>X</td> <td>X</td> </tr> <tr> <td>Středa</td> <td>X</td> <td>17:00 -
+  20:00</td> </tr> <tr> <td>Čtvrtek</td> <td>X</td> <td>X</td> </tr> <tr>
+  <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
+thirdSegmentHeadilne: Konzultační hodiny
 ---
