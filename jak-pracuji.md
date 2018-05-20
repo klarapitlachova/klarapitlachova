@@ -16,8 +16,8 @@ quotationBlock: >-
   to je cesta, jak na světě něco změnit k lepšímu.“<br><br> (E. Kübler-Rossová)
 SecondHeadilne: Co je mým záměrem
 SecondTextBoxLeft: >-
-  Při práci s člověkem se soustředím na zlepšení emocionálních a vztahových
-  potíží, které s daným problémem mohou souviset. Naše setkání je časem pro vás,
+  Při práci s vámi se budu soustředit na zlepšení emocionálních a vztahových
+  potíží, které s vaším problémem mohou souviset. Naše setkání je časem pro vás,
   mým záměrem je poskytnout vám bezpečný prostor k promyšlení, procítění a
   sdílení čehokoliv, co je pro vás významné.
 SecondTextBoxRight: >-
