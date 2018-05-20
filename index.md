@@ -47,13 +47,14 @@ thirdSegmentBody: >-
   <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
 fourthSegmentHeadilne: Před první schůzkou
 fourthSegmentBody: >-
-  <p> Schůzku je nutné telefonicky sjednat předem: </p> <p>
-  <h3>+&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;</h3>
-  </p> <p> Zmeškám-li váš hovor, zavolám vám co nejdříve zpět. </p> <p>
-  <h3>Základní cena za 1 hodinu je 500 Kč.</h3> </p> <p> Platby přijímám pouze v
-  hotovosti na konci hodiny. Pokud se během prvního setkání ukáže, že vaše
-  potíže nespadají do mé kompetence, tuto konzultaci vám nebudu účtovat a
-  zprostředkuji vám kontakt na příslušného odborníka. </p>
+  <p> <h3>Kontaktujte mne na tel.
+  &#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;</h3> </p>
+  <p> Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor, zavolám
+  vám co nejdříve zpět. </p> <p> <h3>Základní cena za 1 hodinu je 500 Kč.</h3>
+  </p> <p> Platby přijímám pouze v hotovosti na konci hodiny. Pokud se během
+  prvního setkání ukáže, že vaše potíže nespadají do mé kompetence, tuto
+  konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na příslušného
+  odborníka. </p>
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
