@@ -47,7 +47,7 @@ thirdSegmentBody: >-
   <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
 fourthSegmentHeadilne: Před první schůzkou
 fourthSegmentBody: >-
-  <p> Základní cena: </p> <p> <h3>500 Kč (konzultace o délce cca 60 min.)</h3>
+  <p> Základní cena: </p> <p> <h3>500 Kč</h3> (konzultace o délce cca 60 min.)
   </p> <p> Platby přijímám pouze v hotovosti na konci hodiny. Pokud se během
   prvního setkání ukáže, že vaše potíže nespadají do mé kompetence, tuto
   konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na příslušného
