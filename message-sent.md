@@ -5,6 +5,6 @@ published: true
 ---
 ## Zpráva úspěšně odeslána
 
-Ozvu se Vám hned, jak to bude možné.
+Ozvu se Vám co nejdříve.
 
 [Zpět na hlavní stranu](index.html)
