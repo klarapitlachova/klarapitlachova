@@ -1,23 +1,22 @@
 ---
 layout: front-page
 title: 'soukromá psychologická praxe, Brno'
-basicCardName: Klára Pitlachová
+basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
-  Doprovázení, poradenství, terapie – pomoc při překonávání nejasného úseku vaší
-  životní cesty.
+  Doprovázení, poradenství, terapie – psychologická podpora při překonávání
+  nejasného úseku vaší životní cesty.
 basicCardTelephone: >-
   +&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#054;
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
-  Nabízím vám psychologickou pomoc, pokud se právě nacházíte nebo se opakovaně
-  ocitáte v obtížné situaci. Věřím, že vám mohu dobře pomoci zvláště tehdy, když
-  vám obtíže činí váš pocit nedostatečnosti, ochromení či ztráty sebe sama. Mohu
-  se stát vaším průvodcem na cestě ven ze starých (a stále citlivých)
-  záležitostí. Mohu vám být nápomocná, když váháte na významném životním
-  rozcestí nebo chcete-li se jen lépe poznat a posunout se ve svém osobním
-  rozvoji. Společně se můžeme pokusit hledat cestu ke zlepšení také v případě,
-  že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z
-  následujících problémů:
+  Nabízím vám pomoc, pokud se právě nacházíte nebo se opakovaně ocitáte v
+  obtížné situaci. Věřím, že vám mohu dobře pomoci zvláště tehdy, když vám
+  obtíže činí váš pocit nedostatečnosti, ochromení či ztráty sebe sama. Mohu se
+  stát vaším průvodcem na cestě ven ze starých (a stále citlivých) záležitostí.
+  Mohu vám být nápomocná, když váháte na významném životním rozcestí nebo
+  chcete-li se jen lépe poznat a posunout se ve svém osobním rozvoji. Společně
+  se můžeme pokusit hledat cestu ke zlepšení také v případě, že vaši každodenní
+  činnost nepříznivě ovlivňuje některý nebo více z následujících problémů:
 firstSegmentTextColumnRight: >-
   <li>ztráta něčeho nebo někoho pro vás důležitého</li> <li>onemocnění či jiná
   nepříznivá životní událost</li> <li>nejistota, strach, deprese,
