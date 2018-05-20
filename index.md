@@ -42,7 +42,7 @@ secondSegmentBody: >-
 thirdSegmentHeadilne: Konzultační hodiny
 thirdSegmentBody: >-
   <tr> <td>Středa</td> <td>X</td> <td>17:00 - 20:00</td> </tr> <tr>
-  <td>Pátek</td> <td>17:00 - 20:00</td> <td>X</td> </tr>
+  <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
 fourthSegmentHeadilne: Cena a čas
 fourthSegmentBody: >-
   <p> Cena za jednu konzultační hodinu o délce cca 60 minut je 500 Kč. Platby
