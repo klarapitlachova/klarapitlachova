@@ -56,7 +56,7 @@ fourthSegmentBody: >-
   </p> <p> Zmeškám-li váš hovor, zavolám vám co nejdříve zpět. </p>
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
-  <form action="https://formspree.io/pitlachovak@gmail.com" method="POST">
+  <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
   <input type="hidden" name="_next"
   value="http://klarapitlachova.cz/message-sent.html"> <input type="hidden"
   name="_format" value="plain" /> <input type="text" name="_gotcha"
