@@ -33,8 +33,8 @@ qutoSegmentText: >-
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
   <p> Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor, zavolám
-  vám co nejdříve zpět. </p> <p> <h3>Základní cena za 1 hodinu: 500 Kč </p> <p>
-  Platby přijímám pouze v hotovosti na konci naší schůzky. Pokud se během
+  vám co nejdříve zpět. </p> <p> <h3>Základní cena za 1 hodinu: 500 Kč</h3> </p>
+  <p> Platby přijímám pouze v hotovosti na konci naší schůzky. Pokud se během
   prvního setkání ukáže, že vaše potíže nespadají do mé kompetence, tuto
   konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na příslušného
   odborníka. </p> <p> Tel.
