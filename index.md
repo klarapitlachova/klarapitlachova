@@ -30,7 +30,7 @@ qutoSegmentText: >-
   „Člověk může přijít o všechno kromě jediného: nikdo mu nemůže vzít poslední
   lidskou svobodu – vybrat si za jakýchkoliv okolností svůj vlastní přístup,
   svou cestu.“ <br><br> (V. E. Frankl)
-secondSegmentHeadilne: Kde pracuji
+secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
   <p> Liga vozíčkářů (zvonek CDS)<br> Bzenecká 23, Brno<br> <a
   class="map-anchor"
@@ -47,12 +47,12 @@ thirdSegmentBody: >-
   <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
 fourthSegmentHeadilne: Před první schůzkou
 fourthSegmentBody: >-
-  <p> Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor, zavolám
-  vám co nejdříve zpět. </p> <p> <h3>Moje telefonní číslo:
+  <p> <h3>Moje telefonní číslo:
   +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;</h3>
-  </p> <p> Najdete mě na této adrese:<a
+  </p> <p> Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor,
+  zavolám vám co nejdříve zpět. </p> <p> Najdete mě na této adrese: <a
   class="map-anchor"href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
-  target="_blank"> odkaz na mapu </a> </p> <p> Liga vozíčkářů (zvonek CDS)<br>
+  target="_blank">odkaz na mapu </a> </p> <p> Liga vozíčkářů (zvonek CDS)<br>
   Bzenecká 23, Brno<br> </p> <h3>Dopravní spojení:</h3> <ol> <li> Trolejbus 27
   ze Staré Osady. </li> <li> Trolejbusy 25 a 26 z Nového Lískovce (přes Černá
   Pole). </li> <li> Autobus 82 ze Starého Lískovce (přes hlavní nádraží). </li>
