@@ -61,11 +61,9 @@ fifthSegmentBody: >-
   value="http://klarapitlachova.cz/message-sent.html"> <input type="hidden"
   name="_format" value="plain" /> <input type="text" name="_gotcha"
   style="display:none"> <label>Váš email <input id="input-sender-email"
-  type="email" name="_replyto" required> </label> <label>Vaše telefonní číslo
-  <input type="text" name="telefon" placeholder="" required> </label>
-  <label>Vaše jméno <input type="text" name="jmeno" placeholder="" required>
-  </label> <label>Vaše zpráva <textarea name="text" required></textarea>
-  </label> <input type="submit" value="Odeslat zprávu" class="submit-button">
-  </form>
+  type="email" name="_replyto" required> </label> </label> <label>Vaše jméno
+  <input type="text" name="jmeno" placeholder="" required> </label> <label>Vaše
+  zpráva <textarea name="text" required></textarea> </label> <input
+  type="submit" value="Odeslat zprávu" class="submit-button"> </form>
 published: true
 ---
