@@ -45,17 +45,17 @@ thirdSegmentBody: >-
   <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
 fourthSegmentHeadilne: Cena a čas
 fourthSegmentBody: >-
-  <p> Cena za jednu konzultační hodinu o délce cca 60 minut je 500 Kč. Platby
-  přijímám pouze v hotovosti na konci hodiny. Pokud se během prvního setkání
-  ukáže, že vaše potíže nespadají do mé kompetence, tuto konzultaci vám nebudu
-  účtovat a zprostředkuji vám kontakt na příslušného odborníka. </p> <p> Schůzku
-  je nutné telefonicky sjednat předem (tel.
+  <p> Základní cena za jednu konzultační hodinu o délce cca 60 minut je 500 Kč.
+  Platby přijímám pouze v hotovosti na konci hodiny. Pokud se během prvního
+  setkání ukáže, že vaše potíže nespadají do mé kompetence, tuto konzultaci vám
+  nebudu účtovat a zprostředkuji vám kontakt na příslušného odborníka. </p> <p>
+  Schůzku je nutné telefonicky sjednat předem (tel.
   +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;).
   Zmeškám-li váš hovor, zavolám vám co nejdříve zpět. </p>
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
-  <form action="https://formspree.io/klapito@gmail.com" method="POST"> <input
-  type="hidden" name="_next"
+  <form action="https://formspree.io/pitlachovak@gmail.com" method="POST">
+  <input type="hidden" name="_next"
   value="http://klarapitlachova.cz/message-sent.html"> <input type="hidden"
   name="_format" value="plain" /> <input type="text" name="_gotcha"
   style="display:none"> <label>Váš email <input id="input-sender-email"
