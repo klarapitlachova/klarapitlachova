@@ -55,15 +55,4 @@ fifthSegmentBody: >-
   zpráva <textarea name="text" required></textarea> </label> <input
   type="submit" value="Odeslat zprávu" class="submit-button"> </form>
 published: true
-thirdSegmentHeadilne: Napište mi
-thirdSegmentBody: >-
-  <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
-  <input type="hidden" name="_next"
-  value="http://klarapitlachova.cz/message-sent.html"> <input type="hidden"
-  name="_format" value="plain" /> <input type="text" name="_gotcha"
-  style="display:none"> <tr> <label>Váš email <input id="input-sender-email"
-  type="email" name="_replyto" required> </label> </tr> <tr> <label>Vaše jméno
-  <input type="text" name="jmeno" placeholder="" required> </label> </tr> <tr>
-  <label>Vaše zpráva <textarea name="text" required></textarea> </label> </tr>
-  <input type="submit" value="Odeslat zprávu" class="submit-button"> </form>
 ---
