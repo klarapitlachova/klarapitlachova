@@ -32,12 +32,13 @@ qutoSegmentText: >-
   svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
-  <p> Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor, zavolám
-  vám co nejdříve zpět. </p> <p> <h3>Základní cena za 1 hodinu: 500 Kč</h3> </p>
-  <p> Platby přijímám pouze v hotovosti na konci naší schůzky. Pokud se během
-  prvního setkání ukáže, že vaše potíže nespadají do mé kompetence, tuto
-  konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na příslušného
-  odborníka. </p> <p> <h3>Tel.
+  <p> Psychologické praxi se věnuji především ve středu a v pátek od 17 do 20
+  hodin. Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor,
+  zavolám vám co nejdříve zpět. </p> <p> <h3>Základní cena za 1 hodinu: 500
+  Kč</h3> </p> <p> Platby přijímám pouze v hotovosti na konci naší schůzky.
+  Pokud se během prvního setkání ukáže, že vaše potíže nespadají do mé
+  kompetence, tuto konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na
+  příslušného odborníka. </p> <p> <h3>Tel.
   +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;<br>
   Liga vozíčkářů - zvonek CDS<br> Bzenecká 23, Brno</h3> </p> <p> <a
   class="map-anchor"
