@@ -43,11 +43,9 @@ secondSegmentBody: >-
   hodinu</h3> </p> <p> Platby přijímám pouze v hotovosti na konci naší schůzky.
   Pokud se během prvního setkání ukáže, že vaše potíže nespadají do mé
   kompetence, tuto konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na
-  příslušného odborníka. </p>
-thirdSegmentHeadilne: Konzultační hodiny
-thirdSegmentBody: >-
-  <tr> <td>Středa</td> <td>X</td> <td>17:00 - 20:00</td> </tr> <tr>
-  <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
+  příslušného odborníka. </p> <p> <h3>Schůzku si můžete sjednat na tento
+  čas:</h3> </p><p> <tr> <td>Středa</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
+  <tr> <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr> </p>
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
