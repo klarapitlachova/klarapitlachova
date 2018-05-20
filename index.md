@@ -40,9 +40,9 @@ secondSegmentBody: >-
   potíže nespadají do mé kompetence, tuto konzultaci vám nebudu účtovat a
   zprostředkuji vám kontakt na příslušného odborníka. </p> <p> Najdete mě na
   adrese: </p>  <p> <h3>Liga vozíčkářů (zvonek CDS)<br> Bzenecká 23,
-  Brno</h3><br> </p> <p> <a class="map-anchor"
+  Brno</h3><br> <a class="map-anchor"
   href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
-  target="_blank">Odkaz na mapu </a> </p>
+  target="_blank">Odkaz na mapu </a><br> </p>
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
