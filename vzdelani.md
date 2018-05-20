@@ -1,7 +1,7 @@
 ---
 layout: education-page
 title: Vzdělání a zkušenosti
-educationListHeadline: Vzdělání
+educationListHeadline: Vzdělán
 educationListBody: >-
   <li><span>1999 – 2003:</span><br> Sociální práce a sociální politika FSS MU
   Brno (Bc.)</li> <li><span>1999 – 2006:</span><br> Psychologie FSS MU Brno
