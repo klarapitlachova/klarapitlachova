@@ -37,7 +37,7 @@ secondSegmentBody: >-
   <p> Platby přijímám pouze v hotovosti na konci naší schůzky. Pokud se během
   prvního setkání ukáže, že vaše potíže nespadají do mé kompetence, tuto
   konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na příslušného
-  odborníka. </p> <p> Tel.
+  odborníka. </p> <p> <h3>Tel.
   +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;<br>
   Liga vozíčkářů (zvonek CDS)<br> Bzenecká 23, Brno</h3> </p> <p> <a
   class="map-anchor"
