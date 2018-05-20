@@ -49,9 +49,8 @@ fourthSegmentBody: >-
   přijímám pouze v hotovosti na konci hodiny. Pokud se během prvního setkání
   ukáže, že vaše potíže nespadají do mé kompetence, tuto konzultaci vám nebudu
   účtovat a zprostředkuji vám kontakt na příslušného odborníka. </p> <p> Schůzku
-  je nutné telefonicky sjednat předem
-  (+&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#054;).
-  Pokud je to možné, volejte mi v jiném čase, než v konzultačních hodinách.
+  je nutné telefonicky sjednat předem (tel.
+  +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;).
   Zmeškám-li váš hovor, zavolám vám co nejdříve zpět. </p>
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
