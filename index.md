@@ -29,7 +29,7 @@ firstSegmentTextColumnRight: >-
 qutoSegmentText: >-
   „Člověk může přijít o všechno kromě jediného: nikdo mu nemůže vzít poslední
   lidskou svobodu – vybrat si za jakýchkoliv okolností svůj vlastní přístup,
-  svou vlastní cestu.“ <br><br> (V. E. Frankl)
+  svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Kde pracuji
 secondSegmentBody: >-
   <p> poliklinika Kuřim, 4.patro<br> Blanenská 982, 664 34<br> <a
