@@ -18,7 +18,7 @@ educationListBody: >-
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
   <li><span>2017 – dosud:</span><br> Sociální pracovnice Centra denních služeb
-  Ligy vozíčkářů Brno (ambulantní služba pro klienty s tělesným nebo
+  Ligy vozíčkářů Brno (ambulantní služba pro dospělé s tělesným nebo
   kombinovaným postižením)</li> <li><span>2016 – 2017:</span><br> Osobní
   asistentka Hewer Brno (terénní služba pro seniory)</li> <li><span>2013 –
   2014:</span><br> Domácí hospicová péče</li> <li><span>2010 – dosud:</span><br>
