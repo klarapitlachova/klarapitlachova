@@ -3,22 +3,30 @@ layout: education-page
 title: Vzdělání a zkušenosti
 educationListHeadline: Vzdělání
 educationListBody: >-
-  <li><span>1995 – 1999:</span><br> gymnázium Moravský Krumlov</li>
-  <li><span>1999 – 2006:</span><br> psychologie FSS MU Brno (Mgr.)</li>
-  <li><span>2008 – 2015:</span><br> sebezkušenostní psychoterapeutický výcvik
-  SLEA Praha (800 hodin)</li> <li><span>2008:</span><br> člověk mezi životem a
-  smrtí (8 hodin)</li> <li><span>2010:</span><br> trauma v existenciálně
-  analytické terapii (16 hodin)</li> <li><span>2014:</span><br> psychoterapie
-  poruch osobnosti (8 hodin)</li> <li><span>2014 – 2015:</span><br>
-  psychoterapeutická práce s traumatem (65 hodin)</li>
+  <li><span>1999 – 2003:</span><br> Sociální práce a sociální politika FSS MU
+  Brno (Bc.)</li> <li><span>1999 – 2006:</span><br> Psychologie FSS MU Brno
+  (Mgr.)</li> <li><span>2008 – 2015:</span><br> Sebezkušenostní
+  psychoterapeutický výcvik SLEA Praha (800 hodin)</li>
+  <li><span>2008:</span><br> Člověk mezi životem a smrtí (8 hodin)</li>
+  <li><span>2010:</span><br> Trauma v existenciálně analytické terapii (16
+  hodin)</li> <li><span>2014:</span><br> Psychoterapie poruch osobnosti (8
+  hodin)</li> <li><span>2014 – 2015:</span><br> Psychoterapeutická práce s
+  traumatem (65 hodin)</li> <li><span>2016:</span><br> Spolu a jinak ve školním
+  poradenství (35 hodin)</li> <li><span>2017:</span><br> Sexualita a vztahy lidí
+  s postižením - základní (8 hodin)</li>
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
-  <li><span>1997 – 1998:</span><br> osobní asistentka Effetha Brno</li>
-  <li><span>1997 – 2004:</span><br> koordinátorka volnočasových aktivit pro děti
-  a mládež</li> <li><span>2005 – 2006:</span><br> stážistka na oddělení pro
+  <li><span>1997 – 1998:</span><br> Osobní asistentka Effetha Brno</li>
+  <li><span>1997 – 2004:</span><br> Koordinátorka volnočasových aktivit pro děti
+  a mládež</li> <li><span>2005 – 2006:</span><br> Stážistka na oddělení pro
   léčbu závislostí PN Praha-Bohnice</li> <li><span>2007 – 2009:</span><br>
-  koordinátorka dobrovolnické služby pacientům FN Brno (dětská nemocnice,
-  onkologie, LDN)</li> <li><span>2010 – nyní:</span><br> matka dvou synů</li>
-  <li><span>2013 – 2014:</span><br> domácí hospicová péče</li>
+  Koordinátorka dobrovolnické služby pacientům FN Brno (dětská nemocnice,
+  onkologie, LDN)</li> <li><span>2010 – nyní:</span><br> Matka dvou školních
+  dětí</li> <li><span>2013 – 2014:</span><br> Domácí hospicová péče</li>
+  <li><span>2016 – 2017:</span><br> Osobní asistentka Hewer Brno (terénní služba
+  pro seniory)</li> <li><span>2017 – 2018:</span><br> Sociální pracovnice Centra
+  denních služeb Ligy vozíčkářů Brno (ambulantní služba pro klienty s tělesným
+  nebo kombinivaným postižením)</li> <li><span>2018 – dosud:</span><br> Vedoucí
+  služby a klíčový pracovník CDS Ligy vozíčkářů Brno </li>
 published: true
 ---
