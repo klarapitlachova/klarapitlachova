@@ -32,21 +32,6 @@ qutoSegmentText: >-
   svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
-  <p> Liga vozíčkářů (zvonek CDS)<br> Bzenecká 23, Brno<br> <a
-  class="map-anchor"
-  href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
-  target="_blank"> odkaz na mapu </a> </p> <h3>Dopravní spojení:</h3> <ol> <li>
-  Trolejbus 27 ze Staré Osady. </li> <li> Trolejbusy 25 a 26 z Nového Lískovce
-  (přes Černá Pole). </li> <li> Autobus 82 ze Starého Lískovce (přes hlavní
-  nádraží). </li> </ol>
-thirdSegmentHeadilne: Konzultační hodiny
-thirdSegmentBody: >-
-  <tr> <td>Pondělí</td> <td>X</td> <td>X</td> </tr> <tr> <td>Úterý</td>
-  <td>X</td> <td>X</td> </tr> <tr> <tr> <td>Středa</td> <td>X</td> <td>17:00 -
-  20:00</td> </tr> <tr> <td>Čtvrtek</td> <td>X</td> <td>X</td> </tr> <tr>
-  <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
-fourthSegmentHeadilne: Před první schůzkou
-fourthSegmentBody: >-
   <p> <h3>Moje telefonní číslo:
   +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;</h3>
   </p> <p> Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor,
@@ -58,6 +43,13 @@ fourthSegmentBody: >-
   se během prvního setkání ukáže, že vaše potíže nespadají do mé kompetence,
   tuto konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na příslušného
   odborníka. </p>
+thirdSegmentHeadilne: Konzultační hodiny
+thirdSegmentBody: >-
+  <tr> <td>Pondělí</td> <td>X</td> <td>X</td> </tr> <tr> <td>Úterý</td>
+  <td>X</td> <td>X</td> </tr> <tr> <tr> <td>Středa</td> <td>X</td> <td>17:00 -
+  20:00</td> </tr> <tr> <td>Čtvrtek</td> <td>X</td> <td>X</td> </tr> <tr>
+  <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
+fourthSegmentHeadilne: Před první schůzkou
 fifthSegmentHeadilne: Napište mi
 fifthSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
