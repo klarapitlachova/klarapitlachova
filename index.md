@@ -39,7 +39,11 @@ secondSegmentBody: >-
   class="map-anchor"
   href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
   target="_blank">odkaz na mapu </a> </h3> </p> <p> Liga vozíčkářů (zvonek
-  CDS)<br> Bzenecká 23, Brno<br> </p>
+  CDS)<br> Bzenecká 23, Brno<br> </p> <p> <h3>Základní cena: 500 Kč za 1
+  hodinu</h3> </p> <p> Platby přijímám pouze v hotovosti na konci naší schůzky.
+  Pokud se během prvního setkání ukáže, že vaše potíže nespadají do mé
+  kompetence, tuto konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na
+  příslušného odborníka. </p>
 thirdSegmentHeadilne: Konzultační hodiny
 thirdSegmentBody: >-
   <tr> <td>Pondělí</td> <td>X</td> <td>X</td> </tr> <tr> <td>Úterý</td>
