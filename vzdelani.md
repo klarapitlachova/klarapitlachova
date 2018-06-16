@@ -17,7 +17,7 @@ educationListBody: >-
   2003:</span><br> Sociální práce a sociální politika FSS MU Brno (Bc.)</li>
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
-  <li><span>2018 – dosud:</span><br> vedoucí Centra denních služeb Ligy
+  <li><span>2018 – dosud:</span><br> Vedoucí Centra denních služeb Ligy
   vozíčkářů Brno (ambulantní služba pro dospělé s tělesným nebo kombinovaným
   postižením)</li> <li><span>2017 – 2018:</span><br> Sociální pracovnice Centra
   denních služeb Ligy vozíčkářů Brno </li> <li><span>2016 – 2017:</span><br>
