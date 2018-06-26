@@ -1,6 +1,6 @@
 ---
-Layout: static-page
-published: true
+layout: static-page
+title: "Listing of posts"
 ---
 
 ## Příspěvky

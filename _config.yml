@@ -32,12 +32,10 @@ prose:
     - /_layouts
     - /_includes
     - /_sass
-    - /_posts
   metadata:
     _posts:
       - name: "layout"
         field:
-          element: "hidden"
           value: "static-page"
     index.md:
       - name: "layout"
