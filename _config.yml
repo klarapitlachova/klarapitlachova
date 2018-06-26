@@ -93,22 +93,6 @@ prose:
         field:
           element: "textarea"
           label: "Třetí blok - text"
-      - name: "fourthSegmentHeadilne"
-        field:
-          element: "text"
-          label: "Čtvrtý blok - nadpis"
-      - name: "fourthSegmentBody"
-        field:
-          element: "textarea"
-          label: "Čtvrtý blok - text"
-      - name: "fifthSegmentHeadilne"
-        field:
-          element: "text"
-          label: "Pátý blok - nadpis"
-      - name: "fifthSegmentBody"
-        field:
-          element: "textarea"
-          label: "Pátý blok - text"
 
     jak-pracuji.md:
       - name: "layout"

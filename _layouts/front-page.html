@@ -32,12 +32,6 @@
 	</div>
 </div>
 
-<!-- quatation card -->
-<!-- <div id="dvs03" class="picture-with-quote-card">
-	<div class="division-content">„Při spolupracujícím přístupu jsou terapeut a klient na té samé stránce knihy.“<br><br>(B. Schwartz a J. Flowers)</div>
-</div>
- -->
-
 <!-- Location and time -->
 <div class="card-wrapper">
 	<article class="when-and-where">
@@ -48,33 +42,11 @@
 			</div>
 
 			<div class="one-column">
-			<p>
-			<h2>{{ page.thirdSegmentHeadilne }}</h2>
-			<table>
-				{{ page.thirdSegmentBody }}
-			</table>
-			</p>
+			<h2 id="form-anchor-hook">{{ page.thirdSegmentHeadilne }}</h2>
+			{{ page.thirdSegmentBody }}
 			</div>
 		</div>
 	</article>
 </div>
-
-<!-- Price and Contact form -->
-<div class="card-wrapper">
-	<article class="price-and-form">
-		<div class="two-columns">
-			<div class="one-column">
-				<h2>{{ page.fourthSegmentHeadilne }}</h2>
-				{{ page.fourthSegmentBody }}
-			</div>
-
-			<div class="one-column">
-				<h2 id="form-anchor-hook">{{ page.fifthSegmentHeadilne }}</h2>
-				{{ page.fifthSegmentBody }}
-			</div>
-		</div>
-	</article>
-</div>
-
 
 {% include footer.html %}
