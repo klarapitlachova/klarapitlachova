@@ -5,8 +5,7 @@ basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
   Doprovázení, poradenství, terapie – psychologická podpora při překonávání
   nejasného úseku vaší životní cesty.
-basicCardTelephone: >-
-  +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;
+basicCardTelephone: 'Tel. &#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;'
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
   Nabízím vám pomoc, pokud se právě nacházíte nebo se opakovaně ocitáte v
@@ -39,7 +38,7 @@ secondSegmentBody: >-
   Pokud se během prvního setkání ukáže, že vaše potíže nespadají do mé
   kompetence, tuto konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na
   příslušného odborníka. </p> <p> <h3>Tel.
-  +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;<br>
+  &#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;<br>
   Liga vozíčkářů - zvonek CDS<br> Bzenecká 23, Brno</h3> </p> <p> <a
   class="map-anchor"
   href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
