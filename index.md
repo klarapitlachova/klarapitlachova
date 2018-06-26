@@ -5,7 +5,7 @@ basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
   Doprovázení, poradenství, terapie – psychologická podpora při překonávání nejasného úseku vaší životní cesty.
 basicCardTelephone: >-
-  +&#052;&#050;&#048;&#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;
+  +&#052;&#050;&#048;&#032;&#055;&#051;&#055;&#032;&#051;&#057;&#057;&#032;&#054;&#048;&#055;
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
   Nabízím vám pomoc, pokud se právě nacházíte nebo se opakovaně ocitáte v obtížné situaci. Věřím, že vám mohu dobře pomoci zvláště tehdy, když vám obtíže činí váš pocit nedostatečnosti, ochromení či ztráty sebe sama. Mohu se stát vaším průvodcem na cestě ven ze starých (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte na významném životním rozcestí nebo chcete-li se jen lépe poznat a posunout se ve svém osobním rozvoji. Společně se můžeme pokusit hledat cestu ke zlepšení také v případě, že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z následujících problémů:
@@ -20,10 +20,4 @@ thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST"> <input type="hidden" name="_next" value="http://klarapitlachova.cz/message-sent.html"> <input type="hidden" name="_format" value="plain" /> <input type="text" name="_gotcha" style="display:none"> <label>Váš email <input id="input-sender-email" type="email" name="_replyto" required> </label> </label> <label>Vaše jméno <input type="text" name="jmeno" placeholder="" required> </label> <label>Vaše zpráva <textarea name="text" required></textarea> </label> <input type="submit" value="Odeslat zprávu" class="submit-button"> </form>
 published: true
-thirdSegmentBody: >-
-  <tr> <td>Pondělí</td> <td>X</td> <td>X</td> </tr> <tr> <td>Úterý</td>
-  <td>X</td> <td>X</td> </tr> <tr> <td>Středa</td> <td>X</td> <td>17:00 -
-  20:00</td> </tr> <tr> <td>Čtvrtek</td> <td>X</td> <td>X</td> </tr> <tr>
-  <td>Pátek</td> <td>X</td> <td>17:00 - 20:00</td> </tr>
-thirdSegmentHeadilne: Konzultační hodiny
 ---
