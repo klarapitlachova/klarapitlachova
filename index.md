@@ -5,7 +5,7 @@ basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
   Doprovázení, poradenství, terapie – psychologická podpora při překonávání
   nejasného úseku vaší životní cesty.
-basicCardTelephone: 'Tel. &#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;'
+basicCardTelephone: 'Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#052;&#051;&#032;&#053;&#057;&#057;'
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
   Nabízím vám pomoc, pokud se právě nacházíte nebo se opakovaně ocitáte v
@@ -32,7 +32,7 @@ qutoSegmentText: >-
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
   <p> Psychologické praxi se v současnosti na plný úvazek věnuji v A Klubech,
-  kde se mnou můžete navázat spolupráci za podmínek uvedených na <a
+  kde se mnou můžete navázat spolupráci za podmínek uvedených na adrese <a
   href="http://www.akluby.cz" target="_blank">www.akluby.cz</a>. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
