@@ -31,18 +31,8 @@ qutoSegmentText: >-
   svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
-  <p> Psychologické praxi se věnuji především ve středu a v pátek od 17 do 20
-  hodin. Schůzku je nutné telefonicky sjednat předem. Zmeškám-li váš hovor,
-  zavolám vám co nejdříve zpět. </p> <p> <h3>Základní cena za 1 hodinu: 500
-  Kč</h3> </p> <p> Platby přijímám pouze v hotovosti ihned po skončení schůzky.
-  Pokud se během prvního setkání ukáže, že vaše potíže nespadají do mé
-  kompetence, tuto konzultaci vám nebudu účtovat a zprostředkuji vám kontakt na
-  příslušného odborníka. </p> <p> <h3>Tel.
-  &#032;&#054;&#048;&#053;&#032;&#051;&#053;&#051;&#032;&#054;&#048;&#049;<br>
-  Liga vozíčkářů - zvonek CDS<br> Bzenecká 23, Brno</h3> </p> <p> <a
-  class="map-anchor"
-  href="https://www.google.cz/maps/place/Liga+voz%C3%AD%C4%8Dk%C3%A1%C5%99%C5%AF/@49.207363,16.6546221,17z/data=!3m1!4b1!4m5!3m4!1s0x471294bd06667b0f:0x5c8c8e3231690874!8m2!3d49.2073595!4d16.6568108"
-  target="_blank">Odkaz na mapu</a> </p>
+  <p> Psychologické praxi se v současnosti na plný úvazek věnuji v A Klubech.
+  <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
