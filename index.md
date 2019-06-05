@@ -31,9 +31,9 @@ qutoSegmentText: >-
   svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
-  <p> Psychologické praxi se v současnosti na plný úvazek věnuji v A Klubech,
-  kde se mnou můžete navázat spolupráci za podmínek uvedených na adrese <a
-  href="http://www.akluby.cz" target="_blank">www.akluby.cz</a>. <p>
+  <p> Psychologické praxi se v současnosti na plný úvazek věnuji pouze v A
+  Klubech, kde se mnou můžete navázat spolupráci za podmínek uvedených na adrese
+  <a href="http://www.akluby.cz" target="_blank">www.akluby.cz</a>. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
