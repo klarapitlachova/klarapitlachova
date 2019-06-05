@@ -21,7 +21,7 @@ firstSegmentTextColumnRight: >-
   nepříznivá životní událost</li> <li>nejistota, strach, deprese,
   nerozhodnost</li> <li>nutkavé myšlenky či chování, omezující zlozvyky</li>
   <li>přetížení, napětí, stres, psychosomatické potíže</li> <li>pocit
-  nesmyslnosti, prázdnota, nedostatečný „tah na branku“</li> <li>odcizení,
+  nesmyslnosti, prázdnota, ztráta motivace, cíle </li> <li>odcizení,
   nezakořeněnost, osamělost</li> <li>neuspokojivé vztahy, včetně vztahu k
   sobě</li> <li>pochybnosti o stávajících hodnotách, spirituální krize</li>
   <li>a další…</li>
