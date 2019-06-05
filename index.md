@@ -5,17 +5,17 @@ basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
   Doprovázení, poradenství, terapie – psychologická podpora při překonávání
   nejasného úseku vaší životní cesty.
-basicCardTelephone: 'Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#052;&#051;&#032;&#053;&#057;&#057;'
+basicCardTelephone: 'Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;'
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
   Nabízím vám pomoc, pokud se právě nacházíte nebo se opakovaně ocitáte v
-  obtížné situaci. Věřím, že vám mohu dobře pomoci zvláště tehdy, když vám
-  obtíže činí váš pocit nedostatečnosti, ochromení či ztráty sebe sama. Mohu se
-  stát vaším průvodcem na cestě ven ze starých (a stále citlivých) záležitostí.
-  Mohu vám být nápomocná, když váháte na významném životním rozcestí nebo
-  chcete-li se jen lépe poznat a posunout se ve svém osobním rozvoji. Společně
-  se můžeme pokusit hledat cestu ke zlepšení také v případě, že vaši každodenní
-  činnost nepříznivě ovlivňuje některý nebo více z následujících problémů:
+  obtížné situaci, která vás nadměrně vyčerpává či ochromuje a nevíte, jak z ní
+  ven. Mohu se stát vaším průvodcem na cestě ven ze starých (a stále citlivých)
+  záležitostí. Mohu vám být nápomocná, když váháte na významném životním
+  rozcestí nebo chcete-li se jen lépe poznat a posunout se ve svém osobním
+  rozvoji. Společně se můžeme pokusit hledat cestu ke zlepšení také v případě,
+  že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z
+  následujících problémů:
 firstSegmentTextColumnRight: >-
   <li>ztráta něčeho nebo někoho pro vás důležitého</li> <li>onemocnění či jiná
   nepříznivá životní událost</li> <li>nejistota, strach, deprese,
