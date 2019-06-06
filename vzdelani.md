@@ -33,6 +33,7 @@ experienceListBody: >-
   <li><span>2005 – 2006:</span><br> Stážistka na oddělení pro léčbu závislostí
   PN Praha-Bohnice</li> <li><span>1997 – 2004:</span><br> Koordinátorka
   volnočasových aktivit pro děti a mládež</li> <li><span>1997 – 1998:</span><br>
-  Osobní asistentka Effetha Brno</li>
+  Osobní asistentka Effetha Brno (denní stacionář pro děti a mládež s mentálním
+  postižením)</li>
 published: true
 ---
