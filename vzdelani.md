@@ -26,12 +26,12 @@ experienceListBody: >-
   2018:</span><br> Sociální pracovnice Centra denních služeb Ligy vozíčkářů Brno
   (ambulantní služba pro dospělé s tělesným nebo kombinovaným postižením) </li>
   <li><span>2016 – 2017:</span><br> Osobní asistentka Hewer Brno (terénní služba
-  pro seniory)</li> <li><span>2013 – 2014:</span><br> Domácí hospicová péče</li>
-  <li><span>2010 – dosud:</span><br> Matka dvou školních dětí</li>
-  <li><span>2007 – 2009:</span><br> Koordinátorka dobrovolnické služby pacientům
-  FN Brno (dětská nemocnice, onkologie, LDN)</li> <li><span>2005 –
-  2006:</span><br> Stážistka na oddělení pro léčbu závislostí PN
-  Praha-Bohnice</li> <li><span>1997 – 2004:</span><br> Koordinátorka
+  pro seniory a osoby se zdravotním postižením)</li> <li><span>2013 –
+  2014:</span><br> Domácí hospicová péče</li> <li><span>2010 – dosud:</span><br>
+  Matka dvou školních dětí</li> <li><span>2007 – 2009:</span><br> Koordinátorka
+  dobrovolnické služby pacientům FN Brno (dětská nemocnice, onkologie, LDN)</li>
+  <li><span>2005 – 2006:</span><br> Stážistka na oddělení pro léčbu závislostí
+  PN Praha-Bohnice</li> <li><span>1997 – 2004:</span><br> Koordinátorka
   volnočasových aktivit pro děti a mládež</li> <li><span>1997 – 1998:</span><br>
   Osobní asistentka Effetha Brno</li>
 published: true
