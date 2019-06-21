@@ -8,8 +8,8 @@ educationListBody: >-
   psychoterapeutického výcviku SLEA Praha </li><li><span>2017:</span><br>
   Sexualita a vztahy lidí s postižením - základní (8 hodin)</li>
   <li><span>2017:</span><br> Základy individuálního plánování v sociálních
-  službách (8 hodin)</li> <li><span>2016:</span><br> Spolu a jinak ve školním
-  poradenství (35 hodin)</li> <li><span>2014 – 2015:</span><br>
+  službách (8 hodin)</li> <li><span>2016:</span><br> Spolu a jinak ve výchově a
+  vzdělávání (35 hodin)</li> <li><span>2014 – 2015:</span><br>
   Psychoterapeutická práce s traumatem (65 hodin)</li>
   <li><span>2014:</span><br> Psychoterapie poruch osobnosti (8 hodin)</li>
   <li><span>2010:</span><br> Trauma v existenciálně analytické terapii (16
