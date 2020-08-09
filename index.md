@@ -38,7 +38,7 @@ secondSegmentBody: >-
   odpovídám zpravidla nejpozději následující pracovní den. <p><p> Na osobní
   schůzku se můžete objednat také prostřednictvím <a
   href="https://www.znamylekar.cz/klara-pitlachova/psycholog-psychoterapeut/brno"
-  target="_blank">rezervačního kalendáře</a> (po kliknutí na odkaz budete
+  target="_blank">rezervačního kalendáře</a> (po rozkliknutí odkazu budete
   přesměrováni na na portál Známý lékař) <p><p> Pro další dotazy můžete využít
   následující formulář. <p>
 thirdSegmentHeadilne: Napište mi
