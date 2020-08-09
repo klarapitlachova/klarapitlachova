@@ -32,14 +32,14 @@ qutoSegmentText: >-
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
   <p> Najdete mne v Brně na adrese Malinovského náměstí 4, 1. patro, dveře č.
-  115. Standardní cena za poskytnutí 50 minutové individuální konzultace je 600
-  Kč, které se platí hotově na konci schůzky. Individuálně zvolený termín si
-  můžete sjednat na telefonním čísle 776 433 599. Na zmeškané hovory odpovídám
-  zpravidla nejpozději následující pracovní den. Na osobní schůzku se můžete
-  objednat také prostřednictvím <a
+  115. <p><p> Standardní cena za poskytnutí 50 minutové individuální konzultace
+  je 600 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
+  termín si můžete sjednat na telefonním čísle 776 433 599. Na zmeškané hovory
+  odpovídám zpravidla nejpozději následující pracovní den. <p><p> Na osobní
+  schůzku se můžete objednat také prostřednictvím <a
   href="https://www.znamylekar.cz/klara-pitlachova/psycholog-psychoterapeut/brno"
-  target="_blank">rezervačního kalendáře</a> na portálu Známý lékař. Pro další
-  dotazy můžete využít následující formulář. <p>
+  target="_blank">rezervačního kalendáře</a> na portálu Známý lékař. <p><p> Pro
+  další dotazy můžete využít následující formulář. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
