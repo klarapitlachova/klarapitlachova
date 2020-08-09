@@ -20,7 +20,7 @@ educationListBody: >-
   2003:</span><br> Sociální práce a sociální politika FSS MU Brno (Bc.)</li>
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
-  <li><span>2019 – dosud:</span><br> Psycholožka Terapeutického centra A Klubů
+  <li><span>2019 – 2020:</span><br> Psycholožka Terapeutického centra A Klubů
   Brno (ambulantní léčba a poradenství v potížích souvisejících s užíváním
   alkoholu, léků, hazardním hraním či jiným návykovým chováním)</li>
   <li><span>2019:</span><br> Stážistka na odděleních pro léčbu závislostí PN
