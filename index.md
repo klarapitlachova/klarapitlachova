@@ -38,8 +38,8 @@ secondSegmentBody: >-
   zpravidla nejpozději následující pracovní den. Na osobní schůzku se můžete
   objednat také prosřednictvím <a
   href="https://www.znamylekar.cz/klara-pitlachova/psycholog-psychoterapeut/brno"
-  target="_blank">rezervačního kalendáře</a>. Pro další dotazy můžete využít
-  následující formulář. <p>
+  target="_blank">rezervačního kalendáře</a> na portálu Známý lékař. Pro další
+  dotazy můžete využít následující formulář. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
