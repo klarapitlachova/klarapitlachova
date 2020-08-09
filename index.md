@@ -31,10 +31,15 @@ qutoSegmentText: >-
   svou cestu.“ <br><br> (V. E. Frankl)
 secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
-  <p> Psychologické praxi se v současnosti věnuji pouze v A Klubech, ústavu pro
-  prevenci a léčbu závislostí, kde se mnou můžete navázat spolupráci za podmínek
-  uvedených na adrese <a href="http://www.akluby.cz"
-  target="_blank">www.akluby.cz</a>. <p>
+  <p> Najdete mne v Brně na adrese Malinovského náměstí 4, 1. patro, dveře č.
+  115. Standardní cena za poskytnutí 50 minutové individuální konzultace je 600
+  Kč, které se platí hotově na konci schůzky. Individuálně zvolený termín si
+  můžete sjednat na telefonním čísle 776 433 599. Na zmeškané hovory odpovídám
+  zpravidla nejpozději následující pracovní den. Na osobní schůzku se můžete
+  objednat také prosřednictvím <a
+  href="https://www.znamylekar.cz/klara-pitlachova/psycholog-psychoterapeut/brno"
+  target="_blank">rezervačního kalendáře</a>. Pro další dotazy můžete využít
+  následujácá formulář. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
