@@ -36,7 +36,7 @@ secondSegmentBody: >-
   Kč, které se platí hotově na konci schůzky. Individuálně zvolený termín si
   můžete sjednat na telefonním čísle 776 433 599. Na zmeškané hovory odpovídám
   zpravidla nejpozději následující pracovní den. Na osobní schůzku se můžete
-  objednat také prosřednictvím <a
+  objednat také prostřednictvím <a
   href="https://www.znamylekar.cz/klara-pitlachova/psycholog-psychoterapeut/brno"
   target="_blank">rezervačního kalendáře</a> na portálu Známý lékař. Pro další
   dotazy můžete využít následující formulář. <p>
