@@ -39,7 +39,7 @@ secondSegmentBody: >-
   objednat také prosřednictvím <a
   href="https://www.znamylekar.cz/klara-pitlachova/psycholog-psychoterapeut/brno"
   target="_blank">rezervačního kalendáře</a>. Pro další dotazy můžete využít
-  následujácá formulář. <p>
+  následující formulář. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
