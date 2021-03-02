@@ -33,7 +33,7 @@ secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
   <p> Najdete mne v Brně na adrese Malinovského náměstí 4 (bývalý Dům odborových
   služeb, 1. patro, dveře č. 115). <p><p> Standardní cena za poskytnutí 50
-  minutové individuální konzultace je 600 Kč, které se platí hotově na konci
+  minutové individuální konzultace je 700 Kč, které se platí hotově na konci
   schůzky. <p><p> Individuálně zvolený termín si můžete sjednat na telefonním
   čísle 776 433 599. Na zmeškané hovory odpovídám zpravidla nejpozději
   následující pracovní den. <p><p> Na osobní schůzku se můžete objednat také
