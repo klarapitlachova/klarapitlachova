@@ -4,7 +4,7 @@ title: Kdo jsem
 educationListHeadline: Vzdělání
 educationListBody: >-
   </li> <li><span>2019:</span><br> Dluhová problematika - základní (5
-  hodin)</li> <li><span>2018 – dosud:</span><br> Supervizní část
+  hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
   psychoterapeutického výcviku SLEA Praha </li><li><span>2017:</span><br>
   Sexualita a vztahy lidí s postižením - základní (8 hodin)</li>
   <li><span>2017:</span><br> Základy individuálního plánování v sociálních
