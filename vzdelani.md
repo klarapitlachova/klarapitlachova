@@ -5,9 +5,10 @@ educationListHeadline: Vzdělání
 educationListBody: >-
   <li><span>2021:</span><br> Nadstavbový kurz psychodynamicko-imaginativní
   traumaterapie dle Dr. Luise Reddemann - PITT (18 hodin)</li>
-  <li><span>2020:</span><br> Vedení rozhovoru s dětmi a dospívajícími (16
-  hodin)</li> <li><span>2019:</span><br> Dluhová problematika - základní (5
-  hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
+  <li><span>2021:</span><br> Suicidalita v kontextu osobnostní dynamiky/poruchy
+  (5 hodin)</li>  <li><span>2020:</span><br> Vedení rozhovoru s dětmi a
+  dospívajícími (16 hodin)</li> <li><span>2019:</span><br> Dluhová problematika
+  - základní (5 hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
   psychoterapeutického výcviku SLEA Praha - certifikát ukončeného
   psychoterapeutického vzdělání v logoterapii a existenciální analýze
   </li><li><span>2017:</span><br> Sexualita a vztahy lidí s postižením -
