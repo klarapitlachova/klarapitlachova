@@ -20,8 +20,9 @@ educationListBody: >-
   hodin)</li> <li><span>2008:</span><br> Člověk mezi životem a smrtí (8
   hodin)</li> <li><span>2008 – 2015:</span><br> Sebezkušenostní část
   psychoterapeutického výcviku SLEA Praha (800 hodin)</li> <li><span>1999 –
-  2006:</span><br> Psychologie FSS MU Brno (Mgr.)</li> <li><span>1999 –
-  2003:</span><br> Sociální práce a sociální politika FSS MU Brno (Bc.)</li>
+  2006:</span><br> Psychologie FSS MU Brno - titul Mgr.</li> <li><span>1999 –
+  2003:</span><br> Sociální práce a sociální politika FSS MU Brno - titul
+  Bc.</li>
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
   <li><span>2020 – dosud:</span><br>  Psychologické a psychoterapeutické
