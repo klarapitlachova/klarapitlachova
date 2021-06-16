@@ -8,12 +8,13 @@ educationListBody: >-
   <li><span>2020:</span><br> Vedení rozhovoru s dětmi a dospívajícími (16
   hodin)</li> <li><span>2019:</span><br> Dluhová problematika - základní (5
   hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
-  psychoterapeutického výcviku SLEA Praha </li><li><span>2017:</span><br>
-  Sexualita a vztahy lidí s postižením - základní (8 hodin)</li>
-  <li><span>2017:</span><br> Základy individuálního plánování v sociálních
-  službách (8 hodin)</li> <li><span>2016:</span><br> Spolu a jinak ve výchově a
-  vzdělávání (35 hodin)</li> <li><span>2014 – 2015:</span><br>
-  Psychoterapeutická práce s traumatem (65 hodin)</li>
+  psychoterapeutického výcviku SLEA Praha - certifikát ukončeného
+  psychoterapeutického vzdělání v logoterapii a existenciální analýze
+  </li><li><span>2017:</span><br> Sexualita a vztahy lidí s postižením -
+  základní (8 hodin)</li> <li><span>2017:</span><br> Základy individuálního
+  plánování v sociálních službách (8 hodin)</li> <li><span>2016:</span><br>
+  Spolu a jinak ve výchově a vzdělávání (35 hodin)</li> <li><span>2014 –
+  2015:</span><br> Psychoterapeutická práce s traumatem (65 hodin)</li>
   <li><span>2014:</span><br> Psychoterapie poruch osobnosti (8 hodin)</li>
   <li><span>2010:</span><br> Trauma v existenciálně analytické terapii (16
   hodin)</li> <li><span>2008:</span><br> Člověk mezi životem a smrtí (8
