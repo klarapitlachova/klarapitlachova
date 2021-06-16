@@ -3,7 +3,9 @@ layout: education-page
 title: Kdo jsem
 educationListHeadline: Vzdělání
 educationListBody: >-
-  </li> <li><span>2019:</span><br> Dluhová problematika - základní (5
+  <li><span>2021:</span><br> Nadstavbový kurz psychodynamicko-imaginativní
+  traumaterapie dle Dr. Luise Reddemann - PITT (18
+  hodin)</li><li><span>2019:</span><br> Dluhová problematika - základní (5
   hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
   psychoterapeutického výcviku SLEA Praha </li><li><span>2017:</span><br>
   Sexualita a vztahy lidí s postižením - základní (8 hodin)</li>
