@@ -35,10 +35,13 @@ secondSegmentBody: >-
   služeb, 1. patro, dveře č. 115). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Standardní cena za poskytnutí 50 minutové individuální konzultace je
-  700 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
-  termín si můžete sjednat na telefonním čísle 776 433 599. Na zmeškané hovory
-  odpovídám zpravidla nejpozději následující pracovní den. <p><p> Pro další
-  dotazy můžete využít následující formulář: <p>
+  700 Kč, které se platí hotově na konci schůzky. Pojištěnci VZP mohou na tato
+  sezení čerpat příspěvek z programu "Zvýšení dostupnosti psychosociální
+  podpory". <p><p> Individuálně zvolený termín si můžete sjednat na telefonním
+  čísle 776 433 599. MOJE KAPACITA JE MOMENTÁLNĚ PLNĚ VYTÍŽENA, ČEKÁNÍ NA 1.
+  SCHŮZKU PROTO MŮŽE TRVAT 2-3 MĚSÍCE. Na zmeškané hovory odpovídám zpravidla
+  nejpozději následující pracovní den. <p><p> Pro další dotazy můžete využít
+  následující formulář: <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
