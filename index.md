@@ -8,14 +8,14 @@ basicCardExpertise: >-
 basicCardTelephone: 'Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;'
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
-  Nabízím vám pomoc, pokud se právě nacházíte nebo se opakovaně ocitáte v
-  obtížné situaci, která vás nadměrně vyčerpává či ochromuje a nevíte, jak z ní
-  ven. Mohu se stát vaším průvodcem na cestě ven ze starých (a stále citlivých)
-  záležitostí. Mohu vám být nápomocná, když váháte na významném životním
-  rozcestí nebo chcete-li se jen lépe poznat a posunout se ve svém osobním
-  rozvoji. Společně můžeme hledat cestu ke zlepšení také v případě, že vaši
-  každodenní činnost nepříznivě ovlivňuje některý nebo více z následujících
-  problémů:
+  Nabízím vám pomoc, pokud je vám více než 18 let a právě se nacházíte nebo se
+  opakovaně ocitáte v obtížné situaci, která vás nadměrně vyčerpává či ochromuje
+  a nevíte, jak z ní ven. Mohu se stát vaším průvodcem na cestě ven ze starých
+  (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte na
+  významném životním rozcestí nebo chcete-li se jen lépe poznat a posunout se ve
+  svém osobním rozvoji. Společně můžeme hledat cestu ke zlepšení také v případě,
+  že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z
+  následujících problémů:
 firstSegmentTextColumnRight: >-
   <li>ztráta něčeho nebo někoho pro vás důležitého</li> <li>onemocnění či jiná
   nepříznivá životní událost</li> <li>nejistota, strach, deprese,
@@ -35,7 +35,7 @@ secondSegmentBody: >-
   služeb, 1. patro, dveře č. 115). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Standardní cena za poskytnutí 50 minutové individuální konzultace je
-  700 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
+  800 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
   termín si můžete sjednat na telefonním čísle 776 433 599. Na zmeškané hovory
   odpovídám zpravidla nejpozději následující pracovní den. <p><p> Pro další
   dotazy můžete využít následující formulář: <p>
