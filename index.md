@@ -36,9 +36,10 @@ secondSegmentBody: >-
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Standardní cena za poskytnutí 50 minutové individuální konzultace je
   800 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
-  termín si můžete sjednat na telefonním čísle 776 433 599. Na zmeškané hovory
-  odpovídám zpravidla nejpozději následující pracovní den. <p><p> Pro další
-  dotazy můžete využít následující formulář: <p>
+  termín si můžete sjednat na telefonním čísle 776 433 599. Když mám k dispozici
+  volné termíny pro zahájení nové spolupráce, na zmeškané hovory odpovídám
+  zpravidla nejpozději následující pracovní den. <p><p> Pro další dotazy můžete
+  využít následující formulář: <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
