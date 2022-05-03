@@ -51,7 +51,7 @@ thirdSegmentBody: >-
   <input type="text" name="jmeno" placeholder="" required> </label> <label>Vaše
   zpráva <textarea name="text" required></textarea> </label> <input
   type="submit" value="Odeslat zprávu" class="submit-button"> </form><p>
-  </p><img src="assets/images/Na%20web%20odznak.png"
+  </p><img src="assets/images/CAP_odznak_radna_F_web.png"
   style="max-width:100%;padding:1rem 0;"><p>
 published: true
 ---
