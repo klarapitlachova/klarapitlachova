@@ -50,6 +50,8 @@ thirdSegmentBody: >-
   type="email" name="_replyto" required> </label> </label> <label>Vaše jméno
   <input type="text" name="jmeno" placeholder="" required> </label> <label>Vaše
   zpráva <textarea name="text" required></textarea> </label> <input
-  type="submit" value="Odeslat zprávu" class="submit-button"> </form>
+  type="submit" value="Odeslat zprávu" class="submit-button"> </form><p>
+  </p><img src="assets/images/Na%20web%20odznak.png"
+  style="max-width:100%;padding:1rem 0;"><p>
 published: true
 ---
