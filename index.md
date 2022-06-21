@@ -8,7 +8,7 @@ basicCardExpertise: >-
 basicCardTelephone: 'Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;'
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
-  Nabízím vám pomoc, pokud je vám více než 18 let a právě se nacházíte nebo se
+  Nabízím vám pomoc, pokud je vám více než 20 let a právě se nacházíte nebo se
   opakovaně ocitáte v obtížné situaci, která vás nadměrně vyčerpává či ochromuje
   a nevíte, jak z ní ven. Mohu se stát vaším průvodcem na cestě ven ze starých
   (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte na
@@ -36,10 +36,12 @@ secondSegmentBody: >-
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Standardní cena za poskytnutí 50 minutové individuální konzultace je
   800 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
-  termín si můžete sjednat na telefonním čísle 776 433 599. Když mám k dispozici
-  volné termíny pro zahájení nové spolupráce, na zmeškané hovory odpovídám
-  zpravidla nejpozději následující pracovní den. <p><p> Pro další dotazy můžete
-  využít následující formulář: <p>
+  termín si můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete
+  využít elektronický formulář níže. Když mám k dispozici volné termíny pro
+  zahájení nové spolupráce, odpovídám zpravidla do týdne. <p><p> V letních
+  měsících je provoz praxe i příjem nových zájemců omezen z důvodu čerpání
+  dovolené, závazné termíny pro zahájení spolupráce proto budu nabízet až
+  začátkem září. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
