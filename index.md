@@ -38,9 +38,9 @@ secondSegmentBody: >-
   800 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
   termín si můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete
   využít následující formulář. Když mám k dispozici volné termíny pro zahájení
-  nové spolupráce, na zmeškané hovory odpovídám zpravidla do týdne. <p><p> V
-  letních měsících je provoz omezen z důvodu čerpání dovolené, příjem nových
-  zájemců o spolupráci je proto do září 2022 pozastaven. <p>
+  nové spolupráce, odpovídám zpravidla do týdne. <p><p> V letních měsících je
+  provoz omezen z důvodu čerpání dovolené, příjem nových zájemců o spolupráci je
+  proto do září 2022 pozastaven. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
