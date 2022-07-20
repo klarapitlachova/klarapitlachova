@@ -35,10 +35,14 @@ secondSegmentBody: >-
   služeb, 1. patro, dveře č. 115). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Standardní cena za poskytnutí 50 minutové individuální konzultace je
-  800 Kč, které se platí hotově na konci schůzky. <p><p> Individuálně zvolený
-  termín si můžete sjednat (nejlépe přes SMS) na telefonním čísle 776 433 599
-  nebo můžete využít následující formulář. Když mám k dispozici volné termíny
-  pro zahájení nové spolupráce, odpovídám zpravidla do týdne. <p>
+  800 Kč, které se platí hotově na konci schůzky. (Jste-li klientem Všeobecné
+  nebo Revírní bratrské pojištovny, můžete ve spolupráci se mnou 1x ročně využít
+  příspěvku na "psychosociální podporu", tedy nechat si zpětně proplatit až 500
+  Kč za jedno sezení v celkovém rozsahu až 5.000 Kč na až 10 sezení.) <p><p>
+  Individuálně zvolený termín si můžete sjednat (nejlépe přes SMS) na telefonním
+  čísle 776 433 599 nebo můžete využít následující formulář. Když mám k
+  dispozici volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do
+  týdne. <p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
