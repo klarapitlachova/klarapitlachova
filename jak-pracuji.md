@@ -2,7 +2,19 @@
 layout: how-i-work-page
 title: Jak pracuji
 FirstHeadilne: Jak pracuji
-FirstTextBoxLeft: "Moje pomoc je založená především na osobním rozhovoru o tématech, která se vás bezprostředně týkají. Při vedení rozhovoru vycházím z pojetí čtyř základních osobních motivací Alfrieda Längleho, jenž svou prací navazuje na dílo Viktora Emila Frankla (více o Logoterapii a existenciální analýze na\_<a href=\"http://www.slea.cz\" target=\"_blank\">www.slea.cz</a>, webových stránkách Společnosti pro logoterapii a existenciální analýzu, která sleduje odbornou a etickou úroveň mé práce s klienty prostřednictvím pravidelných supervizí). V případě vašeho zájmu můžeme při našem setkání využít hojivého potenciálu vaší obrazotvornosti a témata k tomu vhodná zpracovat prostřednictvím imaginačních technik, kresby či jiné formy symbolického vyjádření."
+FirstTextBoxLeft: >-
+  Moje pomoc je založená především na osobním rozhovoru o tématech, která se vás
+  bezprostředně týkají. Při vedení rozhovoru vycházím z pojetí čtyř základních
+  osobních motivací Alfrieda Längleho, jenž svou prací navazuje na dílo Viktora
+  Emila Frankla (více o Logoterapii a existenciální analýze na <a
+  href="http://www.slea.cz" target="_blank">www.slea.cz</a>, webových stránkách
+  Společnosti pro logoterapii a existenciální analýzu, která sleduje odbornou a
+  etickou úroveň mé práce s klienty prostřednictvím pravidelných supervizí).
+  Inspiruje mne také individuální psychologie Alfreda Aldera (v praktickém
+  pojetí brněnské společnosti <a href="Mansio" target="_blank">www.mansio.cz<).
+  V případě vašeho zájmu můžeme při našem setkání využít hojivého potenciálu
+  vaší obrazotvornosti a témata k tomu vhodná zpracovat prostřednictvím
+  imaginačních technik, kresby či jiné formy symbolického vyjádření.
 FirstTextBoxRight: >-
   Po pozorném naslouchání a v dialogu s vámi nabízím své vjemy, myšlenky a
   porozumění vaší situaci – spíše formou otázek a otevírání možností, než
