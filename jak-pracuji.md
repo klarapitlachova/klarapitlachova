@@ -4,9 +4,9 @@ title: Jak pracuji
 FirstHeadilne: Jak pracuji
 FirstTextBoxLeft: >-
   Moje pomoc je založená především na osobním rozhovoru o tématech, která se vás
-  bezprostředně týkají. Při vedení rozhovoru vycházím z pojetí čtyř základních
-  osobních motivací Alfrieda Längleho, jenž svou prací navazuje na dílo Viktora
-  Emila Frankla (více o Logoterapii a existenciální analýze na <a
+  bezprostředně týkají. Při vedení rozhovoru vycházím především z pojetí čtyř
+  základních osobních motivací Alfrieda Längleho, jenž svou prací navazuje na
+  dílo Viktora Emila Frankla (více o Logoterapii a existenciální analýze na <a
   href="http://www.slea.cz" target="_blank">www.slea.cz</a>, webových stránkách
   Společnosti pro logoterapii a existenciální analýzu, která sleduje odbornou a
   etickou úroveň mé práce s klienty prostřednictvím pravidelných supervizí).
