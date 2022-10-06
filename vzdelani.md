@@ -3,22 +3,27 @@ layout: education-page
 title: Kdo jsem
 educationListHeadline: Vzdělání
 educationListBody: >-
+  <li><span>2022:</span><br> Tělo (a všímavost) v kontextu alderiánské
+  psychoterapie (Mansio Brno, 48 hodin) <li><span>2022:</span><br> Svět se
+  změnil. A co na to psychoterapie? (SLEA Bratislava, 8 hodin)
   <li><span>2021:</span><br> Nadstavbový kurz psychodynamicko-imaginativní
-  traumaterapie dle Dr. Luise Reddemann - PITT (18 hodin)</li>
+  traumaterapie dle Dr. Luise Reddemann - PITT (SLEA Praha, 18 hodin)</li>
   <li><span>2021:</span><br> Suicidalita v kontextu osobnostní dynamiky/poruchy
-  (5 hodin)</li>  <li><span>2020:</span><br> Vedení rozhovoru s dětmi a
-  dospívajícími (16 hodin)</li> <li><span>2019:</span><br> Dluhová problematika
-  - základní (5 hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
+  (SLEA online, 5 hodin)</li>  <li><span>2020:</span><br> Vedení rozhovoru s
+  dětmi a dospívajícími (Mansio Brno online, 16 hodin)</li>
+  <li><span>2019:</span><br> Dluhová problematika - základní (Liga vozíčkářů, 5
+  hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
   psychoterapeutického výcviku SLEA Praha - certifikát ukončeného
   psychoterapeutického vzdělání v logoterapii a existenciální analýze
   </li><li><span>2017:</span><br> Sexualita a vztahy lidí s postižením -
-  základní (8 hodin)</li> <li><span>2017:</span><br> Základy individuálního
-  plánování v sociálních službách (8 hodin)</li> <li><span>2016:</span><br>
-  Spolu a jinak ve výchově a vzdělávání (35 hodin)</li> <li><span>2014 –
-  2015:</span><br> Psychoterapeutická práce s traumatem (65 hodin)</li>
-  <li><span>2014:</span><br> Psychoterapie poruch osobnosti (8 hodin)</li>
-  <li><span>2010:</span><br> Trauma v existenciálně analytické terapii (16
-  hodin)</li> <li><span>2008:</span><br> Člověk mezi životem a smrtí (8
+  základní (Liga vozíčkářů, 8 hodin)</li> <li><span>2017:</span><br> Základy
+  individuálního plánování v sociálních službách (Liga vozíčkářů, 8 hodin)</li>
+  <li><span>2016:</span><br> Spolu a jinak ve výchově a vzdělávání (Mansio Brno,
+  35 hodin)</li> <li><span>2014 – 2015:</span><br> Psychoterapeutická práce s
+  traumatem (SLEA Praha, 65 hodin)</li> <li><span>2014:</span><br> Psychoterapie
+  poruch osobnosti (SLEA Praha, 8 hodin)</li> <li><span>2010:</span><br> Trauma
+  v existenciálně analytické terapii (SLEA Praha, 16 hodin)</li>
+  <li><span>2008:</span><br> Člověk mezi životem a smrtí (SLEA Praha, 8
   hodin)</li> <li><span>2008 – 2015:</span><br> Teoretická, klinická a
   sebezkušenostní část psychoterapeutického výcviku SLEA Praha (800 hodin)</li>
   <li><span>1999 – 2006:</span><br> Psychologie FSS MU Brno - titul Mgr.</li>
