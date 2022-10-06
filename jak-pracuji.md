@@ -10,8 +10,8 @@ FirstTextBoxLeft: >-
   href="http://www.slea.cz" target="_blank">www.slea.cz</a>, webových stránkách
   Společnosti pro logoterapii a existenciální analýzu, která sleduje odbornou a
   etickou úroveň mé práce s klienty prostřednictvím pravidelných supervizí).
-  Inspiruje mne také individuální psychologie Alfreda Aldera (v praktickém
-  pojetí brněnské společnosti <a href="Mansio"
+  Kromě toho (a mimo jiné) mne inspiruje individuální psychologie Alfreda Aldera
+  (v praktickém pojetí brněnské společnosti <a href="Mansio"
   target="_blank">www.mansio.cz</a>). V případě vašeho zájmu můžeme při našem
   setkání využít hojivého potenciálu vaší obrazotvornosti a témata k tomu vhodná
   zpracovat prostřednictvím imaginačních technik, kresby či jiné formy
