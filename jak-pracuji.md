@@ -11,10 +11,11 @@ FirstTextBoxLeft: >-
   Společnosti pro logoterapii a existenciální analýzu, která sleduje odbornou a
   etickou úroveň mé práce s klienty prostřednictvím pravidelných supervizí).
   Inspiruje mne také individuální psychologie Alfreda Aldera (v praktickém
-  pojetí brněnské společnosti <a href="Mansio" target="_blank">www.mansio.cz<).
-  V případě vašeho zájmu můžeme při našem setkání využít hojivého potenciálu
-  vaší obrazotvornosti a témata k tomu vhodná zpracovat prostřednictvím
-  imaginačních technik, kresby či jiné formy symbolického vyjádření.
+  pojetí brněnské společnosti <a href="Mansio"
+  target="_blank">www.mansio.cz</a>). V případě vašeho zájmu můžeme při našem
+  setkání využít hojivého potenciálu vaší obrazotvornosti a témata k tomu vhodná
+  zpracovat prostřednictvím imaginačních technik, kresby či jiné formy
+  symbolického vyjádření.
 FirstTextBoxRight: >-
   Po pozorném naslouchání a v dialogu s vámi nabízím své vjemy, myšlenky a
   porozumění vaší situaci – spíše formou otázek a otevírání možností, než
