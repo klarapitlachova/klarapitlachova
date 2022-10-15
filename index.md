@@ -34,8 +34,8 @@ secondSegmentBody: >-
   <p> Najdete mne v Brně na adrese Malinovského náměstí 4 (bývalý Dům odborových
   služeb, 1. patro, dveře č. 115). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
-  0;"><p> Standardní cena za poskytnutí 50 minutové individuální konzultace je
-  800 Kč, které se platí hotově na konci schůzky. Pokud se na konzultaci
+  0;"><p> Standardní cena za poskytnutí 50-55 minutové individuální konzultace
+  je 800 Kč, které se platí hotově na konci schůzky. Pokud se na konzultaci
   nemůžete dostavit, je třeba se z ní omluvit alespoň 24 hodin předem. I sezení,
   na které se nedostavíte bez včasné omluvy, je nutné uhradit v plné výši.
   </p><p> Jste-li klientem VZP nebo RBP, můžete ve spolupráci se mnou 1x ročně
