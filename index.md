@@ -38,14 +38,14 @@ secondSegmentBody: >-
   je 800 Kč, které se platí hotově na konci schůzky. Pokud se na konzultaci
   nemůžete dostavit, je třeba se z ní omluvit alespoň 24 hodin předem. Sezení,
   na které se nedostavíte bez včasné omluvy, je také nutné uhradit v plné výši.
-  </p><p> Jste-li klientem VZP nebo RBP, můžete ve spolupráci se mnou 1x ročně
-  využít příspěvku na "psychosociální podporu", tedy nechat si zpětně proplatit
-  až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení).
-  Nové klienty s podporou zdravotní pojištovny přijímám pouze v období od 1.
-  ledna do 15. září, samoplátce bez omezení. </p><p> Individuálně zvolený termín
-  v časovém rozmezí 9-17 hodin si můžete sjednat (nejlépe přes SMS) na
-  telefonním čísle 776 433 599 nebo můžete využít následující formulář. Když mám
-  k dispozici volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do
+  </p><p> Jste-li klientem VZP, můžete ve spolupráci se mnou 1x ročně využít
+  příspěvku na "psychosociální podporu", tedy nechat si zpětně proplatit až 500
+  Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení). Nové
+  klienty s podporou zdravotní pojištovny přijímám pouze v období od 1. ledna do
+  15. září, samoplátce bez omezení. </p><p> Individuálně zvolený termín v
+  časovém rozmezí 9-17 hodin si můžete sjednat (nejlépe přes SMS) na telefonním
+  čísle 776 433 599 nebo můžete využít následující formulář. Když mám k
+  dispozici volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do
   týdne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
