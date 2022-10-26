@@ -34,21 +34,22 @@ experienceListBody: >-
   <li><span>2020 – dosud:</span><br>  Psychologické a psychoterapeutické
   poradenství na volné noze - zkušenosti zejména v oblasti vztahových,
   osobnostních a návykových potíží, doprovázení závažnými životními ztrátami a
-  zpracováním traumatických zkušeností,  aj. </li> <li><span>2019 –
-  2020:</span><br> Psycholožka Terapeutického centra A Klubů Brno (ambulantní
-  léčba a poradenství v potížích souvisejících s užíváním alkoholu, léků,
-  hazardním hraním či jiným návykovým chováním)</li> <li><span>2019:</span><br>
-  Stážistka na odděleních pro léčbu závislostí PN Brno-Černovice a v doléčovacím
-  centru Sananim Praha</li> <li><span>2017 – 2018:</span><br> Sociální
-  pracovnice Centra denních služeb Ligy vozíčkářů Brno (ambulantní služba pro
-  dospělé s tělesným nebo kombinovaným postižením) </li> <li><span>2016 –
-  2017:</span><br> Osobní asistentka Hewer Brno (terénní služba pro seniory a
-  osoby se zdravotním postižením)</li> <li><span>2013 – 2014:</span><br> Domácí
-  hospicová péče</li> <li><span>2010 – dosud:</span><br> Matka dvou školních
-  dětí</li> <li><span>2007 – 2009:</span><br> Koordinátorka dobrovolnické služby
-  pacientům FN Brno (dětská nemocnice, onkologické oddělení pro dospělé,
-  LDN)</li> <li><span>2005 – 2006:</span><br> Stážistka na oddělení pro léčbu
-  závislostí PN Praha-Bohnice</li> <li><span>1997 – 2004:</span><br>
+  zpracováním traumatických zkušeností,  aj. </li><li><span>2020:</span><br> 
+  Psycholožka azylového domu pro ženy a matky v tísni Magdalenium Brno </li>
+  <li><span>2019 – 2020:</span><br> Psycholožka Terapeutického centra A Klubů
+  Brno (ambulantní léčba a poradenství v potížích souvisejících s užíváním
+  alkoholu, léků, hazardním hraním či jiným návykovým chováním)</li>
+  <li><span>2019:</span><br> Stážistka na odděleních pro léčbu závislostí PN
+  Brno-Černovice a v doléčovacím centru Sananim Praha</li> <li><span>2017 –
+  2018:</span><br> Sociální pracovnice Centra denních služeb Ligy vozíčkářů Brno
+  (ambulantní služba pro dospělé s tělesným nebo kombinovaným postižením) </li>
+  <li><span>2016 – 2017:</span><br> Osobní asistentka Hewer Brno (terénní služba
+  pro seniory a osoby se zdravotním postižením)</li> <li><span>2013 –
+  2014:</span><br> Domácí hospicová péče</li> <li><span>2010 – dosud:</span><br>
+  Matka dvou školních dětí</li> <li><span>2007 – 2010:</span><br> Koordinátorka
+  dobrovolnické služby pacientům FN Brno (dětská nemocnice, onkologické oddělení
+  pro dospělé, LDN)</li> <li><span>2005 – 2006:</span><br> Stážistka na oddělení
+  pro léčbu závislostí PN Praha-Bohnice</li> <li><span>1997 – 2004:</span><br>
   Koordinátorka volnočasových aktivit pro děti a mládež</li> <li><span>1997 –
   1998:</span><br> Osobní asistentka Effetha Brno (denní stacionář pro děti a
   mládež s mentálním postižením)</li>
