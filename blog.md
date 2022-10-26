@@ -31,6 +31,7 @@ published: true
   terapeutka "na volné noze".
 ---
 
+
 Vzdělání v tzv. pomáhajících profesích (psychologie a sociální práce) jsem získala na Fakultě sociálních studií brněnské Masarykovy univerzity v letech 1999 - 2006. Toto oborové zaměření se ukázalo jako ušité na míru práci v sociálních a jim podobných službách, které jsem se na různých pozicích v neziskových organizacích věnovala kontinuálně až do roku 2020:
 
 Jako koordinátorka dobrovolnického programu na nemocničních odděleních všech věkových skupin a v domovech pro seniory (2007-2010, kdy jsem se stala mámou na plný úvazek); jako terénní pečovatelka v rodinách pečujích o své tělesně či mentálně slábnoucí rodiče a prarodiče (2016-2017); jako sociální pracovnice centra denních služeb pro osoby s tělesným a kombinovaným postižením (2017-2018); jako terapeutka adiktologické poradny pro osoby potýkající se s nějakou formou závislosti a jejich blízké (2019-2020); jako poradkyně v azylovém domě pro maminky s dětmi v tísni zapříčiněné domácím násilím (2020).
