@@ -30,7 +30,7 @@ published: true
   vlastního příběhu - to je to, oč usiluji i jako průvodkyně, poradkyně a
   terapeutka "na volné noze".
 ---
-
+## Moje cesta sem
 
 Vzdělání v tzv. pomáhajících profesích (psychologie a sociální práce) jsem získala na Fakultě sociálních studií brněnské Masarykovy univerzity v letech 1999 - 2006. Toto oborové zaměření se ukázalo jako ušité na míru práci v sociálních a jim podobných službách, které jsem se na různých pozicích v neziskových organizacích věnovala kontinuálně až do roku 2020:
 
