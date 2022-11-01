@@ -42,11 +42,11 @@ secondSegmentBody: >-
   spolupráci se mnou 1x ročně využít příspěvku na "psychosociální podporu", tedy
   nechat si zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až
   5.000 Kč za až 10 sezení). Nové klienty s podporou zdravotní pojištovny
-  přijímám pouze v období od 1. ledna do 15. září, samoplátce bez omezení.
-  </p><p> Individuálně zvolený termín v časovém rozmezí 9-17 hodin si můžete
-  sjednat (nejlépe přes SMS) na telefonním čísle 776 433 599 nebo můžete využít
-  následující formulář. Když mám k dispozici volné termíny pro zahájení nové
-  spolupráce, odpovídám zpravidla do týdne. </p>
+  přijímám pouze v období od 1. ledna do 15. září, samoplátce bez omezení podle
+  aktuálních časových možností. </p><p> Individuálně zvolený termín v časovém
+  rozmezí 9-17 hodin si můžete sjednat (nejlépe přes SMS) na telefonním čísle
+  776 433 599 nebo můžete využít následující formulář. Když mám k dispozici
+  volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do týdne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
