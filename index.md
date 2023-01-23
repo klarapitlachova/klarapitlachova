@@ -38,16 +38,17 @@ secondSegmentBody: >-
   rozmezí od pondělí do pátku v 9-17 hod. je 800 Kč, které se platí hotově na
   konci schůzky. Je také možné stanovit termín mimo tento standardní čas
   (později večer, o víkendu) za cenu 1.200 Kč/sezení. Pokud se na konzultaci
-  nemůžete dostavit, je třeba se z ní omluvit alespoň 48 hodin předem. Sezení,
-  na které se nedostavíte bez včasné omluvy, je také nutné uhradit v plné výši,
-  a to na následujícím sezení. </p><p> Jste-li klientem VZP, můžete ve
-  spolupráci se mnou 1x ročně využít příspěvku na "psychosociální podporu", tedy
-  nechat si zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až
-  5.000 Kč za až 10 sezení). K získání příspěvku je potřeba si na pojištovně
-  vyžádat "poukaz klienta" a tento přinést na sezení. </p><p> Individuálně
-  zvolený termín si můžete sjednat (nejlépe přes SMS) na telefonním čísle 776
-  433 599 nebo můžete využít následující formulář. Když mám k dispozici volné
-  termíny pro zahájení nové spolupráce, odpovídám zpravidla do týdne. </p>
+  nemůžete dostavit, je třeba se z ní omluvit alespoň 2 pracovní dny (48 hodin
+  mimo víkend, státní svátek) předem. Sezení, na které se nedostavíte bez včasné
+  omluvy, je také nutné uhradit v plné výši, a to na následujícím sezení.
+  </p><p> Jste-li klientem VZP, můžete ve spolupráci se mnou 1x ročně využít
+  příspěvku na "psychosociální podporu", tedy nechat si zpětně proplatit až 500
+  Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení). K získání
+  příspěvku je potřeba si na pojištovně vyžádat "poukaz klienta" a tento přinést
+  na sezení. </p><p> Individuálně zvolený termín si můžete sjednat (nejlépe přes
+  SMS) na telefonním čísle 776 433 599 nebo můžete využít následující formulář.
+  Když mám k dispozici volné termíny pro zahájení nové spolupráce, odpovídám
+  zpravidla do týdne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
