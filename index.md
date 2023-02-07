@@ -49,7 +49,7 @@ secondSegmentBody: >-
   (nejlépe přes SMS) na telefonním čísle 776 433 599 nebo můžete využít
   následující formulář. Když mám k dispozici volné termíny pro zahájení nové
   spolupráce, odpovídám zpravidla do druhého dne. </p><p> Aktuálně volné termíny
-  pro pravidelnou spolupráci: (týdně) pondělí v 10 a ve 13h, úterý v 9 a ve 13h,
+  pro pravidelnou spolupráci: (týdně) pondělí ve 13h, úterý v 9 a ve 13h,
   čtvrtek v 10h; (1x14 dní) čtvrtek v 9h. Nepravidelně také v jiných časech
   podle oboustranných možností. <p>
 thirdSegmentHeadilne: Napište mi
