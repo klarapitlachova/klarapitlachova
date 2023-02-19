@@ -47,8 +47,9 @@ secondSegmentBody: >-
   až 10 sezení). K získání příspěvku je potřeba si na pojištovně vyžádat "poukaz
   klienta" a tento přinést na sezení. </p><p> Individuálně zvolený termín si
   můžete sjednat (nejlépe přes SMS) na telefonním čísle 776 433 599 nebo můžete
-  využít následující formulář. Když mám k dispozici volné termíny pro zahájení
-  nové spolupráce, odpovídám zpravidla do druhého dne. </p>
+  využít následující formulář. Při objednávání prosím uveďte své časové
+  možnosti. Když mám k dispozici volné termíny pro zahájení nové spolupráce,
+  odpovídám zpravidla do druhého dne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
