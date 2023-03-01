@@ -8,7 +8,7 @@ basicCardExpertise: >-
 basicCardTelephone: 'Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;'
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
-  Nabízím vám pomoc, pokud je vám více než 20 let a právě se nacházíte nebo se
+  Nabízím vám pomoc, pokud je vám 25-55 let a právě se nacházíte nebo se
   opakovaně ocitáte v obtížné situaci, která vás nadměrně vyčerpává či ochromuje
   a nevíte, jak z ní ven. Mohu se stát vaším průvodcem na cestě ven ze starých
   (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte na
