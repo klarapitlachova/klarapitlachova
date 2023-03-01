@@ -8,13 +8,13 @@ basicCardExpertise: >-
 basicCardTelephone: 'Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;'
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
-  Nabízím vám pomoc, pokud je vám 25-55 let a právě se nacházíte nebo se
-  opakovaně ocitáte v obtížné situaci, která vás nadměrně vyčerpává či ochromuje
-  a nevíte, jak z ní ven. Mohu se stát vaším průvodcem na cestě ven ze starých
-  (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte na
-  významném životním rozcestí nebo chcete-li se jen lépe poznat a posunout se ve
-  svém osobním rozvoji. Společně můžeme hledat cestu ke zlepšení také v případě,
-  že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z
+  Nabízím vám pomoc, pokud je vám přibližně 25-55 let a právě se nacházíte nebo
+  se opakovaně ocitáte v obtížné situaci, která vás nadměrně vyčerpává či
+  ochromuje a nevíte, jak z ní ven. Mohu se stát vaším průvodcem na cestě ven ze
+  starých (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte
+  na významném životním rozcestí nebo chcete-li se jen lépe poznat a posunout se
+  ve svém osobním rozvoji. Společně můžeme hledat cestu ke zlepšení také v
+  případě, že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z
   následujících problémů:
 firstSegmentTextColumnRight: >-
   <li>ztráta něčeho nebo někoho pro vás důležitého</li> <li>onemocnění či jiná
