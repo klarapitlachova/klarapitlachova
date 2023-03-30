@@ -35,7 +35,7 @@ secondSegmentBody: >-
   služeb, 1. patro, dveře č. 115). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Cena za poskytnutí 50-55 minutové individuální konzultace v časovém
-  rozmezí od pondělí do pátku v 9-17 hod. je 800 Kč, které se platí hotově na
+  rozmezí od pondělí do pátku v 9-17 hod. je 900 Kč, které se platí hotově na
   konci schůzky. Je také možné stanovit termín mimo tento standardní čas
   (později večer, o víkendu) za cenu 1.200 Kč/sezení. </p><p> Pokud se na
   konzultaci nemůžete dostavit, je třeba se z ní omluvit alespoň 2 pracovní dny
