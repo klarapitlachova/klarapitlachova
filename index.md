@@ -49,8 +49,9 @@ secondSegmentBody: >-
   získání příspěvku najdete na webových stránkách či klientské lince své
   pojišťovny. </p><p> Individuálně zvolený termín si můžete sjednat přes SMS na
   telefonním čísle 776 433 599 nebo můžete využít následující formulář. Při
-  objednávání prosím uveďte své časové možnosti. Když mám k dispozici volné
-  termíny pro zahájení nové spolupráce, odpovídám zpravidla do druhého dne. </p>
+  objednávání prosím uveďte svůj věk, časové možnosti a stručně popište důvod
+  pro vyhledání pomoci. Když mám k dispozici volné termíny pro zahájení nové
+  spolupráce, odpovídám zpravidla do druhého dne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
