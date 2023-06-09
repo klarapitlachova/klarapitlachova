@@ -41,8 +41,9 @@ secondSegmentBody: >-
   schůzky. </p><p> Pokud se na konzultaci nemůžete dostavit, je třeba se z ní
   omluvit alespoň 2 pracovní dny (48 hodin mimo víkend, státní svátek) předem.
   Sezení, na které se nedostavíte bez včasné omluvy, je také nutné uhradit v
-  plné výši, a to na následujícím sezení. </p><p> Jste-li klientem VZP, ČPZP,
-  ZPMV nebo RBP, můžete ve spolupráci se mnou 1x ročně využít příspěvku na
+  plné výši, a to na následujícím sezení. (Při rušení hodiny ze strany terapeuta
+  se náhrada klientovi neposkytuje.) </p><p> Jste-li klientem VZP, ČPZP, ZPMV
+  nebo RBP, můžete ve spolupráci se mnou 1x ročně využít příspěvku na
   "psychosociální podporu", tedy nechat si zpětně proplatit až 500 Kč za jedno
   sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení). Podrobné podmínky pro
   získání příspěvku najdete na webových stránkách či klientské lince své
