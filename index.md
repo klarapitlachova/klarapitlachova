@@ -37,7 +37,7 @@ secondSegmentBody: >-
   čekárny). </p><img src="assets/images/20200828_143139.jpg"
   style="max-width:100%;padding:1rem 0;"><p> Cena za poskytnutí 60 minutové
   individuální konzultace v časovém rozmezí od pondělí do pátku v 8:45-18:15
-  hod. je 1.000 Kč (platí od 11.dubna 2023), které se platí hotově na konci
+  hod. je 1.000 Kč (platí od 1.září 2023), které se platí hotově na konci
   schůzky. </p><p> Pokud se na konzultaci nemůžete dostavit, je třeba se z ní
   omluvit alespoň 2 pracovní dny (48 hodin mimo víkend, státní svátek) předem.
   Sezení, na které se nedostavíte bez včasné omluvy, je také nutné uhradit v
