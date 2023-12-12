@@ -38,8 +38,8 @@ educationListBody: >-
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
   <li><span>2020 – dosud:</span><br>  Psychologické a psychoterapeutické
-  poradenství na volné noze - zkušenosti zejména v oblasti vztahových,
-  osobnostních a návykových potíží, doprovázení závažnými životními ztrátami a
+  poradenství na volné noze - zkušenosti zejména v oblasti osobnostních,
+  mezilidských a návykových potíží, doprovázení závažnými životními ztrátami a
   zpracováním traumatických zkušeností,  aj. </li><li><span>2020:</span><br> 
   Psycholožka azylového domu Magdalenium Brno (poradenství pro ženy a matky v
   tísni) </li> <li><span>2019 – 2020:</span><br> Psycholožka Terapeutického
