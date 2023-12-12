@@ -14,27 +14,26 @@ educationListBody: >-
   traumaterapie dle Dr. Luise Reddemann - PITT (SLEA Praha, 18 hodin)</li>
   <li><span>2021:</span><br> Sebevražedné motivy v kontextu osobnostní
   dynamiky/poruchy (SLEA online, 5 hodin)</li>  <li><span>2020:</span><br>
-  Vedení rozhovoru s dětmi a dospívajícími (Mansio Brno online, 16 hodin)</li>
-  <li><span>2019:</span><br> Dluhová problematika - základní (Liga vozíčkářů, 5
-  hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
-  psychoterapeutického výcviku SLEA Praha - certifikát ukončeného
-  psychoterapeutického vzdělání v logoterapii a existenciální analýze
-  </li><li><span>2019:</span><br> Arteterapeutický ateliér (Hana Formánková
-  Brno, 40 hodin)</li><li><span>2017:</span><br> Sexualita a vztahy lidí s
-  postižením - základní (Liga vozíčkářů, 8 hodin)</li>
-  <li><span>2017:</span><br> Základy individuálního plánování v sociálních
-  službách (Liga vozíčkářů, 8 hodin)</li> <li><span>2016:</span><br> Spolu a
-  jinak ve výchově a vzdělávání (Mansio Brno, 35 hodin)</li> <li><span>2014 –
-  2015:</span><br> Psychoterapeutická práce s traumatem (SLEA Praha, 65
-  hodin)</li> <li><span>2014:</span><br> Psychoterapie poruch osobnosti (SLEA
-  Praha, 8 hodin)</li> <li><span>2010:</span><br> Trauma v existenciálně
-  analytické terapii (SLEA Praha, 16 hodin)</li> <li><span>2008:</span><br>
-  Člověk mezi životem a smrtí (SLEA Praha, 8 hodin)</li> <li><span>2008 –
-  2015:</span><br> Teoretická, klinická a sebezkušenostní část
-  psychoterapeutického výcviku SLEA Praha (800 hodin)</li> <li><span>1999 –
-  2006:</span><br> Psychologie FSS MU Brno - titul Mgr.</li> <li><span>1999 –
-  2003:</span><br> Sociální práce a sociální politika FSS MU Brno - titul
-  Bc.</li>
+  Vedení rozhovoru s dětmi a dospívajícími (Mansio Brno online, 16
+  hodin)</li><li><span>2019:</span><br> Dluhová problematika - základní (Liga
+  vozíčkářů, 5 hodin)</li><li><span>2019:</span><br> Arteterapeutický ateliér
+  (Hana Formánková Brno, 40 hodin)</li> <li><span>2018 – 2020:</span><br>
+  Supervizní část psychoterapeutického výcviku SLEA Praha - certifikát
+  ukončeného psychoterapeutického vzdělání v logoterapii a existenciální analýze
+  </li><li><span>2017:</span><br> Sexualita a vztahy lidí s postižením -
+  základní (Liga vozíčkářů, 8 hodin)</li> <li><span>2017:</span><br> Základy
+  individuálního plánování v sociálních službách (Liga vozíčkářů, 8 hodin)</li>
+  <li><span>2016:</span><br> Spolu a jinak ve výchově a vzdělávání (Mansio Brno,
+  35 hodin)</li> <li><span>2014 – 2015:</span><br> Psychoterapeutická práce s
+  traumatem (SLEA Praha, 65 hodin)</li> <li><span>2014:</span><br> Psychoterapie
+  poruch osobnosti (SLEA Praha, 8 hodin)</li> <li><span>2010:</span><br> Trauma
+  v existenciálně analytické terapii (SLEA Praha, 16 hodin)</li>
+  <li><span>2008:</span><br> Člověk mezi životem a smrtí (SLEA Praha, 8
+  hodin)</li> <li><span>2008 – 2015:</span><br> Teoretická, klinická a
+  sebezkušenostní část psychoterapeutického výcviku SLEA Praha (800 hodin)</li>
+  <li><span>1999 – 2006:</span><br> Psychologie FSS MU Brno - titul Mgr.</li>
+  <li><span>1999 – 2003:</span><br> Sociální práce a sociální politika FSS MU
+  Brno - titul Bc.</li>
 experienceListHeadline: Zkušenosti
 experienceListBody: >-
   <li><span>2020 – dosud:</span><br>  Psychologické a psychoterapeutické
