@@ -3,8 +3,12 @@ layout: education-page
 title: Kdo jsem
 educationListHeadline: Vzdělání
 educationListBody: >-
-  <li><span>2022:</span><br> Tělo (a všímavost) v kontextu alderiánské
-  psychoterapie (Mansio Brno, 48 hodin) <li><span>2022:</span><br> Svět se
+  <li><span>2023:</span><br> Sebepoškozování a sebevražda jako téma rozhovoru s
+  klientem (Učíme krizovku, 8 hodin) </li><li><span>2023:</span><br> Krizová
+  intervence pro pomáhající profesionály (Učíme krizovku, 16 hodin) </li>
+  <li><span>2023:</span><br> Dospívající v psychoterapii (SLEA Praha, 18 hodin)
+  </li><li><span>2022:</span><br> Tělo (a všímavost) v kontextu alderiánské
+  psychoterapie (Mansio Brno, 48 hodin) </li><li><span>2022:</span><br> Svět se
   změnil. A co na to psychoterapie? (SLEA Bratislava, 8 hodin)
   <li><span>2021:</span><br> Nadstavbový kurz psychodynamicko-imaginativní
   traumaterapie dle Dr. Luise Reddemann - PITT (SLEA Praha, 18 hodin)</li>
