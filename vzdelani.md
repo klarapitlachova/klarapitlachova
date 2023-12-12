@@ -12,9 +12,9 @@ educationListBody: >-
   změnil. A co na to psychoterapie? (SLEA Bratislava, 8 hodin)
   <li><span>2021:</span><br> Nadstavbový kurz psychodynamicko-imaginativní
   traumaterapie dle Dr. Luise Reddemann - PITT (SLEA Praha, 18 hodin)</li>
-  <li><span>2021:</span><br> Suicidalita v kontextu osobnostní dynamiky/poruchy
-  (SLEA online, 5 hodin)</li>  <li><span>2020:</span><br> Vedení rozhovoru s
-  dětmi a dospívajícími (Mansio Brno online, 16 hodin)</li>
+  <li><span>2021:</span><br> Sebevražedné motivy v kontextu osobnostní
+  dynamiky/poruchy (SLEA online, 5 hodin)</li>  <li><span>2020:</span><br>
+  Vedení rozhovoru s dětmi a dospívajícími (Mansio Brno online, 16 hodin)</li>
   <li><span>2019:</span><br> Dluhová problematika - základní (Liga vozíčkářů, 5
   hodin)</li> <li><span>2018 – 2020:</span><br> Supervizní část
   psychoterapeutického výcviku SLEA Praha - certifikát ukončeného
