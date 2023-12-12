@@ -23,8 +23,8 @@ educationListBody: >-
   existenciální analýze </li><li><span>2017:</span><br> Sexualita a vztahy lidí
   s postižením - základní (Liga vozíčkářů Brno, 8 hodin)</li>
   <li><span>2017:</span><br> Základy individuálního plánování v sociálních
-  službách (Liga vozíčkářů, 8 hodin)</li> <li><span>2016:</span><br> Spolu a
-  jinak ve výchově a vzdělávání (Mansio Brno, 35 hodin)</li> <li><span>2014 –
+  službách (Liga vozíčkářů Brno, 8 hodin)</li> <li><span>2016:</span><br> Spolu
+  a jinak ve výchově a vzdělávání (Mansio Brno, 35 hodin)</li> <li><span>2014 –
   2015:</span><br> Psychoterapeutická práce s traumatem (SLEA Praha, 65
   hodin)</li> <li><span>2014:</span><br> Psychoterapie poruch osobnosti (SLEA
   Praha, 8 hodin)</li> <li><span>2010:</span><br> Trauma v existenciálně
