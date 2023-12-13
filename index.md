@@ -33,7 +33,7 @@ secondSegmentHeadilne: Před první schůzkou
 secondSegmentBody: >-
   <p> Najdete mne v Brně na adrese Dvořákova 13 (prosklenými dveřmi v zadní
   části průjezdu zelené budovy projdete k výtahu či schodišti a vystoupáte do 2.
-  patra, zde zvoňte na zvonek s mým jménem umístěný na rámu dveří vpravo od
+  patra, zde zvoňte na zvonek s mým jménem umístěný na rámu dveří vlevo od
   výtahu a vyčkejte na vpuštění do čekárny). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Základní cena za poskytnutí 60 minutové individuální konzultace v
