@@ -37,14 +37,14 @@ secondSegmentBody: >-
   výtahu a vyčkejte na vpuštění do čekárny). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
   0;"><p> Základní cena za poskytnutí 60 minutové individuální konzultace
-  (aktuálně pouze v časovém rozmezí od pondělí do pátku v 8:45-15:00 hod.) je
-  1.000 Kč, které se platí přímo na schůzce, hotově nebo mobilním bankovnictvím
-  prostřednictvím QR kódu. (Platí od 1.4.2024 pro nové zájemce o spolupráci.)
-  </p><p> Pokud se na konzultaci nemůžete dostavit, je třeba se z ní omluvit
-  alespoň 2 pracovní dny předem. Sezení, na které se nedostavíte bez včasné
-  omluvy, je také nutné uhradit v plné výši. Cena za toto neuskutečněné sezení
-  se přičítá k ceně následujícího sezení. </p><p> Jste-li klientem VZP, ČPZP,
-  ZPMV nebo RBP, můžete ve spolupráci se mnou 1x ročně využít příspěvku na
+  (aktuálně se začátkem v časovém rozmezí od pondělí do pátku v 8:45-14:00 hod.)
+  je 1.000 Kč, které se platí přímo na schůzce, hotově nebo mobilním
+  bankovnictvím prostřednictvím QR kódu. (Platí od 1.4.2024 pro nové zájemce o
+  spolupráci.) </p><p> Pokud se na konzultaci nemůžete dostavit, je třeba se z
+  ní omluvit alespoň 2 pracovní dny předem. Sezení, na které se nedostavíte bez
+  včasné omluvy, je také nutné uhradit v plné výši. Cena za toto neuskutečněné
+  sezení se přičítá k ceně následujícího sezení. </p><p> Jste-li klientem VZP,
+  ČPZP, ZPMV nebo RBP, můžete ve spolupráci se mnou 1x ročně využít příspěvku na
   "psychosociální podporu", tedy nechat si zpětně proplatit až 500 Kč za jedno
   sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení). Podrobné podmínky pro
   získání příspěvku najdete na webových stránkách či klientské lince své
