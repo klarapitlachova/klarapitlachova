@@ -52,9 +52,10 @@ secondSegmentBody: >-
   telefonním čísle 776 433 599 nebo můžete využít následující formulář. Při
   objednávání prosím uveďte svůj věk, časové možnosti a stručně popište důvod
   pro vyhledání pomoci. Když mám k dispozici volné termíny pro zahájení nové
-  spolupráce, odpovídám zpravidla do konce druhého dne. </p> </p><p> V týdnech
-  5.- 16.8.2024 čerpám dovolenou, na zprávy a telefonáty, které obdržím v těchto
-  dnech, budu reagovat nejdříve 19.8.2024. </p>
+  spolupráce, odpovídám zpravidla do konce druhého dne. </p> </p><p> <b
+  style="color: yellow;> V týdnech 5.- 16.8.2024 čerpám dovolenou, na zprávy a
+  telefonáty, které obdržím v těchto dnech, budu reagovat nejdříve
+  19.8.2024.</b></p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
