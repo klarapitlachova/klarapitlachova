@@ -45,7 +45,7 @@ secondSegmentBody: >-
   bankovnictvím prostřednictvím QR kódu. </p><p><b> Ve spolupráci se mnou můžete
   1x ročně využít příspěvku na tzv. "psychosociální podporu", tedy nechat si
   zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za
-  až 10 sezení). </b> Podrobné podmínky pro získání příspěvku zjistíte na
+  až 10 sezení). </b></p><p> Podrobné podmínky pro získání příspěvku zjistíte na
   webových stránkách či klientské lince své pojišťovny. </p><p> Termín prvního
   setkání si můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete
   využít následující formulář. Při objednávání prosím uveďte svůj věk, časové
