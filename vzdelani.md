@@ -3,22 +3,23 @@ layout: education-page
 title: Kdo jsem
 educationListHeadline: Vzdělání
 educationListBody: >-
-  <li><span>2023:</span><br> Sebepoškozování a sebevražda jako téma rozhovoru s
-  klientem (Učíme krizovku, 8 hodin) </li><li><span>2023:</span><br> Krizová
-  intervence pro pomáhající profesionály (Učíme krizovku, 16 hodin) </li>
-  <li><span>2023:</span><br> Dospívající v psychoterapii (SLEA Praha, 18 hodin)
-  </li><li><span>2022:</span><br> Tělo (a všímavost) v kontextu alderiánské
-  psychoterapie (Mansio Brno, 48 hodin) </li><li><span>2022:</span><br> Svět se
-  změnil. A co na to psychoterapie? (SLEA Bratislava, 8 hodin)
-  <li><span>2021:</span><br> Nadstavbový kurz psychodynamicko-imaginativní
-  traumaterapie dle Dr. Luise Reddemann - PITT (SLEA Praha, 18 hodin)</li>
-  <li><span>2021:</span><br> Sebevražedné motivy v kontextu osobnostní
-  dynamiky/poruchy (SLEA online, 5 hodin)</li>  <li><span>2020:</span><br>
-  Vedení rozhovoru s dětmi a dospívajícími (Mansio Brno online, 16
-  hodin)</li><li><span>2019:</span><br> Dluhová problematika - základní (Liga
-  vozíčkářů Brno, 5 hodin)</li><li><span>2019:</span><br> Arteterapeutický
-  ateliér (Hana Formánková Brno, 40 hodin)</li> <li><span>2018 –
-  2020:</span><br> Supervizní část psychoterapeutického výcviku SLEA Praha -
+  <li><span>202r:</span><br> Prohlubující kurz logoterapie (SLEA Praha, 48
+  hodin) </li>  <li><span>2023:</span><br> Sebepoškozování a sebevražda jako
+  téma rozhovoru s klientem (Učíme krizovku, 8 hodin)
+  </li><li><span>2023:</span><br> Krizová intervence pro pomáhající profesionály
+  (Učíme krizovku, 16 hodin) </li> <li><span>2023:</span><br> Dospívající v
+  psychoterapii (SLEA Praha, 18 hodin) </li><li><span>2022:</span><br> Tělo (a
+  všímavost) v kontextu alderiánské psychoterapie (Mansio Brno, 48 hodin)
+  </li><li><span>2022:</span><br> Svět se změnil. A co na to psychoterapie?
+  (SLEA Bratislava, 8 hodin) <li><span>2021:</span><br> Nadstavbový kurz
+  psychodynamicko-imaginativní traumaterapie dle Dr. Luise Reddemann - PITT
+  (SLEA Praha, 18 hodin)</li> <li><span>2021:</span><br> Sebevražedné motivy v
+  kontextu osobnostní dynamiky/poruchy (SLEA online, 5 hodin)</li> 
+  <li><span>2020:</span><br> Vedení rozhovoru s dětmi a dospívajícími (Mansio
+  Brno online, 16 hodin)</li><li><span>2019:</span><br> Dluhová problematika -
+  základní (Liga vozíčkářů Brno, 5 hodin)</li><li><span>2019:</span><br>
+  Arteterapeutický ateliér (Hana Formánková Brno, 40 hodin)</li> <li><span>2018
+  – 2020:</span><br> Supervizní část psychoterapeutického výcviku SLEA Praha -
   certifikát ukončeného psychoterapeutického vzdělání v logoterapii a
   existenciální analýze </li><li><span>2017:</span><br> Sexualita a vztahy lidí
   s postižením - základní (Liga vozíčkářů Brno, 8 hodin)</li>
