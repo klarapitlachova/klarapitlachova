@@ -40,9 +40,9 @@ secondSegmentBody: >-
   doprovázení akutní krizovou situací, nepravidelné poradenství a podpůrná
   terapie 1x14 nebo více dní </p><p> 50 minut za 1.000 - Kč dlouhodobá
   systematická terapie 1x týdně </p><p> Platí se přímo na schůzce, hotově nebo
-  mobilním bankovnictvím prostřednictvím QR kódu. (Platí od 1.9.2024 pro nové
-  zájemce o spolupráci.) </p><p> Pokud se na konzultaci nemůžete dostavit, je
-  třeba se z ní omluvit alespoň 2 pracovní dny předem. Sezení, na které se
+  mobilním bankovnictvím prostřednictvím QR kódu. </p><p> (Platí od 1.9.2024 pro
+  nové zájemce o spolupráci.) </p><p> Pokud se na konzultaci nemůžete dostavit,
+  je třeba se z ní omluvit alespoň 2 pracovní dny předem. Sezení, na které se
   nedostavíte bez včasné omluvy, je také nutné uhradit v plné výši. Cena za toto
   neuskutečněné sezení se přičítá k ceně následujícího sezení. </p><p> Jste-li
   klientem VZP, ČPZP, ZPMV nebo RBP, můžete ve spolupráci se mnou 1x ročně
