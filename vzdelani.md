@@ -3,7 +3,7 @@ layout: education-page
 title: Kdo jsem
 educationListHeadline: Vzdělání
 educationListBody: >-
-  <li><span>202r:</span><br> Prohlubující kurz logoterapie (SLEA Praha, 48
+  <li><span>2024:</span><br> Prohlubující kurz logoterapie (SLEA Praha, 48
   hodin) </li>  <li><span>2023:</span><br> Sebepoškozování a sebevražda jako
   téma rozhovoru s klientem (Učíme krizovku, 8 hodin)
   </li><li><span>2023:</span><br> Krizová intervence pro pomáhající profesionály
