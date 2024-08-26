@@ -24,8 +24,8 @@ firstSegmentTextColumnRight: >-
   nesmyslnosti, prázdnota, ztráta motivace, cíle </li> <li>odcizení,
   nezakořeněnost, osamělost</li> <li>neuspokojivé vztahy, včetně vztahu k
   sobě</li> <li>pochybnosti o stávajících hodnotách, spirituální krize</li>
-  <li>a další…</li> <p><b> <big> Nabízím postupnou a dlouhodobě udržitelnou
-  změnu. </big></b></p>
+  <li>a další…</li> <p><b> <big> Zaměřuji se na postupnou a dlouhodobě
+  udržitelnou změnu. </big></b></p>
 qutoSegmentText: >-
   „Člověk může přijít o všechno kromě jediného: nikdo mu nemůže vzít poslední
   lidskou svobodu – vybrat si za jakýchkoliv okolností svůj vlastní přístup,
