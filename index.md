@@ -8,14 +8,14 @@ basicCardExpertise: >-
 basicCardTelephone: Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
-  Nabízím vám pomoc, pokud je vám přibližně 25-55 let a právě se nacházíte nebo
-  se opakovaně ocitáte v obtížné situaci, která vás nadměrně vyčerpává či
-  ochromuje a nevíte, jak z ní ven. Mohu se stát vaším průvodcem na cestě ven ze
-  starých (a stále citlivých) záležitostí. Mohu vám být nápomocná, když váháte
-  na významném životním rozcestí nebo chcete-li se jen lépe poznat a posunout se
-  ve svém osobním rozvoji. Společně můžeme hledat cestu ke zlepšení také v
-  případě, že vaši každodenní činnost nepříznivě ovlivňuje některý nebo více z
-  následujících problémů:
+  Nabízím vám individuální pomoc, pokud je vám přibližně 25-55 let a právě se
+  nacházíte nebo se opakovaně ocitáte v obtížné situaci, která vás nadměrně
+  vyčerpává či ochromuje a nevíte, jak z ní ven. Mohu se stát vaším průvodcem na
+  cestě ven ze starých (a stále citlivých) záležitostí. Mohu vám být nápomocná,
+  když váháte na významném životním rozcestí nebo chcete-li se jen lépe poznat a
+  posunout se ve svém osobním rozvoji. Společně můžeme hledat cestu ke zlepšení
+  také v případě, že vaši každodenní činnost nepříznivě ovlivňuje některý nebo
+  více z následujících problémů:
 firstSegmentTextColumnRight: >-
   <li>ztráta něčeho nebo někoho pro vás důležitého</li> <li>onemocnění či jiná
   nepříznivá životní událost</li> <li>nejistota, strach, deprese,
@@ -36,24 +36,25 @@ secondSegmentBody: >-
   patra, zde zvoňte na zvonek s mým jménem umístěný na rámu dveří vlevo od
   výtahu a vyčkejte na vpuštění do čekárny). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
-  0;"><p> Cena: </p><p> jednorázové konzultace nebo podpůrná individuální
-  terapie 1x 14 dní 60 minut 1.200 Kč </p><p> systematická individuální terapie,
-  intenzivní poradenství 1x týdně 50 minut 1.000 Kč </p><p> Platí se přímo na
-  schůzce, hotově nebo mobilním bankovnictvím prostřednictvím QR kódu. (Platí od
-  1.9.2024 pro nové zájemce o spolupráci.) </p><p> Pokud se na konzultaci
-  nemůžete dostavit, je třeba se z ní omluvit alespoň 2 pracovní dny předem.
-  Sezení, na které se nedostavíte bez včasné omluvy, je také nutné uhradit v
-  plné výši. Cena za toto neuskutečněné sezení se přičítá k ceně následujícího
-  sezení. </p><p> Jste-li klientem VZP, ČPZP, ZPMV nebo RBP, můžete ve
-  spolupráci se mnou 1x ročně využít příspěvku na "psychosociální podporu", tedy
-  nechat si zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až
-  5.000 Kč za až 10 sezení). Podrobné podmínky pro získání příspěvku najdete na
-  webových stránkách či klientské lince své pojišťovny. </p><p> Individuálně
-  zvolený termín si můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo
-  můžete využít následující formulář. Při objednávání prosím uveďte svůj věk,
-  časové možnosti a stručně popište důvod pro vyhledání pomoci. Když mám k
-  dispozici volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do
-  konce druhého dne. </p>
+  0;"><p> Cena: </p><p> 60 minut za 1.200 Kč </p><p> jednorázové konzultace
+  </p><p> doprovázení akutní krizovou situací </p><p> nepravidelné poradenství a
+  podpůrná terapie 1x14 nebo více dní </p><p> 50 minut za 1.000 Kč dlouhodobá
+  systematická terapie 1x týdně </p><p> Platí se přímo na schůzce, hotově nebo
+  mobilním bankovnictvím prostřednictvím QR kódu. (Platí od 1.9.2024 pro nové
+  zájemce o spolupráci.) </p><p> Pokud se na konzultaci nemůžete dostavit, je
+  třeba se z ní omluvit alespoň 2 pracovní dny předem. Sezení, na které se
+  nedostavíte bez včasné omluvy, je také nutné uhradit v plné výši. Cena za toto
+  neuskutečněné sezení se přičítá k ceně následujícího sezení. </p><p> Jste-li
+  klientem VZP, ČPZP, ZPMV nebo RBP, můžete ve spolupráci se mnou 1x ročně
+  využít příspěvku na "psychosociální podporu", tedy nechat si zpětně proplatit
+  až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení).
+  Podrobné podmínky pro získání příspěvku najdete na webových stránkách či
+  klientské lince své pojišťovny. </p><p> Individuálně zvolený termín si můžete
+  sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete využít
+  následující formulář. Při objednávání prosím uveďte svůj věk, časové možnosti
+  a stručně popište důvod pro vyhledání pomoci. Když mám k dispozici volné
+  termíny pro zahájení nové spolupráce, odpovídám zpravidla do konce druhého
+  dne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
