@@ -14,7 +14,7 @@ firstSegmentTextColumnLeft: >-
   vaším průvodcem na cestě ven ze starých (a stále citlivých) záležitostí. Mohu
   vám být nápomocná, když váháte na významném životním rozcestí nebo chcete-li
   se jen lépe poznat a posunout se ve svém osobním rozvoji. Společně můžeme
-  hledat cestu ke zlepšení také v případě, že vaši každodenní činnost nepříznivě
+  hledat cestu ke zlepšení v případě, že vaši každodenní činnost nepříznivě
   ovlivňuje některý nebo více z následujících problémů:
 firstSegmentTextColumnRight: >-
   <li>ztráta něčeho nebo někoho pro vás důležitého</li> <li>onemocnění či jiná
