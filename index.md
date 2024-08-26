@@ -37,9 +37,9 @@ secondSegmentBody: >-
   patra, zde zvoňte na zvonek s mým jménem umístěný na rámu dveří vlevo od
   výtahu a vyčkejte na vpuštění do čekárny). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
-  0;"><p><b> Cena: </b></p><p><b> 60 minut za 1.200 Kč </b> - jednorázové
-  konzultace, doprovázení akutní krizí, nepravidelné poradenství a podpůrná
-  terapie 1x14 nebo více dní </p><p><b> 50 minut za 1.000 Kč </b> - dlouhodobá
+  0;"><p><b> Cena: </b></p><p><b> 60 minut za 1.200 Kč </b> - jednorázové či
+  nepravidelné poradenské konzultace, doprovázení akutní krizí, podpůrná terapie
+  1x14 nebo více dní </p><p><b> 50 minut za 1.000 Kč </b> - dlouhodobá
   systematická terapie 1x týdně </p><p> (Platí od 1.9.2024 pro nové zájemce o
   spolupráci.) </p><p> Platí se přímo na schůzce, hotově nebo mobilním
   bankovnictvím prostřednictvím QR kódu. </p><p><b> Ve spolupráci se mnou můžete
