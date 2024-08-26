@@ -18,9 +18,9 @@ firstSegmentTextColumnLeft: >-
   ovlivňuje některý nebo více z následujících problémů:
 firstSegmentTextColumnRight: >-
   <li>ztráta něčeho nebo někoho pro vás důležitého</li> <li>onemocnění či jiná
-  nepříznivá životní událost</li> <li>nejistota, strach, deprese,
+  nepříznivá životní událost</li> <li>nejistota, strach, úzkost, deprese,
   nerozhodnost</li> <li>nutkavé myšlenky či chování, omezující zlozvyky</li>
-  <li>přetížení, napětí, stres, psychosomatické potíže</li> <li>pocit
+  <li>přetížení, napětí, stres, vyhoření, psychosomatické potíže</li> <li>pocit
   nesmyslnosti, prázdnota, ztráta motivace, cíle </li> <li>odcizení,
   nezakořeněnost, osamělost</li> <li>neuspokojivé vztahy, včetně vztahu k
   sobě</li> <li>pochybnosti o stávajících hodnotách, spirituální krize</li>
