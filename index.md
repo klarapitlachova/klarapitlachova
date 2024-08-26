@@ -48,7 +48,7 @@ secondSegmentBody: >-
   až 10 sezení). </b></p><p> Podrobné podmínky pro získání příspěvku zjistíte na
   webových stránkách či klientské lince své pojišťovny. </p><p> Termín prvního
   setkání si můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete
-  využít následující formulář. Při objednávání prosím uveďte svůj věk, časové
+  využít níže uvedený formulář. Při objednávání prosím uveďte svůj věk, časové
   možnosti a stručně popište důvod pro vyhledání pomoci. Když mám k dispozici
   volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do konce
   týdne. </p><p><b> <big> Nyní přijímám nové zájemce o spolupráci v dopoledních
