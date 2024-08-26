@@ -42,18 +42,18 @@ secondSegmentBody: >-
   1x týdně </p><p> (Platí od 1.9.2024 pro nové zájemce o spolupráci.) </p><p>
   Platí se přímo na schůzce, hotově nebo mobilním bankovnictvím prostřednictvím
   QR kódu. </p><p> Ve spolupráci se mnou můžete 1x ročně využít příspěvku na
-  "psychosociální podporu", tedy nechat si zpětně proplatit až 500 Kč za jedno
-  sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení). Podrobné podmínky pro
-  získání příspěvku najdete na webových stránkách či klientské lince své
-  pojišťovny. </p><p> Individuálně zvolený termín si můžete sjednat přes SMS na
-  telefonním čísle 776 433 599 nebo můžete využít následující formulář. Při
-  objednávání prosím uveďte svůj věk, časové možnosti a stručně popište důvod
-  pro vyhledání pomoci. Když mám k dispozici volné termíny pro zahájení nové
-  spolupráce, odpovídám zpravidla do konce druhého dne. </p><p> Pokud se na
-  konzultaci nemůžete dostavit, je třeba se z ní omluvit alespoň 2 pracovní dny
-  předem. Sezení, na které se nedostavíte bez včasné omluvy, je také nutné
-  uhradit v plné výši. Cena za toto neuskutečněné sezení se přičítá k ceně
-  následujícího sezení. </p>
+  tzv. "psychosociální podporu", tedy nechat si zpětně proplatit až 500 Kč za
+  jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení). Podrobné
+  podmínky pro získání příspěvku zjistíte na webových stránkách či klientské
+  lince své pojišťovny. </p><p> Individuálně zvolený termín si můžete sjednat
+  přes SMS na telefonním čísle 776 433 599 nebo můžete využít následující
+  formulář. Při objednávání prosím uveďte svůj věk, časové možnosti a stručně
+  popište důvod pro vyhledání pomoci. Když mám k dispozici volné termíny pro
+  zahájení nové spolupráce, odpovídám zpravidla do konce druhého dne. </p><p>
+  Pokud se na konzultaci nemůžete dostavit, je třeba se z ní omluvit alespoň 2
+  pracovní dny předem. Sezení, na které se nedostavíte bez včasné omluvy, je
+  také nutné uhradit v plné výši. Cena za toto neuskutečněné sezení se přičítá k
+  ceně následujícího sezení. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
