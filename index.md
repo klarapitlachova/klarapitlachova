@@ -41,7 +41,7 @@ secondSegmentBody: >-
   nebo více dní </p><p> 50 minut za 1.000 - Kč dlouhodobá systematická terapie
   1x týdně </p><p> (Platí od 1.9.2024 pro nové zájemce o spolupráci.) </p><p>
   Platí se přímo na schůzce, hotově nebo mobilním bankovnictvím prostřednictvím
-  QR kódu. </p><p> Jste-li klientem VZP, ČPZP, ZPMV nebo RBP, můžete ve
+  QR kódu. </p><p> Jste-li klientem VZP, ČPZP, ZPMV, OZP nebo RBP, můžete ve
   spolupráci se mnou 1x ročně využít příspěvku na "psychosociální podporu", tedy
   nechat si zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až
   5.000 Kč za až 10 sezení). Podrobné podmínky pro získání příspěvku najdete na
