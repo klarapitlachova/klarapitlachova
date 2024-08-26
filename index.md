@@ -37,25 +37,26 @@ secondSegmentBody: >-
   patra, zde zvoňte na zvonek s mým jménem umístěný na rámu dveří vlevo od
   výtahu a vyčkejte na vpuštění do čekárny). </p><img
   src="assets/images/20200828_143139.jpg" style="max-width:100%;padding:1rem
-  0;"><p> Cena: </p><p> 60 minut za 1.200 Kč - jednorázové konzultace,
-  doprovázení akutní krizí, nepravidelné poradenství a podpůrná terapie 1x14
-  nebo více dní </p><p> 50 minut za 1.000 - Kč dlouhodobá systematická terapie
-  1x týdně </p><p> (Platí od 1.9.2024 pro nové zájemce o spolupráci.) </p><p>
-  Platí se přímo na schůzce, hotově nebo mobilním bankovnictvím prostřednictvím
-  QR kódu. </p><p> Ve spolupráci se mnou můžete 1x ročně využít příspěvku na
-  tzv. "psychosociální podporu", tedy nechat si zpětně proplatit až 500 Kč za
-  jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10 sezení). Podrobné
-  podmínky pro získání příspěvku zjistíte na webových stránkách či klientské
-  lince své pojišťovny. </p><p> Termín prvního setkání si můžete sjednat přes
-  SMS na telefonním čísle 776 433 599 nebo můžete využít následující formulář.
-  Při objednávání prosím uveďte svůj věk, časové možnosti a stručně popište
-  důvod pro vyhledání pomoci. Když mám k dispozici volné termíny pro zahájení
-  nové spolupráce, odpovídám zpravidla do konce týdne. </p><p><b> <big> Nyní
-  přijímám nové zájemce o spolupráci v dopoledních hodinách (10h, 11:15h,
-  12:45h). </big></b></p><p>  Pokud se na konzultaci nemůžete dostavit, je třeba
-  se z ní omluvit alespoň 2 pracovní dny předem. Sezení, na které se nedostavíte
-  bez včasné omluvy, je také nutné uhradit v plné výši. Cena za toto
-  neuskutečněné sezení se přičítá k ceně následujícího sezení. </p>
+  0;"><p><b> Cena: </b></p><p><b> 60 minut za 1.200 Kč </b> - jednorázové
+  konzultace, doprovázení akutní krizí, nepravidelné poradenství a podpůrná
+  terapie 1x14 nebo více dní </p><p><b> 50 minut za 1.000 </b> - Kč dlouhodobá
+  systematická terapie 1x týdně </p><p> (Platí od 1.9.2024 pro nové zájemce o
+  spolupráci.) </p><p> Platí se přímo na schůzce, hotově nebo mobilním
+  bankovnictvím prostřednictvím QR kódu. </p><p><b> Ve spolupráci se mnou můžete
+  1x ročně využít příspěvku na tzv. "psychosociální podporu", tedy nechat si
+  zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za
+  až 10 sezení). </b> Podrobné podmínky pro získání příspěvku zjistíte na
+  webových stránkách či klientské lince své pojišťovny. </p><p> Termín prvního
+  setkání si můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete
+  využít následující formulář. Při objednávání prosím uveďte svůj věk, časové
+  možnosti a stručně popište důvod pro vyhledání pomoci. Když mám k dispozici
+  volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do konce
+  týdne. </p><p><b> <big> Nyní přijímám nové zájemce o spolupráci v dopoledních
+  hodinách (10h, 11:15h, 12:45h). </big></b></p><p>  Pokud se na konzultaci
+  nemůžete dostavit, je třeba se z ní omluvit alespoň 2 pracovní dny předem.
+  Sezení, na které se nedostavíte bez včasné omluvy, je také nutné uhradit v
+  plné výši. Cena za toto neuskutečněné sezení se přičítá k ceně následujícího
+  sezení. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
