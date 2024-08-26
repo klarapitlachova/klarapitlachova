@@ -3,8 +3,8 @@ layout: front-page
 title: 'soukromá psychologická praxe, Brno'
 basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
-  Doprovázení, poradenství, terapie – psychologická podpora pro vás, pokud
-  hledáte dlouhodobě udržitelnou změnu k lepšímu, spíše než okamžitou úlevu.
+  Doprovázení, poradenství, terapie – psychologická podpora při hledání cesty
+  nejasným úsekem života.
 basicCardTelephone: Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
@@ -24,8 +24,8 @@ firstSegmentTextColumnRight: >-
   nesmyslnosti, prázdnota, ztráta motivace, cíle </li> <li>odcizení,
   nezakořeněnost, osamělost</li> <li>neuspokojivé vztahy, včetně vztahu k
   sobě</li> <li>pochybnosti o stávajících hodnotách, spirituální krize</li>
-  <li>a další…</li> <p><b> <big>, Nenabízím rychlou úlevu, ale udržitelnou
-  změnu. </big></b></p>
+  <li>a další…</li> <p><b> <big> Nabízím postupnou a dlouhodobě udržitelnou
+  změnu, spíše než okamžitou úlevu. </big></b></p>
 qutoSegmentText: >-
   „Člověk může přijít o všechno kromě jediného: nikdo mu nemůže vzít poslední
   lidskou svobodu – vybrat si za jakýchkoliv okolností svůj vlastní přístup,
