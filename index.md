@@ -51,11 +51,11 @@ secondSegmentBody: >-
   využít níže uvedený formulář. Při objednávání prosím uveďte svůj věk, časové
   možnosti a stručně popište důvod pro vyhledání pomoci. Když mám k dispozici
   volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do konce
-  týdne. </p><p><b> Nyní přijímám nové zájemce o spolupráci v dopoledních
-  hodinách (10h, 11:15h, 12:45h). </b></p><p>  Pokud se na konzultaci nemůžete
-  dostavit, je třeba se z ní omluvit alespoň 2 pracovní dny předem. Sezení, na
-  které se nedostavíte bez včasné omluvy, je také nutné uhradit v plné výši.
-  Cena za toto neuskutečněné sezení se přičítá k ceně následujícího sezení. </p>
+  týdne. </p><p><b> Nyní nepřijímám nové zájemce o spolupráci. </b></p><p> 
+  Pokud se na konzultaci nemůžete dostavit, je třeba se z ní omluvit alespoň 2
+  pracovní dny předem. Sezení, na které se nedostavíte bez včasné omluvy, je
+  také nutné uhradit v plné výši. Cena za toto neuskutečněné sezení se přičítá k
+  ceně následujícího sezení. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
