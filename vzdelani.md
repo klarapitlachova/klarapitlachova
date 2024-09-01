@@ -16,12 +16,12 @@ educationListBody: >-
   <li><span>2021:</span><br> Nadstavbový kurz psychodynamicko-imaginativní
   traumaterapie dle Dr. Luise Reddemann - PITT (SLEA Praha, 18 hodin)</li>
   <li><span>2021:</span><br> Sebevražedné motivy v kontextu osobnostní
-  dynamiky/poruchy (SLEA online, 5 hodin)</li>  <li><span>2020:</span><br>
-  Vedení rozhovoru s dětmi a dospívajícími (Mansio Brno online, 16
-  hodin)</li><li><span>2019:</span><br> Dluhová problematika - základní (Liga
-  vozíčkářů Brno, 5 hodin)</li><li><span>2019:</span><br> Arteterapeutický
-  ateliér (Hana Formánková Brno, 40 hodin)</li> <li><span>2018 –
-  2020:</span><br> Supervizní část psychoterapeutického výcviku SLEA Praha -
+  dynamiky/poruchy osobnosti (SLEA online, 5 hodin)</li> 
+  <li><span>2020:</span><br> Vedení rozhovoru s dětmi a dospívajícími (Mansio
+  Brno online, 16 hodin)</li><li><span>2019:</span><br> Dluhová problematika -
+  základní (Liga vozíčkářů Brno, 5 hodin)</li><li><span>2019:</span><br>
+  Arteterapeutický ateliér (Hana Formánková Brno, 40 hodin)</li> <li><span>2018
+  – 2020:</span><br> Supervizní část psychoterapeutického výcviku SLEA Praha -
   certifikát ukončeného psychoterapeutického vzdělání v logoterapii a
   existenciální analýze </li><li><span>2017:</span><br> Sexualita a vztahy lidí
   s postižením - základní (Liga vozíčkářů Brno, 8 hodin)</li>
