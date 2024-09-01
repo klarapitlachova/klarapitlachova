@@ -61,12 +61,11 @@ thirdSegmentBody: >-
   <textarea name="text" required></textarea> </label> <input type="submit"
   value="Odeslat zprávu" class="submit-button"> </form> <img
   src="assets/images/CAP_odznak_radna_F_web.png"
-  style="max-width:100%;padding:1rem 0;"> <p><b style="color: yellow;> Ve
-  spolupráci se mnou můžete 1x ročně využít příspěvku na tzv. "psychosociální
-  podporu", tedy nechat si zpětně proplatit až 500 Kč za jedno sezení (v
-  celkovém rozsahu až 5.000 Kč za až 10 sezení). </b></p><p> Podrobné podmínky
-  pro získání příspěvku zjistíte na webových stránkách či klientské lince své
-  pojišťovny. </p>
+  style="max-width:100%;padding:1rem 0;"> <p><b> Ve spolupráci se mnou můžete 1x
+  ročně využít příspěvku na tzv. "psychosociální podporu", tedy nechat si zpětně
+  proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10
+  sezení). </b></p><p> Podrobné podmínky pro získání příspěvku zjistíte na
+  webových stránkách či klientské lince své pojišťovny. </p>
 published: true
 ---
 ![20240426_131358.jpg]({{site.baseurl}}/assets/files/20240426_131358.jpg)
