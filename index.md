@@ -3,8 +3,8 @@ layout: front-page
 title: 'soukromá psychologická praxe, Brno'
 basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
-  <p> Doprovázení, poradenství, terapie zaměřená na postupnou a dlouhodobě
-  udržitelnou změnu. </p>
+  <p> Doprovázení, poradenství, terapie - duševní podpora zaměřená na postupnou
+  a dlouhodobě udržitelnou změnu. </p>
 basicCardTelephone: Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&#053;&#057;&#057;
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
