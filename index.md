@@ -63,14 +63,15 @@ thirdSegmentBody: >-
   <input type="text" name="telefon" required> </label> <label>Vaše jméno <input
   type="text" name="jmeno" placeholder="" required> </label> <label>Vaše zpráva
   <textarea name="text" required></textarea> </label> <input type="submit"
-  value="Odeslat zprávu" class="submit-button"> </form> <p><b> Nyní přijímám
-  nové zájemce o spolupráci v dopoledních hodinách (v 10h, 11:15h, 12:45h; pro
-  jednorázové a nepravidelné konzultace i v jinou dobu). </b></p><p>  Pokud se
-  na konzultaci nemůžete dostavit, je třeba se z ní omluvit alespoň 2 pracovní
-  dny předem. Sezení, na které se nedostavíte bez včasné omluvy, je také nutné
-  uhradit v plné výši. Cena za toto neuskutečněné sezení se přičítá k ceně
-  následujícího sezení. </p> <img src="assets/images/CAP_odznak_radna_F_web.png"
-  style="max-width:100%;padding:1rem 0;"><p>
+  value="Odeslat zprávu" class="submit-button"> </form> <img
+  src="assets/images/CAP_odznak_radna_F_web.png"
+  style="max-width:100%;padding:1rem 0;"> <p><b> Nyní přijímám nové zájemce o
+  spolupráci v dopoledních hodinách (v 10h, 11:15h, 12:45h; pro jednorázové a
+  nepravidelné konzultace i v jinou dobu). </b></p><p>  Pokud se na konzultaci
+  nemůžete dostavit, je třeba se z ní omluvit alespoň 2 pracovní dny předem.
+  Sezení, na které se nedostavíte bez včasné omluvy, je také nutné uhradit v
+  plné výši. Cena za toto neuskutečněné sezení se přičítá k ceně následujícího
+  sezení. </p>
 published: true
 ---
 ![20240426_131358.jpg]({{site.baseurl}}/assets/files/20240426_131358.jpg)
