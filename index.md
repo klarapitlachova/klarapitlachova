@@ -41,13 +41,12 @@ secondSegmentBody: >-
   1x14 nebo více dní </p><p><b> 50 minut za 1.000 Kč </b> - dlouhodobá
   systematická terapie 1x týdně </p><p> (Platí od 1.9.2024 pro nové zájemce o
   spolupráci.) </p><p> Platí se přímo na schůzce, hotově nebo mobilním
-  bankovnictvím prostřednictvím QR kódu. </p><p><b> Nyní přijímám nové zájemce o
-  spolupráci v dopoledních hodinách (v 10h, 11:15h, 12:45h; pro jednorázové a
-  nepravidelné konzultace i v jinou dobu). </b></p><p> Termín prvního setkání si
-  můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete využít
-  níže uvedený formulář. Při objednávání prosím uveďte svůj věk, časové možnosti
-  a stručně popište důvod pro vyhledání pomoci. Když mám k dispozici volné
-  termíny pro zahájení nové spolupráce, odpovídám zpravidla do konce týdne. </p>
+  bankovnictvím prostřednictvím QR kódu. </p><p><b> Nyní nepřijímám nové zájemce
+  o spolupráci. </b></p><p> Termín prvního setkání si můžete sjednat přes SMS na
+  telefonním čísle 776 433 599 nebo můžete využít níže uvedený formulář. Při
+  objednávání prosím uveďte svůj věk, časové možnosti a stručně popište důvod
+  pro vyhledání pomoci. Když mám k dispozici volné termíny pro zahájení nové
+  spolupráce, odpovídám zpravidla do konce týdne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
