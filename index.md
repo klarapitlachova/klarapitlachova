@@ -64,7 +64,7 @@ thirdSegmentBody: >-
   <textarea name="text" required></textarea> </label> <input type="submit"
   value="Odeslat zprávu" class="submit-button"> </form> <img
   src="assets/images/CAP_odznak_radna_F_web.png"
-  style="max-width:100%;padding:1rem 0;"> <p> *Výše příspěvku pokryje výdaje
+  style="max-width:100%;padding:1rem 0;"> <p> * Výše příspěvku pokryje výdaje
   pouze na několik úvodních hodin, v průběhu kterých se často ukáže, že problémy
   mají hlubší příčinu a vyžadují dlouhodobější a/nebo (časově i emočně)
   intenzivnější práci. V případě, že klient nemá zájem o spolupráci v intenzitě
