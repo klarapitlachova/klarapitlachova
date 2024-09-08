@@ -41,10 +41,10 @@ secondSegmentBody: >-
   1x14 nebo více dní </p><p><b> 50 minut za 1.000 Kč </b> - dlouhodobá
   systematická terapie 1x týdně </p><p> (Platí od 1.9.2024 pro nové zájemce o
   spolupráci.) </p><p> Platí se přímo na schůzce, hotově nebo mobilním
-  bankovnictvím prostřednictvím QR kódu. Ve spolupráci se mnou můžete 1x ročně
-  využít příspěvku na tzv. "psychosociální podporu", tedy nechat si zpětně
-  proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za až 10
-  sezení).* Podrobné podmínky pro získání příspěvku zjistíte na webových
+  bankovnictvím prostřednictvím QR kódu.  </p><p> Ve spolupráci se mnou můžete
+  1x ročně využít příspěvku na tzv. "psychosociální podporu", tedy nechat si
+  zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč za
+  až 10 sezení).* Podrobné podmínky pro získání příspěvku zjistíte na webových
   stránkách či klientské lince své pojišťovny. </p><p><b> Nyní nepřijímám nové
   zájemce o spolupráci. </b></p><p> Termín prvního setkání si můžete sjednat
   přes SMS na telefonním čísle 776 433 599 nebo můžete využít níže uvedený
