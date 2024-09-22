@@ -71,8 +71,8 @@ thirdSegmentBody: >-
   mají hlubší příčinu a vyžadují dlouhodobější a/nebo (časově i emočně)
   intenzivnější práci. V případě, že klient nemá zájem o spolupráci v intenzitě
   odpovídající jeho potížím, preferuji ukončení spolupráce spíše než její
-  "rozvolnění". Volnější forma spolupráce, kdy se vytrácí návaznost témat a
-  kontakt s emocemi, může vzhledem k její menší efektivitě přinést zklamání,
+  "rozvolnění". Volnější forma spolupráce, kdy se vytrácí návaznost témat a s
+  nimi spojené pocity, může vzhledem k její menší efektivitě přinést zklamání,
   sloužit jen k "vypovídání" a poškodit důvěru v terapii jako takovou. S tím je
   potřeba počítat a zvážit svou motivaci i finanční možnosti nezávisle na
   příspěvku. Přínos terapie se výrazněji projeví zpravidla kolem 20. setkání,
