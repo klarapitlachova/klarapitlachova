@@ -46,7 +46,7 @@ secondSegmentBody: >-
   si zpětně proplatit až 500 Kč za jedno sezení (v celkovém rozsahu až 5.000 Kč
   za až 10 sezení). </b></p><p> Podrobné podmínky pro získání příspěvku zjistíte
   na webových stránkách či klientské lince své pojišťovny. </p><p><b> Nyní
-  přijímám nové zájemce o spolupráci. </b></p><p> Termín prvního setkání si
+  nepřijímám nové zájemce o spolupráci. </b></p><p> Termín prvního setkání si
   můžete sjednat přes SMS na telefonním čísle 776 433 599 nebo můžete využít
   níže uvedený formulář. Při objednávání prosím uveďte svůj věk, časové možnosti
   a stručně popište důvod pro vyhledání pomoci. Když mám k dispozici volné
