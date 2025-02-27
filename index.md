@@ -35,7 +35,7 @@ secondSegmentBody: >-
   <p> Najdete mne v Brně na adrese Dvořákova 13 (prosklenými dveřmi v zadní
   části průjezdu zelené budovy projdete k výtahu či schodišti a vystoupáte do 2.
   patra, zde zvoňte na zvonek s mým jménem umístěný na rámu dveří vlevo od
-  výtahu a vyčkejte na vpuštění do čekárny). <b>Před vstupem do čekárny ztlumte
+  výtahu a vyčkejte na vpuštění do čekárny). <b>Před vstupem do čekárny vypněte
   všechny zvuky i vibrace na svých zařízeních.</b> Digitální střídmost po celý
   den plánovaného sezení podporuje terapeutický proces. </p><img
   src="assets/files/20240426_131358.jpg" style="max-width:100%;padding:1rem
