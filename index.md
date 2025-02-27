@@ -36,8 +36,8 @@ secondSegmentBody: >-
   části průjezdu zelené budovy projdete k výtahu či schodišti a vystoupáte do 2.
   patra, zde zvoňte na zvonek s mým jménem umístěný na rámu dveří vlevo od
   výtahu a vyčkejte na vpuštění do čekárny). <b>Před vstupem do čekárny ztlumte
-  všechny zvuky i vibrace na svých zařízeních.</b> Digitální "detox" po celý den
-  před i po sezení podporuje terapeutický proces. </p><img
+  všechny zvuky i vibrace na svých zařízeních.</b> Digitální střídmost po celý
+  den před i po sezení podporuje terapeutický proces. </p><img
   src="assets/files/20240426_131358.jpg" style="max-width:100%;padding:1rem
   0;"><p><b> Cena: </b></p><p><b> 60 minut za 1.200 Kč </b> - jednorázové či
   nepravidelné poradenské konzultace, doprovázení akutní krizí, podpůrná terapie
