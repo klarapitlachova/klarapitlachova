@@ -1,6 +1,6 @@
 ---
 layout: front-page
-title: psychologické poradenství a psychoterapie Brno
+title: psychologické poradenství a terapie Brno
 basicCardName: Mgr. Klára Pitlachová
 basicCardExpertise: >-
   <p> Doprovázení, poradenství, terapie - duševní podpora zaměřená na postupnou
