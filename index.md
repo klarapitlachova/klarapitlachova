@@ -50,12 +50,14 @@ secondSegmentBody: >-
   za až 10 sezení). </b></p><p> Podrobné podmínky pro získání příspěvku zjistíte
   u své pojišťovny. </p><p> Pro bezplatné zrušení dohodnutého sezení je nutné
   tuto informaci sdělit alespoň 2 dny předem, jinak účtuji platbu za neproběhlou
-  hodinu v plné výši. </p><p><b> NYNÍ NEPŘIJÍMÁM NOVÉ ZÁJEMCE O SPOLUPRÁCI.
-  </b></p><p> Termín prvního setkání si můžete sjednat přes SMS na telefonním
-  čísle 776 433 599 nebo můžete využít níže uvedený formulář. Při objednávání
-  prosím uveďte svůj věk, časové možnosti a stručně popište důvod pro vyhledání
-  pomoci. Když mám k dispozici volné termíny pro zahájení nové spolupráce,
-  odpovídám zpravidla do konce týdne. </p>
+  hodinu v plné výši. (Plánované osobní setkání není možné nahradit online
+  formou, kterou na kterou přistupuji pouze ve specifických případech.)
+  </p><p><b> NYNÍ NEPŘIJÍMÁM NOVÉ ZÁJEMCE O SPOLUPRÁCI. </b></p><p> Termín
+  prvního setkání si můžete sjednat přes SMS na telefonním čísle 776 433 599
+  nebo můžete využít níže uvedený formulář. Při objednávání prosím uveďte svůj
+  věk, časové možnosti a stručně popište důvod pro vyhledání pomoci. Když mám k
+  dispozici volné termíny pro zahájení nové spolupráce, odpovídám zpravidla do
+  konce týdne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
