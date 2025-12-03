@@ -9,7 +9,7 @@ basicCardTelephone: Tel. &#032;&#055;&#055;&#054;&#032;&#052;&#051;&#051;&#032;&
 firstSegmentHeadilne: Co nabízím
 firstSegmentTextColumnLeft: >-
   Nabízím vám individuální pomoc, pokud je vám přibližně 25-65 let (už nebydlíte
-  s rodiči-ještě jste pracovně nebo jinak společensky zapojení), identifikujete
+  s rodiči-ještě jste pracovně nebo jinak společensky zapojen/á), identifikujete
   se jako žena či muž a právě se nacházíte nebo se opakovaně ocitáte v obtížné
   situaci či duševním stavu, které vás nadměrně vyčerpávají či ochromují a
   nevíte, jak z nich ven. Mohu se stát vaším průvodcem na cestě ven ze starých
