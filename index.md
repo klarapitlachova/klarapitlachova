@@ -26,7 +26,9 @@ firstSegmentTextColumnRight: >-
   nesmyslnosti, prázdnota, ztráta motivace, cíle </li> <li>odcizení,
   nezakořeněnost, osamělost</li> <li>neuspokojivé vztahy, včetně vztahu k
   sobě</li> <li>pochybnosti o stávajících hodnotách, spirituální krize,
-  environmentální žal</li> <li>a další…</li>
+  environmentální žal</li> <li>a další…</li> <li>(pokud vám byla diagnostikována
+  hraniční porucha, je před zahájením naší spolupráce nezbytná registrace do
+  skupinové terapie ve Fakultní nemocnici Brno)</li>
 qutoSegmentText: >-
   „Člověk může přijít o všechno kromě jediného: nikdo mu nemůže vzít poslední
   lidskou svobodu – vybrat si za jakýchkoliv okolností svůj vlastní přístup,
