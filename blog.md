@@ -30,4 +30,5 @@ published: true
   vlastního příběhu - to je to, oč usiluji i jako průvodkyně, poradkyně a
   terapeutka "na volné noze".
 ---
+
 ![IMG-20251204-WA0000.jpg]({{site.baseurl}}/assets/files/IMG-20251204-WA0000.jpg)
