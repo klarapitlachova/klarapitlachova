@@ -31,5 +31,5 @@ published: true
   terapeutka "na volné noze".
 ---
 
-![IMG-20251204-WA0000.jpg]({{site.baseurl}}/assets/files/IMG-20251204-WA0000.jpg)
-![IMG-20251204-WA0001.jpg]({{site.baseurl}}/assets/files/IMG-20251204-WA0001.jpg)
+![Co je terapie.jpg]({{site.baseurl}}/assets/files/Co je terapie.jpg)
+![Podmínky spolupráce od 1.11.2025.jpg]({{site.baseurl}}/assets/files/Podmínky spolupráce od 1.11.2025.jpg)
