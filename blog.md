@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: static-page
 title: Listing of posts
 published: >-
   true
