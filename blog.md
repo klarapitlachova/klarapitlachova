@@ -5,6 +5,8 @@ published: >-
   true
 
   </p><img src="assets/files/Co%20je%20terapie.jpg"
+  style="max-width:100%;padding:1rem 0;"><p> </p><img
+  src="assets/files/Podm%C3%ADnky%20spolupr%C3%A1ce%20od%201.11.2025"
   style="max-width:100%;padding:1rem 0;"><p>
 'Vzdělání v tzv. pomáhajících profesích (psychologie a sociální práce) jsem získala na Fakultě sociálních studií brněnské Masarykovy univerzity v letech 1999 - 2006. Toto oborové zaměření se ukázalo jako ušité na míru práci v sociálních a jim podobných službách, které jsem se na různých pozicích v neziskových organizacích věnovala kontinuálně až do roku 2020': >-
   Jako koordinátorka dobrovolnického programu na nemocničních odděleních všech
