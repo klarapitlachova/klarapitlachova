@@ -36,4 +36,5 @@ published: >-
   vlastního příběhu - to je to, oč usiluji i jako průvodkyně, poradkyně a
   terapeutka "na volné noze".
 ---
+
 ![Co je terapie.jpg]({{site.baseurl}}/assets/files/Co%20je%20terapie.jpg)![Podmínky spolupráce od 1.11.2025.jpg]({{site.baseurl}}/assets/files/Podm%C3%ADnky%20spolupr%C3%A1ce%20od%201.11.2025.jpg)
