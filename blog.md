@@ -1,7 +1,11 @@
 ---
 layout: post
 title: Listing of posts
-published: true
+published: >-
+  true
+
+  </p><img src="assets/files/20240426_131358.jpg"
+  style="max-width:100%;padding:1rem 0;"><p>
 'Vzdělání v tzv. pomáhajících profesích (psychologie a sociální práce) jsem získala na Fakultě sociálních studií brněnské Masarykovy univerzity v letech 1999 - 2006. Toto oborové zaměření se ukázalo jako ušité na míru práci v sociálních a jim podobných službách, které jsem se na různých pozicích v neziskových organizacích věnovala kontinuálně až do roku 2020': >-
   Jako koordinátorka dobrovolnického programu na nemocničních odděleních všech
   věkových skupin a v domovech pro seniory (2007-2009, kdy jsem se stala mámou
