@@ -32,3 +32,4 @@ published: true
 ---
 
 ![IMG-20251204-WA0000.jpg]({{site.baseurl}}/assets/files/IMG-20251204-WA0000.jpg)
+![IMG-20251204-WA0001.jpg]({{site.baseurl}}/assets/files/IMG-20251204-WA0001.jpg)
