@@ -28,7 +28,6 @@ title: Listing of posts
   ukotveným autorem, tj. svobodným a odpovědným tvůrcem a interpretem svého
   vlastního příběhu - to je to, oč usiluji i jako průvodkyně, poradkyně a
   terapeutka "na volné noze".
-published: false
 ---
 
 ![Co je terapie.jpg]({{site.baseurl}}/assets/files/Co%20je%20terapie.jpg)
