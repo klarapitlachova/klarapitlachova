@@ -54,12 +54,11 @@ secondSegmentBody: >-
   neproběhlou hodinu v plné výši. (Plánované osobní setkání není možné nahradit
   online formou, na kterou přistupuji pouze ve specifických případech.)
   </p><p><b> NYNÍ PŘIJÍMÁM NOVÉ ZÁJEMCE JAK O PRAVIDELNOU SPOLUPRÁCI, TAK O
-  NEPRAVIDELNÉ KONZULTACE V DOBĚ OD 10 DO 15H (S MOŽNOSTÍ VYSTAVENÍ PROPUSTKY
-  PRO ZAMĚSTNAVATELE). </b></p><p> Termín prvního setkání si můžete sjednat přes
-  SMS na telefonním čísle 776 433 599 nebo můžete využít níže uvedený formulář.
-  Při objednávání prosím uveďte svůj věk, časové možnosti a stručně popište
-  důvod pro vyhledání pomoci. Když mám k dispozici volné termíny pro zahájení
-  nové spolupráce, odpovídám zpravidla do konce týdne. </p>
+  NEPRAVIDELNÉ KONZULTACE. </b></p><p> Termín prvního setkání si můžete sjednat
+  přes SMS na telefonním čísle 776 433 599 nebo můžete využít níže uvedený
+  formulář. Při objednávání prosím uveďte svůj věk, časové možnosti a stručně
+  popište důvod pro vyhledání pomoci. Když mám k dispozici volné termíny pro
+  zahájení nové spolupráce, odpovídám zpravidla do konce týdne. </p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
