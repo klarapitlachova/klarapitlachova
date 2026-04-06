@@ -68,7 +68,8 @@ thirdSegmentBody: >-
   style="display:none"> <label>Váš email <input id="input-sender-email"
   type="email" name="_replyto" required> </label> </label> <label>Váš telefon
   <input type="text" name="telefon" required> </label> <label>Vaše jméno <input
-  type="text" name="jmeno" placeholder="" required> </label> <label>Vaše zpráva
+  type="text" name="jmeno" placeholder="" required> <label>Rok narození <input
+  type="text" name="rocnik" placeholder="" required> </label> <label>Vaše zpráva
   <textarea name="text" required></textarea> </label> <input type="submit"
   value="Odeslat zprávu" class="submit-button"> </form> <img
   src="assets/images/CAP_odznak_radna_F_web.png"
