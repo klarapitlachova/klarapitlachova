@@ -37,7 +37,7 @@ secondSegmentBody: >-
   <p> Najdete mne v Brně v Paláci Morava na adrese Malinovského nám. 4 (při vstupu hlavním vchodem od Mahenova divadla vystoupáte do 3.patra, kde projdete prosklenými dveřmi naproti výtahu a pokračujete chodbou vlevo ke dveřím č.328 - zde se usaďte v čekárně a vyčkejte na můj příchod). <b>Před vstupem do čekárny vypněte
   všechny zvuky i vibrace na svých zařízeních.</b> Digitální střídmost po celý
   den plánovaného sezení podporuje terapeutický proces. </p><img
-  src="assets/files/20240426_131358.jpg" style="max-width:100%;padding:1rem
+  src="assets/images/20260505_103341.jpg" style="max-width:100%;padding:1rem
   0;"><p><b> Cena: </b></p><p><b> 60 minut za 1.200 Kč </b> - jednorázové či
   nepravidelné poradenské konzultace, doprovázení akutní krizí, podpůrná terapie
   1x14 nebo více dní </p><p><b> 50 minut za 1.000 Kč </b> - dlouhodobá
@@ -50,8 +50,8 @@ secondSegmentBody: >-
   nutné tuto informaci sdělit alespoň 2 dny předem, jinak účtuji platbu za
   neproběhlou hodinu v plné výši. (Plánované osobní setkání není možné nahradit
   online formou, na kterou přistupuji pouze ve specifických případech.)
-  </p><p><b> NYNÍ PŘIJÍMÁM NOVÉ ZÁJEMCE JAK O PRAVIDELNOU SPOLUPRÁCI, TAK O
-  NEPRAVIDELNÉ KONZULTACE. </b></p><p> Termín prvního setkání si můžete sjednat
+  </p><p><b> NYNÍ PŘIJÍMÁM NOVÉ ZÁJEMCE O
+  NEPRAVIDELNÉ KONZULTACE PŘEVÁŽNĚ V DOPOLEDNÍCH HODINÁCH. </b></p><p> Termín prvního setkání si můžete sjednat
   přes SMS na telefonním čísle 776 433 599 nebo můžete využít níže uvedený
   formulář. Při objednávání prosím uveďte svůj věk, časové možnosti a stručně
   popište důvod pro vyhledání pomoci. Když mám k dispozici volné termíny pro
