@@ -55,7 +55,7 @@ secondSegmentBody: >-
   přes SMS na telefonním čísle 776 433 599 nebo můžete využít níže uvedený
   formulář. Při objednávání prosím uveďte svůj věk, časové možnosti a stručně
   popište důvod pro vyhledání pomoci. Když mám k dispozici volné termíny pro
-  zahájení nové spolupráce, odpovídám zpravidla do konce týdne. </p><p><b> Plánovaná dovolená 2026: 3.-28.srpna | 28.září-2.října | 21.-31.prosince </b></p>
+  zahájení nové spolupráce, odpovídám zpravidla do konce týdne. </p><p><b> Plánovaná dovolená 2026 | 3.-28.srpna | 28.září-2.října | 21.-31.prosince </b></p>
 thirdSegmentHeadilne: Napište mi
 thirdSegmentBody: >-
   <form action="https://formspree.io/pitlachovaklara@gmail.com" method="POST">
