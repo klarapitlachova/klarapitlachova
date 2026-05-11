@@ -50,8 +50,8 @@ secondSegmentBody: >-
   nutné tuto informaci sdělit alespoň 2 dny předem, jinak účtuji platbu za
   neproběhlou hodinu v plné výši. (Plánované osobní setkání není možné nahradit
   online formou, na kterou přistupuji pouze ve specifických případech.)
-  </p><p><b> NYNÍ PŘIJÍMÁM NOVÉ ZÁJEMCE O
-  NEPRAVIDELNÉ KONZULTACE PŘEVÁŽNĚ V DOPOLEDNÍCH HODINÁCH. </b></p><p> Termín prvního setkání si můžete sjednat
+  </p><p><b> NYNÍ NEPŘIJÍMÁM NOVÉ ZÁJEMCE O
+  SPOLUPRÁCI. </b></p><p> Termín prvního setkání si můžete sjednat
   přes SMS na telefonním čísle 776 433 599 nebo můžete využít níže uvedený
   formulář. Při objednávání prosím uveďte svůj věk, časové možnosti a stručně
   popište důvod pro vyhledání pomoci. Když mám k dispozici volné termíny pro
