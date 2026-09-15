@@ -40,7 +40,7 @@ secondSegmentBody: >-
   src="assets/images/20260505_103341.jpg" style="max-width:100%;padding:1rem
   0;"><p><b> Cena: </b></p><p><b> 60 minut za 1.300 Kč </b> - jednorázové či
   nepravidelné poradenské konzultace, doprovázení akutní krizí, podpůrná terapie
-  1x14 nebo více dní </p><p><b> 50 minut za 1.000 Kč </b> - dlouhodobá
+  1x14 nebo více dní </p><p><b> 50 minut za 1.100 Kč </b> - dlouhodobá
   systematická terapie 1x týdně </p><p> Platí se přímo na schůzce, hotově nebo
   mobilním bankovnictvím prostřednictvím QR kódu.  </p><p><b> Ve spolupráci se
   mnou můžete 1x ročně využít příspěvku na tzv. "psychosociální podporu", tedy
